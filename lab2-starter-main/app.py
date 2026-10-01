@@ -1,8 +1,9 @@
+import os
 from pathlib import Path
 
 import streamlit as st
 
-from rag_core import EvidenceStore, build_due_diligence_report, change_control_review
+from rag_core import EvidenceStore, build_due_diligence_report, change_control_review, generate_ai_report
 
 
 ROOT = Path(__file__).resolve().parent
@@ -31,6 +32,23 @@ with st.sidebar:
     st.metric("Searchable chunks", stats["chunks"])
     st.caption(f"Backend: {stats['backend']}")
     st.warning("The brief says 1,000 documents; only 750 were supplied.")
+    st.divider()
+    st.subheader("Optional AI synthesis")
+    entered_api_key = st.text_input(
+        "OpenAI API key",
+        type="password",
+        help="Kept only in this browser session; alternatively set OPENAI_API_KEY as a Codespaces secret.",
+    )
+    api_key = entered_api_key or os.getenv("OPENAI_API_KEY", "")
+    model = st.selectbox(
+        "Report model",
+        ["gpt-4o", "gpt-4o-mini", "gpt-5-pro"],
+        help=(
+        "GPT-4o is the recommended default; "
+        "GPT-4o Mini is cheaper; "
+        "GPT-5 Pro is strongest but may take several minutes."
+    ),
+)
 
 report_tab, search_tab, clauses_tab, about_tab = st.tabs(
     ["Board report", "Evidence search", "Control clauses", "Methodology"]
@@ -40,9 +58,25 @@ with report_tab:
     st.subheader("Preliminary Board report")
     if "report" not in st.session_state:
         st.session_state.report = build_due_diligence_report(store)
-    if st.button("Regenerate from current index"):
+        st.session_state.report_mode = "Local evidence report"
+    local_col, ai_col = st.columns(2)
+    if local_col.button("Regenerate local report", use_container_width=True):
         with st.spinner("Running the risk workplan…"):
             st.session_state.report = build_due_diligence_report(store)
+            st.session_state.report_mode = "Local evidence report"
+    if ai_col.button("Generate enhanced AI report", use_container_width=True, disabled=not api_key):
+        try:
+            with st.spinner(f"Synthesising the retrieved evidence with {model}…"):
+                st.session_state.report = generate_ai_report(store, api_key=api_key, model=model)
+                st.session_state.report_mode = f"AI-enhanced report ({model})"
+        except Exception as exc:
+            st.error(f"AI generation failed: {exc}")
+            st.info("The local evidence report remains available; check the API key, model access and billing.")
+    if not api_key:
+        st.caption("Add an API key in the sidebar to enable AI synthesis. Local search and reporting still work without it.")
+    else:
+        st.caption("Only the locally selected evidence pack is sent to the API, not the full 750-document corpus.")
+    st.success(f"Current output: {st.session_state.report_mode}")
     st.markdown(st.session_state.report)
     st.download_button(
         "Download report (.md)", st.session_state.report,
@@ -86,6 +120,9 @@ with about_tab:
 3. ChromaDB stores deterministic local embeddings; search then reranks results using exact legal-language overlap.
 4. A fixed M&A risk workplan retrieves evidence for the instructed risks and other material issues.
 5. The report quotes the evidence and retains file/line citations. No external API or confidential-data upload is required.
+
+Optionally, the retrieved evidence pack can be sent to the OpenAI Responses API for higher-quality synthesis.
+The API is never used for primary retrieval or clause detection, and the local report remains available as a fallback.
 
 This is rapid document triage. It does not determine privilege, authenticity, execution status, completeness or legal effect.
         """
