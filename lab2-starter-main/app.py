@@ -3,7 +3,13 @@ from pathlib import Path
 
 import streamlit as st
 
-from rag_core import EvidenceStore, build_due_diligence_report, change_control_review, generate_ai_report
+from rag_core import (
+    EvidenceStore,
+    build_due_diligence_report,
+    change_control_review,
+    generate_ai_report,
+    generate_deep_analysis_report,
+)
 
 
 ROOT = Path(__file__).resolve().parent
@@ -59,7 +65,7 @@ with report_tab:
     if "report" not in st.session_state:
         st.session_state.report = build_due_diligence_report(store)
         st.session_state.report_mode = "Local evidence report"
-    local_col, ai_col = st.columns(2)
+    local_col, ai_col, deep_col = st.columns(3)
     if local_col.button("Regenerate local report", use_container_width=True):
         with st.spinner("Running the risk workplan…"):
             st.session_state.report = build_due_diligence_report(store)
@@ -72,11 +78,43 @@ with report_tab:
         except Exception as exc:
             st.error(f"AI generation failed: {exc}")
             st.info("The local evidence report remains available; check the API key, model access and billing.")
+    if deep_col.button("Deep analysis", use_container_width=True, disabled=not api_key):
+        progress_bar = st.progress(0.0)
+        progress_text = st.empty()
+
+        def update_progress(current: int, total: int, message: str) -> None:
+            progress_bar.progress(min(current / max(total, 1), 1.0))
+            progress_text.caption(message)
+
+        try:
+            st.warning("Deep analysis makes multiple API calls and may take several minutes.")
+            st.session_state.report, deep_stats = generate_deep_analysis_report(
+                store,
+                api_key=api_key,
+                synthesis_model=model,
+                extraction_model="gpt-4o-mini",
+                progress_callback=update_progress,
+            )
+            st.session_state.report_mode = f"Deep analysis ({model})"
+            st.session_state.deep_stats = deep_stats
+            st.success(
+                f"Reviewed {deep_stats['chunks_reviewed']} chunks in {deep_stats['batches']} batches; "
+                f"extracted {deep_stats['findings']} findings."
+            )
+        except Exception as exc:
+            st.error(f"Deep analysis failed: {exc}")
+            st.info("The previous report remains available. Check the API key, model access, billing and rate limits.")
     if not api_key:
         st.caption("Add an API key in the sidebar to enable AI synthesis. Local search and reporting still work without it.")
     else:
         st.caption("Only the locally selected evidence pack is sent to the API, not the full 750-document corpus.")
     st.success(f"Current output: {st.session_state.report_mode}")
+    if st.session_state.get("deep_stats") and st.session_state.report_mode.startswith("Deep analysis"):
+        st.caption(
+            f"Deep-analysis audit: {st.session_state.deep_stats['chunks_reviewed']} chunks • "
+            f"{st.session_state.deep_stats['batches']} extraction batches • "
+            f"{st.session_state.deep_stats['findings']} structured findings"
+        )
     st.markdown(st.session_state.report)
     st.download_button(
         "Download report (.md)", st.session_state.report,
@@ -123,6 +161,9 @@ with about_tab:
 
 Optionally, the retrieved evidence pack can be sent to the OpenAI Responses API for higher-quality synthesis.
 The API is never used for primary retrieval or clause detection, and the local report remains available as a fallback.
+
+Deep analysis broadens retrieval across ten diligence themes, extracts structured findings in bounded batches with
+GPT-4o Mini, then uses the selected report model for a final deduplicated synthesis. It makes multiple API calls.
 
 This is rapid document triage. It does not determine privilege, authenticity, execution status, completeness or legal effect.
         """
