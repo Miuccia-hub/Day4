@@ -1,0 +1,103 @@
+**SOFTWARE LICENSING AGREEMENT**
+
+**This Software Licensing Agreement ("Agreement") is made and entered into as of [Date], by and between Canvassian Pty Ltd, an Australian company with its principal place of business at [Canvassian's Address] ("Licensor"), and TechNova Solutions, a company with its principal place of business at [TechNova's Address] ("Licensee").**
+
+**RECITALS**
+
+WHEREAS, Licensor is in the business of developing and licensing software products;
+
+WHEREAS, Licensee desires to obtain a license to use certain software products of Licensor on the terms and conditions set forth herein;
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, the parties hereby agree as follows:
+
+**1. DEFINITIONS**
+
+1.1 "Software" means the proprietary software developed by Licensor, including related documentation and updates provided under this Agreement.
+
+1.2 "License Fee" means the fees payable by Licensee to Licensor for the licensed software as set forth in Exhibit A.
+
+1.3 "Effective Date" means the date on which this Agreement is executed by the parties.
+
+**2. GRANT OF LICENSE**
+
+2.1 Licensor hereby grants to Licensee a non-exclusive, non-transferable license to use the Software for Licensee's internal business purposes.
+
+2.2 This license is limited to the term specified in Section 4 and subject to the restrictions set forth in this Agreement.
+
+**3. DELIVERY AND INSTALLATION**
+
+3.1 Licensor shall deliver the Software to Licensee electronically within five (5) business days after the Effective Date.
+
+3.2 Licensee is responsible for the installation and integration of the Software.
+
+**4. TERM AND TERMINATION**
+
+4.1 The term of this Agreement shall commence on the Effective Date and continue for a period of two (2) years, unless earlier terminated in accordance with the provisions of this Agreement.
+
+4.2 Either party may terminate this Agreement for cause if the other party breaches any material term of this Agreement and fails to cure such breach within thirty (30) days after receiving written notice of the breach.
+
+4.3 Upon termination, Licensee shall cease all use of the Software and return or destroy all copies in its possession or control.
+
+**5. PAYMENT**
+
+5.1 Licensee shall pay Licensor the License Fee in accordance with the payment schedule set forth in Exhibit A.
+
+5.2 All fees are non-refundable and payable in Australian Dollars. Late payments shall accrue interest at the rate of 1.5% per month.
+
+**6. PROPRIETARY RIGHTS**
+
+6.1 Licensee acknowledges that the Software and all intellectual property rights therein are the exclusive property of Licensor.
+
+6.2 Licensee agrees not to remove, alter, or obscure any proprietary notices on the Software.
+
+**7. CONFIDENTIALITY**
+
+7.1 Each party agrees to maintain the confidentiality of the other party's proprietary information and not to disclose such information to any third party without the prior written consent of the disclosing party.
+
+**8. WARRANTY AND DISCLAIMER**
+
+8.1 Licensor warrants that the Software will perform substantially in accordance with the documentation for a period of ninety (90) days from the date of delivery.
+
+8.2 EXCEPT AS EXPRESSLY SET FORTH IN THIS SECTION, THE SOFTWARE IS PROVIDED "AS IS," AND LICENSOR DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+**9. INDEMNIFICATION**
+
+9.1 Licensee agrees to indemnify, defend, and hold harmless Licensor from any claims arising out of Licensee's use of the Software, except to the extent such claims are caused by the negligence or willful misconduct of Licensor.
+
+**10. LIMITATION OF LIABILITY**
+
+10.1 IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+10.2 Licensor's total liability for any and all claims arising out of or in connection with this Agreement shall not exceed the total amount of License Fees paid by Licensee to Licensor under this Agreement.
+
+**11. GENERAL PROVISIONS**
+
+11.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of Australia.
+
+11.2 Entire Agreement. This Agreement constitutes the entire agreement between the parties and supersedes all prior agreements and understandings, whether written or oral, relating to the subject matter hereof.
+
+11.3 Amendments. No modification or amendment of this Agreement shall be effective unless in writing and signed by both parties.
+
+11.4 Severability. If any provision of this Agreement is found to be unenforceable, it shall be modified to the minimum extent necessary to make it enforceable, and the remaining provisions shall continue in full force and effect.
+
+11.5 Assignment. Licensee may not assign this Agreement or any rights or obligations hereunder without the prior written consent of Licensor.
+
+**IN WITNESS WHEREOF, the parties have executed this Software Licensing Agreement as of the Effective Date.**
+
+**CANVASSIAN PTY LTD**  
+By: ___________________________  
+Name: Jane Wu  
+Title: CEO  
+
+**TechNova Solutions**  
+By: ___________________________  
+Name: John Smith  
+Title: CEO
+
+
+**EXHIBIT A: LICENSE FEE AND PAYMENT SCHEDULE**
+
+1. License Fee: AUD 50,000 payable in two installments.
+2. Payment Schedule:
+   - First Installment: AUD 25,000 due within 30 days from the Effective Date.
+   - Second Installment: AUD 25,000 due within 60 days from the Effective Date.

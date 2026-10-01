@@ -1,0 +1,94 @@
+**SOFTWARE LICENSING AGREEMENT**
+
+This Software Licensing Agreement ("Agreement") is made and entered into as of the ___ day of _______, 20__, by and between:
+
+**Licensor:**
+Canvassian Pty Ltd,
+ABN 12 345 678 910,
+Located at: 123 Software Avenue, Sydney, NSW, Australia
+
+AND
+
+**Licensee:**
+TechNova Solutions Pty Ltd,
+ABN 98 765 432 101,
+Located at: 456 Innovation Road, Melbourne, VIC, Australia
+
+**RECITALS**
+
+WHEREAS, Licensor is the owner of certain software products and related documentation as described herein; 
+
+WHEREAS, Licensee desires to license such software from Licensor in accordance with the terms and conditions contained in this Agreement;
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises herein contained, the parties hereby agree as follows:
+
+**1. DEFINITIONS**
+
+1.1 "Software" means the programs and related documentation listed in Exhibit A attached hereto and made a part hereof.
+
+1.2 "Licensed Use" means the use of the Software by Licensee for its internal business purposes.
+
+1.3 "Agreement Term" means the term of this Agreement as set forth in Section 7.1.
+
+**2. LICENSE GRANT**
+
+2.1 Subject to the terms and conditions of this Agreement, Licensor hereby grants to Licensee a non-exclusive, non-transferable, and non-sublicensable license to use the Software during the Agreement Term for the Licensed Use.
+
+**3. LICENSE FEE**
+
+3.1 In consideration for the license granted herein, Licensee shall pay Licensor a license fee in the amount and manner described in Exhibit B.
+
+**4. MAINTENANCE AND SUPPORT**
+
+4.1 Licensor shall provide to Licensee technical support and maintenance services as set forth in Exhibit C.
+
+**5. CONFIDENTIALITY**
+
+5.1 Licensee agrees to maintain the confidentiality of and protect the Software from unauthorized access or use.
+
+**6. INTELLECTUAL PROPERTY RIGHTS**
+
+6.1 All rights, title, and interest in and to the Software, including all related intellectual property rights, are and shall remain the property of Licensor.
+
+**7. TERM AND TERMINATION**
+
+7.1 This Agreement shall commence on the date first written above and shall continue for a period of one (1) year ("Initial Term"), and shall automatically renew for successive one (1) year terms, unless either party provides written notice of termination at least thirty (30) days prior to the end of the then-current term.
+
+7.2 Licensor may terminate this Agreement if Licensee breaches any material term of this Agreement and fails to cure such breach within thirty (30) days after written notice from Licensor.
+
+**8. LIMITATION OF LIABILITY**
+
+8.1 In no event shall Licensor be liable for any indirect, incidental, special, or consequential damages, including lost profits, arising out of or in connection with this Agreement.
+
+**9. GOVERNING LAW**
+
+9.1 This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia.
+
+**10. ENTIRE AGREEMENT**
+
+10.1 This Agreement, including the Exhibits attached hereto, constitutes the entire agreement between the parties with regard to the subject matter hereof. Any amendment or modification of this Agreement must be in writing and signed by authorized representatives of both parties.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the day and year first above written.
+
+**Canvassian Pty Ltd**
+By: ___________________________
+Name: Jane Wu
+Title: CEO
+
+**TechNova Solutions Pty Ltd**
+By: ___________________________
+Name: Michael Hastings
+Title: CEO
+
+**EXHIBIT A**
+Description of Software: [Insert detailed description of the software being licensed]
+
+**EXHIBIT B**
+License Fee and Payment Terms: [Insert detailed fee structure and payment schedule]
+
+**EXHIBIT C**
+Maintenance and Support Services: [Insert detailed description of support services provided]
+
+---
+
+End of Document

@@ -1,0 +1,62 @@
+**Software License Agreement**
+
+**This Software License Agreement ("Agreement")** is entered into as of this 1st day of October 2023, by and between Canvassian Pty Ltd, an Australian software company with its principal place of business at 123 Innovation Drive, Sydney, NSW 2000 ("Licensor"), and GreenCore Solutions Inc., a Delaware corporation with its principal place of business at 456 Enterprise Avenue, New York, NY 10001 ("Licensee").
+
+**Recitals**
+
+WHEREAS, Licensor has developed a proprietary software system known as "CanvassPro" (the "Software"); and
+
+WHEREAS, Licensee desires to obtain a license to use the Software in accordance with the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, the parties hereby agree as follows:
+
+**1. Grant of License.**
+1.1 Subject to the terms and conditions of this Agreement, Licensor hereby grants to Licensee a non-exclusive, non-transferable license to use the Software solely for Licensee's internal business purposes.
+
+**2. License Fee.**
+2.1 In consideration for the license granted herein, Licensee agrees to pay Licensor an annual license fee of $50,000, payable in advance on the first day of each contract year.
+
+**3. Term and Termination.**
+3.1 This Agreement shall commence on the Effective Date and continue for a term of one (1) year ("Initial Term"). Thereafter, this Agreement shall automatically renew for additional one (1) year terms unless either party provides written notice of non-renewal at least thirty (30) days prior to the expiration of the then-current term.
+3.2 Either party may terminate this Agreement upon thirty (30) days' written notice if the other party breaches any material provision of this Agreement and fails to cure such breach within such thirty (30) day period.
+
+**4. Support and Maintenance.**
+4.1 Licensor shall provide Licensee with standard support and maintenance services for the Software, including updates and enhancements, at no additional charge.
+
+**5. Proprietary Rights and Confidentiality.**
+5.1 Licensee acknowledges that the Software and all related documentation are the exclusive property of Licensor and are protected by Australian and international intellectual property laws.
+5.2 Licensee shall treat the Software and all related documentation as confidential and shall not disclose them to any third party without Licensor's prior written consent.
+
+**6. Warranties and Disclaimers.**
+6.1 Licensor warrants that the Software will perform substantially in accordance with the documentation for a period of ninety (90) days from the Effective Date. Licensor's sole obligation and Licensee's exclusive remedy for any breach of this warranty shall be Licensor's correction of the Software errors that cause non-conformance.
+6.2 EXCEPT AS EXPRESSLY PROVIDED IN THIS SECTION 6, LICENSOR DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+**7. Limitation of Liability.**
+7.1 IN NO EVENT SHALL LICENSOR BE LIABLE TO LICENSEE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE USE OF THE SOFTWARE.
+
+**8. General Provisions.**
+8.1 This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior agreements and understandings, whether written or oral, related to such subject matter.
+8.2 This Agreement shall be governed by and construed in accordance with the laws of Australia, without regard to its conflict of laws principles.
+8.3 Any notices required or permitted hereunder shall be given in writing and shall be deemed given upon receipt if delivered personally or by a nationally recognized courier service or three (3) days after mailing if mailed by certified or registered mail, return receipt requested, to the addresses set forth above.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+**LICENSOR:**
+Canvassian Pty Ltd
+
+By: _________________________  
+Name: Jane Wu  
+Title: CEO  
+Date: _______________________
+
+**LICENSEE:**
+GreenCore Solutions Inc.
+
+By: _________________________  
+Name: John Smith  
+Title: CEO  
+Date: _______________________
+
+---
+
+Note: This contract is a synthetic example created for illustrative purposes and may not cover all legal aspects for real-world applications. Always consult legal professionals for creating binding agreements.

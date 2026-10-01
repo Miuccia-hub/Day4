@@ -1,0 +1,96 @@
+**SOFTWARE LICENSE AGREEMENT**
+
+This Software License Agreement ("Agreement") is made and entered into on this 24th day of October, 2023 ("Effective Date") by and between:
+
+**Canvassian Pty Ltd**, an Australian company having its principal place of business at 123 Tech Avenue, Sydney, NSW 2000, Australia ("Licensor")
+
+and
+
+**Techinnovate Ltd**, a hypothetical company having its principal place of business at 456 Innovation Road, Melbourne, VIC 3000, Australia ("Licensee").
+
+**1. Definitions**
+
+1.1 "Software" means the proprietary software product developed and owned by Licensor known as "CanvassPlatform", including any updates, upgrades, modifications, and enhancements thereto provided to Licensee under this Agreement.
+
+1.2 "Documentation" means the user manuals, technical manuals, and any other materials provided by Licensor in printed, electronic, or other form that describe the installation, operation, use, or technical specifications of the Software.
+
+1.3 "Term" means the duration of this Agreement as specified in Section 7.1.
+
+**2. License Grant**
+
+2.1 Subject to the terms and conditions of this Agreement, Licensor hereby grants to Licensee a non-exclusive, non-transferable, and non-sublicensable license to install, use, and operate the Software and Documentation for Licensee's internal business purposes.
+
+2.2 Licensee shall not: 
+   a. Copy, modify, or create derivative works based on the Software or Documentation;
+   b. Reverse engineer, decompile, or disassemble the Software;
+   c. Rent, lease, lend, sell, sublicense, assign, distribute, publish, or transfer any part of the Software or Documentation to any third party.
+
+**3. Fees and Payment**
+
+3.1 Licensee shall pay Licensor a license fee of AUD $50,000 per annum for the use of the Software and Documentation ("License Fee").
+
+3.2 Payment of the License Fee shall be due within thirty (30) days of the Effective Date and annually thereafter on the anniversary of the Effective Date.
+
+**4. Maintenance and Support**
+
+4.1 Licensor shall provide Licensee with reasonable maintenance and support services for the Software during the Term of this Agreement, including any error corrections, patches, and updates that Licensor may develop.
+
+4.2 Such maintenance and support services shall be provided during Licensor's normal business hours, excluding public holidays.
+
+**5. Proprietary Rights**
+
+5.1 Licensee acknowledges that the Software and Documentation are the proprietary property of Licensor and contain valuable trade secrets and confidential information.
+
+5.2 Licensee agrees to preserve and protect the confidentiality of the Software and Documentation and the proprietary rights of Licensor therein.
+
+**6. Warranties and Disclaimers**
+
+6.1 Licensor warrants that the Software will perform substantially in accordance with the Documentation for a period of ninety (90) days from the Effective Date ("Warranty Period").
+
+6.2 If Licensee notifies Licensor in writing of any breach of the warranty set forth in Section 6.1 during the Warranty Period, Licensor's sole obligation shall be to use commercially reasonable efforts to correct such nonconformance.
+
+6.3 EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN THIS SECTION 6, THE SOFTWARE AND DOCUMENTATION ARE PROVIDED "AS IS" AND LICENSOR DISCLAIMS ALL OTHER WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+**7. Term and Termination**
+
+7.1 This Agreement shall commence on the Effective Date and continue for a period of three (3) years unless earlier terminated as provided herein.
+
+7.2 Either party may terminate this Agreement upon thirty (30) days' written notice to the other party if the other party breaches any material term of this Agreement and fails to cure such breach within such thirty (30) day period.
+
+7.3 Upon termination or expiration of this Agreement for any reason, the license granted hereunder shall immediately terminate, and Licensee shall promptly cease all use of the Software and Documentation and return or destroy all copies of the Software and Documentation in its possession.
+
+**8. Limitation of Liability**
+
+8.1 IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, REVENUE, DATA, OR DATA USE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8.2 IN NO EVENT SHALL LICENSOR'S AGGREGATE LIABILITY UNDER THIS AGREEMENT EXCEED THE TOTAL LICENSE FEE PAID BY LICENSEE TO LICENSOR DURING THE TWELVE (12) MONTH PERIOD IMMEDIATELY PRECEDING THE FIRST EVENT GIVING RISE TO LIABILITY.
+
+**9. General Provisions**
+
+9.1 This Agreement constitutes the entire agreement between the parties regarding the subject matter hereof and supersedes all prior or contemporaneous agreements, understandings, and communications, whether written or oral.
+
+9.2 This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia, without regard to its conflict of law principles.
+
+9.3 Any disputes arising out of or related to this Agreement shall be resolved in the courts of New South Wales, Australia, and each party consents to the exclusive jurisdiction of such courts.
+
+9.4 Neither party may assign this Agreement, in whole or in part, without the prior written consent of the other party, and any attempt to do so shall be void.
+
+9.5 No failure or delay by either party in exercising any right, power, or remedy under this Agreement shall operate as a waiver of any such right, power, or remedy.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Effective Date.
+
+**Canvassian Pty Ltd:**
+
+By: ____________________________
+
+Name: Jane Wu
+
+Title: CEO
+
+**Techinnovate Ltd:**
+
+By: ____________________________
+
+Name: Mark Thompson
+
+Title: CTO

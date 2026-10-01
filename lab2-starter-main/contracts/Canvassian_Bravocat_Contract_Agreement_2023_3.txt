@@ -1,0 +1,77 @@
+**CONTRACT AGREEMENT**
+
+**This Agreement** is made and entered into as of this 15th day of March, 2023, by and between:
+
+**1. Canvassian Pty Ltd**
+   Address: 101 Innovation Drive, Sydney, NSW, Australia 2000
+   ABN: 12 345 678 910
+   
+   (Hereinafter referred to as "Canvassian")
+
+AND
+
+**2. Bravocat**
+   Address: 55 Market Street, Melbourne, VIC, Australia 3000
+   ABN: 98 765 432 109
+   
+   (Hereinafter referred to as "Bravocat")
+
+**WHEREAS**, Canvassian is a software company engaged in the business of providing technology solutions and consulting services;
+
+**WHEREAS**, Bravocat desires to engage Canvassian to provide certain software development services as outlined in this Agreement;
+
+**NOW, THEREFORE**, in consideration of the mutual promises and covenants contained herein, the parties agree as follows:
+
+**1. Scope of Services**  
+Canvassian agrees to provide the following services to Bravocat:
+   - Development and customization of software applications
+   - Ongoing technical support and maintenance
+   - Consultation regarding software integration and implementation
+
+**2. Term**  
+This Agreement shall commence on March 15, 2023, and continue for a period of two (2) years, unless terminated earlier in accordance with Section 8 of this Agreement.
+
+**3. Compensation**  
+Bravocat agrees to pay Canvassian as follows:
+   - An initial deposit of AUD $50,000 due upon signing of this Agreement
+   - Remaining balance of AUD $150,000 to be paid in three equal installments of AUD $50,000 every six months thereafter. 
+
+Payments shall be made by electronic funds transfer to Canvassian's nominated bank account.
+
+**4. Project Timeline**  
+The parties agree to the following timeline for the services:
+   - Initial project kickoff meeting: March 30, 2023
+   - Completion of software development: September 30, 2023
+   - Final project review and adjustments: October 15, 2023
+
+**5. Confidentiality**  
+Both parties agree to keep confidential all proprietary information shared during the term of this Agreement and shall not disclose such information to any third party without prior written consent, except as required by law.
+
+**6. Intellectual Property Rights**  
+All intellectual property rights in the software developed as part of this Agreement shall belong to Bravocat, but Canvassian will retain the right to use the underlying technology and know-how in future projects.
+
+**7. Indemnification**  
+Each party shall indemnify and hold harmless the other from any claims or demands arising from the negligence or willful misconduct of the indemnifying party.
+
+**8. Termination**  
+Either party may terminate this Agreement with thirty (30) days written notice to the other party. Upon termination, Bravocat shall pay Canvassian for all services rendered up to the effective date of termination.
+
+**9. Governing Law**  
+This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia.
+
+**10. Entire Agreement**  
+This Agreement constitutes the entire agreement between the parties and supersedes any prior agreements or negotiations, whether written or oral, regarding the subject matter hereof.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the day and year first above written.
+
+**Canvassian Pty Ltd**  
+By: ___________________________  
+Name: Jane Wu  
+Title: CEO  
+Date: __________________________  
+
+**Bravocat**  
+By: ___________________________  
+Name: Martin Kao  
+Title: Managing Director  
+Date: __________________________  

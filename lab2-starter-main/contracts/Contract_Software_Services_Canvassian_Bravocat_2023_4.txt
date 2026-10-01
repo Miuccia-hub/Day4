@@ -1,0 +1,75 @@
+**CONTRACT FOR SOFTWARE SERVICES**
+
+**THIS AGREEMENT** is made and entered into this 10th day of November 2023, by and between:
+
+**Canvassian Pty Ltd**  
+ABN: 12 345 678 901  
+Address: 123 Innovation Lane, Sydney, NSW 2000, Australia  
+(Hereinafter referred to as "Service Provider")
+
+AND
+
+**Bravocat**  
+ABN: 98 765 432 109  
+Address: 456 Market Street, Melbourne, VIC 3000, Australia  
+(Hereinafter referred to as "Client")
+
+**RECITALS**
+
+WHEREAS, the Client desires to engage Service Provider to perform software services as described herein, and  
+WHEREAS, Service Provider has the necessary skills and expertise to provide said services,  
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements herein contained, the parties hereto agree as follows:
+
+**1. SERVICES TO BE RENDERED**
+
+1.1 The Service Provider shall provide the following services:
+   - Software development and customization
+   - Technical support and maintenance for software solutions
+   - Consultation on software architecture and design
+
+**2. TERM OF AGREEMENT**
+
+2.1 This Agreement shall commence on November 15, 2023, and shall continue for a period of two (2) years unless terminated earlier as provided herein.
+
+**3. COMPENSATION**
+
+3.1 The Client agrees to pay the Service Provider a fee of AUD 300,000 per year, payable in quarterly installments.
+
+**4. CONFIDENTIALITY**
+
+4.1 Both parties agree to keep confidential all proprietary and confidential information exchanged during the term of this Agreement.
+
+**5. CHANGE IN CONTROL**
+
+5.1 In the event of a change in control of either party, the affected party shall notify the other party in writing within thirty (30) days of the change.
+
+5.2 A "Change in Control" is defined as the acquisition by any individual or entity, directly or indirectly, of fifty percent (50%) or more of the voting securities of the party, or the sale of all or substantially all of the assets of the party.
+
+5.3 Upon notice of a Change in Control, the other party shall have the right to terminate this Agreement, without penalty, within sixty (60) days of receipt of such notice.
+
+**6. TERMINATION**
+
+6.1 Either party may terminate this Agreement upon thirty (30) days prior written notice to the other party.
+
+**7. GOVERNING LAW**
+
+7.1 This Agreement shall be governed by and construed in accordance with the laws of New South Wales, Australia.
+
+**8. ENTIRE AGREEMENT**
+
+8.1 This Agreement represents the entire agreement between the parties and supersedes all prior discussions, contracts, or agreements.
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed by their respective officers on the day and year first above written.
+
+**SERVICE PROVIDER**:  
+Canvassian Pty Ltd  
+__________________________  
+Jane Wu, Chief Executive Officer  
+
+**CLIENT**:  
+Bravocat  
+__________________________  
+John Smith, Chief Operating Officer  
+
+**DATE:** November 10, 2023

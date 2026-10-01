@@ -1,0 +1,113 @@
+**Software Services Agreement**
+
+**This Software Services Agreement (the "Agreement") is made and entered into as of the 1st day of October, 2023 (the "Effective Date"), by and between:**
+
+**Canvassian Pty Ltd**  
+ACN: 123 456 789  
+Registered Office: 123 Tech Park, Sydney, NSW 2000, Australia  
+("Canvassian" or "Service Provider")
+
+**and**
+
+**Paywise Ltd**  
+ACN: 987 654 321  
+Registered Office: 456 Finance Avenue, Melbourne, VIC 3000, Australia  
+("Paywise" or "Client")
+
+**RECITALS**
+
+WHEREAS, Canvassian is in the business of providing software development and related services; and
+
+WHEREAS, Paywise desires to engage Canvassian to provide certain software services in accordance with the terms and conditions set forth herein;
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises herein contained, the parties hereto agree as follows:
+
+**1. SERVICES**
+
+1.1 **Scope of Services**. Canvassian agrees to provide the software development, integration, and maintenance services (the "Services") as described in Exhibit A attached hereto and made a part hereof.
+
+1.2 **Performance Standards**. Canvassian shall perform the Services in a professional and workmanlike manner, consistent with industry standards.
+
+**2. TERM AND TERMINATION**
+
+2.1 **Term**. This Agreement shall commence on the Effective Date and shall continue for an initial term of one (1) year unless earlier terminated in accordance with Section 2.2. This Agreement shall automatically renew for successive one-year terms unless either party provides written notice of non-renewal at least ninety (90) days prior to the end of the then-current term.
+
+2.2 **Termination for Cause**. Either party may terminate this Agreement upon thirty (30) days written notice to the other party in the event of a material breach by the other party, provided that, during such notice period, the breaching party fails to cure such breach.
+
+2.3 **Termination for Convenience**. Paywise may terminate this Agreement for convenience upon sixty (60) days written notice to Canvassian.
+
+**3. FEES AND PAYMENT TERMS**
+
+3.1 **Fees**. In consideration for the Services to be provided hereunder, Paywise agrees to pay Canvassian the fees set forth in Exhibit B attached hereto and made a part hereof.
+
+3.2 **Payment Terms**. All invoices issued by Canvassian are due and payable within thirty (30) days of the date of invoice. Any amounts not paid when due shall accrue interest at the rate of 1.5% per month.
+
+**4. CONFIDENTIALITY**
+
+4.1 **Confidential Information**. “Confidential Information” means all non-public information disclosed by one party ("Disclosing Party") to the other party ("Receiving Party") that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information and the circumstances of the disclosure.
+
+4.2 **Obligations**. The Receiving Party agrees to (i) use the Confidential Information solely in connection with its performance under this Agreement; (ii) not disclose the Confidential Information to any third party without the prior written consent of the Disclosing Party; and (iii) protect the Confidential Information with the same degree of care it uses to protect its own confidential information, but in no event less than reasonable care.
+
+**5. INTELLECTUAL PROPERTY**
+
+5.1 **Ownership**. Canvassian shall retain all right, title, and interest in and to all intellectual property developed or provided by Canvassian in connection with the Services, including but not limited to software, documentation, and trademarks (collectively, "Canvassian IP").
+
+5.2 **License**. Subject to the terms and conditions of this Agreement, Canvassian hereby grants Paywise a non-exclusive, non-transferable, royalty-free license to use the Canvassian IP solely in connection with the use of the Services.
+
+**6. WARRANTIES AND DISCLAIMERS**
+
+6.1 **Mutual Warranties**. Each party represents and warrants to the other that (i) it has the full power and authority to enter into this Agreement and to perform its obligations hereunder; and (ii) this Agreement constitutes a legal, valid, and binding obligation of such party.
+
+6.2 **Disclaimer of Warranties**. EXCEPT AS EXPRESSLY PROVIDED HEREIN, THE SERVICES ARE PROVIDED "AS IS," AND CANVASSIAN DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+**7. INDEMNIFICATION**
+
+7.1 **Indemnification by Canvassian**. Canvassian shall indemnify, defend, and hold harmless Paywise from and against any and all third-party claims, liabilities, damages, and expenses (including reasonable attorneys' fees) arising out of or relating to any gross negligence or willful misconduct by Canvassian in connection with the performance of the Services.
+
+7.2 **Indemnification by Paywise**. Paywise shall indemnify, defend, and hold harmless Canvassian from and against any and all third-party claims, liabilities, damages, and expenses (including reasonable attorneys' fees) arising out of or relating to any gross negligence or willful misconduct by Paywise in connection with its use of the Services.
+
+**8. LIMITATION OF LIABILITY**
+
+8.1 **Exclusion of Damages**. IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8.2 **Cap on Liability**. THE AGGREGATE LIABILITY OF EITHER PARTY ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT SHALL NOT EXCEED THE AMOUNTS PAID BY PAYWISE TO CANVASSIAN DURING THE TWELVE (12) MONTHS PRECEDING THE DATE ON WHICH THE CLAIM AROSE.
+
+**9. GENERAL PROVISIONS**
+
+9.1 **Governing Law**. This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia, without regard to its conflict of law principles.
+
+9.2 **Entire Agreement**. This Agreement constitutes the entire agreement between the parties regarding the subject matter hereof and supersedes all prior or contemporaneous agreements, understandings, and communications, whether written or oral.
+
+9.3 **Amendments**. This Agreement may only be amended by a written instrument signed by both parties.
+
+9.4 **Waiver**. No waiver of any breach of any provision of this Agreement shall constitute a waiver of any prior, concurrent, or subsequent breach of the same or any other provisions hereof, and no waiver shall be effective unless made in writing and signed by an authorized representative of the waiving party.
+
+9.5 **Severability**. If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+9.6 **Notices**. All notices under this Agreement shall be in writing and shall be deemed to have been duly given when delivered personally, sent by registered mail, or sent by email to the respective addresses of the parties set forth above.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Effective Date.
+
+For Canvassian Pty Ltd:  
+By: ___________________________  
+Name: Jane Wu  
+Title: CEO  
+Date: __________________________
+
+For Paywise Ltd:  
+By: ___________________________  
+Name: John Doe  
+Title: CFO  
+Date: __________________________
+
+**EXHIBIT A**
+
+**Scope of Services**
+
+[Specific details of the software services to be provided, project milestones, deliverables, and timelines would be outlined here.]
+
+**EXHIBIT B**
+
+**Fees**
+
+[Specific details of the fees, including hourly rates, project costs, and payment schedule would be outlined here.]

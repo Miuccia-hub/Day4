@@ -1,0 +1,103 @@
+**SOFTWARE SERVICE AGREEMENT**
+
+**This Software Service Agreement** ("Agreement") is entered into as of October 15, 2023 ("Effective Date"), by and between:
+
+**Canvassian Pty Ltd**  
+170 King Street, Sydney, NSW 2000, Australia  
+(hereinafter referred to as “Provider”)
+
+and
+
+**Zentrify Solutions Ltd**  
+102 Milton Avenue, Melbourne, VIC 3000, Australia  
+(hereinafter referred to as “Client”).
+
+**RECITALS**
+
+WHEREAS, Provider is in the business of developing and providing software solutions and services; and
+
+WHEREAS, Client desires to obtain certain software services from Provider as detailed below.
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements herein contained, the parties agree as follows:
+
+**1. Services Provided**
+
+Provider agrees to provide the following software services to Client:
+
+1.1 Development of custom software applications tailored to Client’s business needs.
+
+1.2 Integration of existing solutions with new software applications.
+
+1.3 Ongoing maintenance and support of the provided software.
+
+1.4 Training sessions for Client’s staff on effective utilization of the software.
+
+**2. Term**
+
+This Agreement shall commence on the Effective Date and shall continue for a period of one (1) year. The Agreement may be extended upon mutual written consent of both parties.
+
+**3. Compensation**
+
+3.1 Fees. Client agrees to pay Provider the sum of AUD $250,000 for the services described in Section 1.
+
+3.2 Payment Schedule. The payment shall be made in four equal installments of AUD $62,500, due on the 15th day of each quarter following the Effective Date.
+
+3.3 Expenses. Client agrees to reimburse Provider for all reasonable out-of-pocket expenses incurred in connection with services provided, with prior approval from Client.
+
+**4. Confidentiality**
+
+4.1 Each party agrees to keep confidential all proprietary or confidential information of the other party and to use such information solely for the purposes of this Agreement.
+
+4.2 Neither party shall disclose such confidential information to any third party without the prior written consent of the other party.
+
+**5. Intellectual Property Rights**
+
+5.1 All intellectual property rights in the software, materials, and any modifications thereof are and shall remain the property of Provider.
+
+5.2 Client is granted a non-exclusive, non-transferable, and limited right to use the software solely for its internal business purposes.
+
+**6. Warranties and Representations**
+
+6.1 Provider warrants that the software will perform substantially in accordance with the documentation provided to Client.
+
+6.2 Provider does not warrant that the software will be error-free or uninterrupted.
+
+**7. Limitation of Liability**
+
+7.1 In no event shall Provider be liable to Client for any indirect, incidental, consequential, or punitive damages arising out of or related to this Agreement.
+
+7.2 Provider's total liability under this Agreement shall not exceed the total fees paid by Client to Provider.
+
+**8. Termination**
+
+8.1 Either party may terminate this Agreement upon thirty (30) days’ prior written notice if the other party is in material breach of any term of this Agreement and such breach remains uncured at the end of the notice period.
+
+8.2 Upon termination, Client shall pay Provider for all services rendered up to the effective date of termination.
+
+**9. Governing Law**
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia, without regard to its conflict of laws principles.
+
+**10. Miscellaneous**
+
+10.1 Entire Agreement. This Agreement constitutes the entire agreement between the parties and supersedes all prior and contemporaneous agreements, proposals, or representations, written or oral, concerning its subject matter.
+
+10.2 Amendments. This Agreement may only be amended by a written document duly executed by both parties.
+
+10.3 Waiver. No waiver by either party of any breach or default hereunder shall be deemed a waiver of any subsequent breach or default.
+
+10.4 Severability. If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Effective Date.
+
+**Provider: Canvassian Pty Ltd**
+
+_________________________  
+Jane Wu  
+CEO, Canvassian Pty Ltd
+
+**Client: Zentrify Solutions Ltd**
+
+_________________________  
+Mark Thompson  
+CEO, Zentrify Solutions Ltd

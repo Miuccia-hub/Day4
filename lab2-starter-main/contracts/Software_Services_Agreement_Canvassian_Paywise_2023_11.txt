@@ -1,0 +1,102 @@
+```
+***Software Services Agreement***
+
+**This Software Services Agreement ("Agreement") is made and entered into as of the 10th day of October, 2023 ("Effective Date"), by and between:**
+
+**1. Parties**
+
+**Canvassian Pty Ltd**  
+Registered Office: 45 Tech Avenue, Sydney, NSW 2000, Australia  
+("Supplier")
+
+and
+
+**Paywise Ltd**  
+Registered Office: 22 Finance Road, Melbourne, VIC 3000, Australia  
+("Client")
+
+(together referred to as the "Parties" and individually as a "Party").
+
+**2. Background**
+
+Whereas, the Supplier specializes in the development and provision of software solutions;  
+Whereas, the Client desires to procure certain software services from the Supplier;  
+Now, therefore, in consideration of the mutual covenants and promises hereinafter set forth, the Parties agree as follows:
+
+**3. Scope of Services**
+
+3.1 **Services**  
+The Supplier agrees to provide, and the Client agrees to procure, the software services described in Appendix A ("Services"). 
+
+3.2 **Deliverables**  
+The Supplier shall deliver the services and products specified in Appendix B ("Deliverables") in accordance with the timeline set forth in Appendix C.
+
+**4. Term and Termination**
+
+4.1 **Term**  
+This Agreement shall commence on the Effective Date and shall continue for a period of one (1) year unless terminated earlier in accordance with the provisions herein.
+
+4.2 **Termination for Convenience**  
+Either Party may terminate this Agreement for convenience upon thirty (30) days written notice to the other Party.
+
+4.3 **Termination for Cause**  
+Either Party may terminate this Agreement immediately if the other Party commits a material breach of this Agreement and fails to cure said breach within fifteen (15) days after receiving written notice of the breach.
+
+**5. Compensation and Payment Terms**
+
+5.1 **Fees**  
+The Client agrees to pay the Supplier the fees set forth in Appendix D ("Fees").
+
+5.2 **Invoicing and Payment**  
+Invoices shall be issued by the Supplier to the Client on a monthly basis. Payment is due within thirty (30) days of the invoice date. Late payments shall accrue interest at a rate of 1.5% per month.
+
+**6. Confidentiality**
+
+6.1 **Confidential Information**  
+Both Parties acknowledge that during the term of this Agreement, they may have access to confidential and proprietary information of the other Party. Both Parties agree to protect such information with the same degree of care as their own confidential information.
+
+6.2 **Survival**  
+The obligations of confidentiality shall survive the termination or expiration of this Agreement for a period of two (2) years.
+
+**7. Intellectual Property**
+
+All intellectual property rights in the Deliverables and any materials developed pursuant to this Agreement shall be owned by the Supplier. The Supplier grants the Client a non-exclusive, non-transferable license to use the Deliverables for its internal purposes only.
+
+**8. Limitation of Liability**
+
+In no event shall either Party be liable for any indirect, incidental, consequential, or punitive damages, including loss of profits, even if advised of the possibility of such damages.
+
+**9. Governing Law**
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia.
+
+**10. Miscellaneous**
+
+10.1 **Entire Agreement**  
+This Agreement, including its Appendices, constitutes the entire agreement between the Parties and supersedes all prior or contemporaneous understandings, agreements, negotiations, and communications, whether written or oral.
+
+10.2 **Amendments**  
+Any amendments or modifications to this Agreement must be made in writing and signed by duly authorized representatives of both Parties.
+
+10.3 **Notices**  
+All notices required or permitted under this Agreement shall be in writing and shall be deemed received when delivered personally or sent by certified mail, return receipt requested, to the addresses specified above.
+
+**IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first above written.**
+
+**Canvassian Pty Ltd**  
+By: __________________________  
+Name: Jane Wu  
+Title: CEO  
+
+**Paywise Ltd**  
+By: __________________________  
+Name: John Thomson  
+Title: CFO  
+
+**Appendices:**
+
+**Appendix A** - Description of Services  
+**Appendix B** - Deliverables  
+**Appendix C** - Project Timeline  
+**Appendix D** - Fees
+```

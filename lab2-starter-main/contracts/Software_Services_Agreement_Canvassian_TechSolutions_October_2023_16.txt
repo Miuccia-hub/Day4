@@ -1,0 +1,110 @@
+**Software Services Agreement**
+
+**This Software Services Agreement (the "Agreement") is entered into as of this 1st day of October, 2023 (the "Effective Date") by and between:**
+
+**Canvassian Pty Ltd ("Canvassian")**
+
+A Company incorporated and existing under the laws of Australia, with its principal place of business at:
+
+123 Innovation Lane,
+
+Sydney, NSW 2000, Australia
+
+And
+
+**TechSolutions Inc. ("Client")**
+
+A Company incorporated and existing under the laws of the State of California, with its principal place of business at:
+
+456 Market Street,
+
+San Francisco, CA 94105, USA
+
+*Collectively referred to as the "Parties" and individually as a "Party".*
+
+**WHEREAS:**
+
+1. Canvassian is in the business of developing, marketing, and providing software solutions and related services.
+2. The Client desires to obtain certain software development and related services from Canvassian.
+
+**NOW, THEREFORE, in consideration of the mutual covenants and promises herein contained, the Parties hereby agree as follows:**
+
+### 1. Scope of Services
+
+1.1 **Services**: Canvassian agrees to provide the Client with software development, customization, integration, and related services (the "Services") as described in Exhibit A attached hereto and made a part hereof.
+
+1.2 **Deliverables**: Canvassian shall deliver all deliverables according to the milestones and timeline outlined in Exhibit A.
+
+### 2. Payment Terms
+
+2.1 **Fees**: The Client agrees to pay Canvassian for the Services as specified in Exhibit B.
+
+2.2 **Invoice and Payment**: Canvassian shall invoice the Client upon completion of each milestone. Invoices are payable within thirty (30) days of the invoice date.
+
+2.3 **Late Payments**: Late payments shall be subject to a penalty of 1.5% per month on the outstanding balance.
+
+### 3. Confidentiality
+
+3.1 **Confidential Information**: Each Party may disclose certain confidential and proprietary information ("Confidential Information") to the other party. Confidential Information shall include all information that the disclosing party designates as confidential or that under the circumstances of disclosure ought to be treated as confidential.
+
+3.2 **Non-Disclosure**: The receiving party agrees not to disclose, use, or permit the use of Confidential Information for any purpose not directly related to the performance of this Agreement.
+
+### 4. Intellectual Property
+
+4.1 **Ownership of Work Product**: All right, title, and interest in and to any deliverables and related materials developed under this Agreement shall be owned by the Client, except for any underlying Canvassian's pre-existing software and materials.
+
+4.2 **License to Pre-existing Materials**: Canvassian grants the Client a non-exclusive, royalty-free, perpetual license to use any of Canvassian’s pre-existing software, materials, tools, and methodologies incorporated into the deliverables.
+
+### 5. Warranties and Disclaimers
+
+5.1 **Warranties**: Canvassian warrants that the Services will be performed in a professional and workmanlike manner and that the deliverables will materially conform to the specifications.
+
+5.2 **Disclaimer**: Except as expressly provided in this Agreement, Canvassian disclaims all other warranties, express or implied, including, but not limited to, any implied warranties of merchantability or fitness for a particular purpose.
+
+### 6. Limitation of Liability
+
+6.1 **Limitation**: To the maximum extent permitted by law, neither Party shall be liable for any indirect, incidental, special, or consequential damages, or damages for loss of profits, revenue, data, or use, incurred by the other party.
+
+6.2 **Cap on Liability**: Canvassian’s total liability under this Agreement for any reason shall not exceed the total amount paid by the Client to Canvassian hereunder.
+
+### 7. Term and Termination
+
+7.1 **Term**: This Agreement shall commence on the Effective Date and continue until the Services are completed, unless terminated earlier as provided herein.
+
+7.2 **Termination for Convenience**: Either Party may terminate this Agreement for any reason upon thirty (30) days written notice to the other Party.
+
+7.3 **Termination for Cause**: Either Party may terminate this Agreement immediately if the other Party breaches any material term of this Agreement and fails to cure such breach within fifteen (15) days of receiving written notice of such breach.
+
+### 8. Governing Law
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia, without regard to its conflict of law principles.
+
+### 9. Miscellaneous
+
+9.1 **Entire Agreement**: This Agreement, together with its Exhibits, represents the entire agreement between the Parties and supersedes all prior discussions, agreements, or understandings of any kind.
+
+9.2 **Amendment**: No amendment or modification of this Agreement shall be valid or binding upon the Parties unless in writing and signed by both Parties.
+
+9.3 **Waiver**: No waiver of any term or condition of this Agreement shall be valid or binding unless it is in writing and signed by the Party against which the waiver is to be enforced.
+
+9.4 **Severability**: If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+9.5 **Counterparts**: This Agreement may be executed in counterparts, each of which shall be deemed an original, and which together shall constitute one and the same agreement.
+
+**IN WITNESS WHEREOF, the Parties hereto have executed this Software Services Agreement as of the Effective Date.**
+
+**Canvassian Pty Ltd**
+
+By: ___________________________
+
+Name: Jane Wu
+
+Title: CEO 
+
+**TechSolutions Inc.**
+
+By: ___________________________
+
+Name: Michael Smith
+
+Title: CEO

@@ -1,0 +1,79 @@
+**CONTRACT FOR SOFTWARE SERVICES**
+
+**This Software Services Agreement (the "Agreement") is entered into effective as of this 1st day of October, 2023 (the "Effective Date"), by and between:**
+
+**Canvassian Pty Ltd**
+ABN: 43 760 578 951
+ACN: 619 142 086
+Address: 123 Tech Street, Sydney, NSW, Australia
+(hereinafter referred to as "Canvassian")
+
+AND
+
+**Paywise Ltd**
+ABN: 76 342 215 898
+ACN: 294 128 473
+Address: 456 Finance Lane, Melbourne, VIC, Australia
+(hereinafter referred to as "Client")
+
+**WHEREAS, Canvassian is a provider of custom software solutions;**
+
+**WHEREAS, Client desires to engage Canvassian to provide software development services pursuant to the terms and conditions of this Agreement;**
+
+**NOW, THEREFORE, in consideration of the mutual promises contained herein, the parties hereby agree as follows:**
+
+### 1. **Scope of Services**
+Canvassian agrees to provide the Client with the following software development services (the "Services"):
+- Development of an integrated payroll management system tailored to Client's specifications.
+- Maintenance and support for a period of 12 months post-delivery.
+- Regular updates and feature enhancements based on Client's feedback.
+
+### 2. **Deliverables**
+Canvassian will deliver the following:
+- A fully functional payroll management system by 1st March, 2024.
+- Detailed user documentation and training sessions for Client's staff.
+
+### 3. **Service Fees**
+The Client agrees to pay Canvassian the total amount of AUD 500,000 for the Services, payable as follows:
+- 20% (AUD 100,000) upon signing this Agreement.
+- 40% (AUD 200,000) upon delivery of a working prototype.
+- 40% (AUD 200,000) upon final delivery and acceptance by the Client.
+
+### 4. **Confidentiality**
+Each party agrees to treat all information disclosed by the other party (hereinafter referred to as "Confidential Information") as confidential and will not disclose such information to any third party or use it for any purpose other than in connection with the performance of this Agreement.
+
+### 5. **Intellectual Property**
+All Intellectual Property generated as a result of this Agreement shall be owned by Canvassian. The Client will be granted a non-exclusive, non-transferable license to use the software for its internal business purposes.
+
+### 6. **Warranties and Representations**
+Canvassian warrants that:
+- The software will conform to the specifications agreed upon with the Client.
+- It has the right to enter into this Agreement and provide the Services.
+
+### 7. **Limitations of Liability**
+Neither party shall be liable to the other for any special, indirect, incidental, or consequential damages under this Agreement. Canvassian's total liability under this Agreement shall not exceed the total amount paid by the Client to Canvassian.
+
+### 8. **Term and Termination**
+This Agreement shall commence on the Effective Date and shall continue until the completion of Services unless terminated earlier by either party with 30 days' written notice. In the event of termination, Canvassian shall be compensated for all Services performed up to the date of termination.
+
+### 9. **Governing Law**
+This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia.
+
+### 10. **Entire Agreement**
+This Agreement constitutes the entire agreement between the parties and supersedes all prior or contemporaneous understandings or agreements, written or oral, regarding such subject matter.
+
+### IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+**CANVASSIAN PTY LTD:**
+
+By: ___________________________  
+Name: Jane Wu  
+Title: CEO  
+
+**PAYWISE LTD:**
+
+By: ___________________________  
+Name: Richard Thompson  
+Title: CFO  
+
+Date: _____________________

@@ -1,0 +1,99 @@
+**Software Service Agreement**
+
+This Software Service Agreement ("Agreement") is entered into as of the ___ day of ____________ 20__, by and between:
+
+**Canvassian Pty Ltd**, an Australian company with its principal place of business at [Street Address], [City], Australia ("Provider"),
+
+and,
+
+**Innovate Solutions Inc.**, a company with its principal place of business at [Street Address], [City], [Country] ("Client").
+
+**1. Services**
+
+1.1 Provider agrees to provide the following services to Client ("Services"):
+   - Custom software development.
+   - Software maintenance and support.
+   - User training and documentation.
+
+1.2 Detailed description of Services to be delivered is specified in Exhibit A attached hereto and made a part of this Agreement.
+
+**2. Term**
+
+2.1 This Agreement shall commence on the ___ day of ____________ 20__, and shall continue for a period of twelve (12) months, unless terminated earlier in accordance with the terms herein ("Term").
+
+2.2 The Term may be extended by mutual written agreement of the parties.
+
+**3. Fees and Payment**
+
+3.1 Client agrees to pay Provider the fees set forth in Exhibit B attached hereto.
+
+3.2 Payment shall be made within thirty (30) days of receipt of an invoice from Provider.
+
+3.3 All fees are exclusive of taxes, and Client shall be responsible for all applicable taxes.
+
+**4. Intellectual Property**
+
+4.1 All software, documentation, and other materials developed under this Agreement ("Deliverables") shall be owned by Client upon full payment of the fees.
+
+4.2 Provider retains the right to use any general knowledge, skills, and experience acquired during the performance of the Services, provided it does not use Client's confidential information.
+
+**5. Confidentiality**
+
+5.1 Each party agrees to keep confidential all confidential information disclosed by the other party.
+
+5.2 Confidential information shall not include information that is:
+   - Known to the receiving party at the time of disclosure.
+   - Publicly available.
+   - Rightfully obtained from a third party.
+
+**6. Warranties and Disclaimers**
+
+6.1 Provider warrants that the Services will be performed in a professional and workmanlike manner.
+
+6.2 Provider does not warrant that the software will be error-free or that all errors will be corrected.
+
+6.3 Except as expressly stated herein, the software and Services are provided "as is" without warranty of any kind.
+
+**7. Limitation of Liability**
+
+7.1 In no event shall Provider be liable for any indirect, incidental, or consequential damages.
+
+7.2 Provider's total liability under this Agreement shall not exceed the fees paid by Client.
+
+**8. Termination**
+
+8.1 Either party may terminate this Agreement for cause upon thirty (30) days written notice to the other party, if the other party is in breach of this Agreement and fails to cure such breach within such notice period.
+
+8.2 Upon termination, Client shall pay Provider for all Services rendered and expenses incurred up to the date of termination.
+
+**9. Governing Law**
+
+9.1 This Agreement shall be governed by and construed in accordance with the laws of [State/Country].
+
+**10. Entire Agreement**
+
+10.1 This Agreement, including its Exhibits, constitutes the entire agreement between the parties and supersedes all prior agreements and understandings.
+
+**IN WITNESS WHEREOF**, the parties have executed this Agreement as of the date first above written.
+
+**Provider: Canvassian Pty Ltd**
+
+By: ___________________________  
+Name:                         Jane Wu  
+Title:                           CEO  
+
+**Client: Innovate Solutions Inc.**
+
+By: ___________________________  
+Name:                         [Client's Representative's Name]  
+Title:                           [Client's Representative's Title]  
+
+---
+
+**Exhibit A - Description of Services**
+
+Detailed description of software development, maintenance, support, and training services to be provided.
+
+**Exhibit B - Fees**
+
+Detailed fee structure for Services to be provided.

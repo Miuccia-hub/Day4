@@ -1,0 +1,21 @@
+Subject: Urgent: Your Account Needs Verification!
+
+Dear Valued Customer,
+
+We hope this message finds you well. Our records indicate that there has been unusual activity detected on your account. To ensure your account's safety and security, we require you to verify your identity immediately.
+
+Please click on the link below to confirm your account details:
+
+[Verify My Account](#)
+
+Failure to verify your account within the next 24 hours will result in suspension of your account. We apologize for any inconvenience this may cause and appreciate your cooperation in keeping your information safe.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+Customer Support Team  
+ManageYourAccount.com  
+Contact us: support@manageaccount.com  
+1-800-555-0199  
+Disclaimer: This email may contain confidential information. If you are not the intended recipient, please delete this email.

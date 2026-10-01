@@ -1,0 +1,28 @@
+**Subject:** Upcoming Project Updates and Timeline
+
+**From:** Claire Harrison, Project Manager  
+**To:** Edon Mask, CTO  
+
+---
+
+**Dear Edon,**
+
+I hope this message finds you well. I wanted to provide you with an update on our current projects and outline the anticipated timelines for each.
+
+1. **Canvassian Platform Upgrade:**  
+   We are on track to complete the initial phase by next week. The testing team will commence user testing on Monday and I’ll ensure you’re kept in the loop regarding any feedback we receive.
+
+2. **Client Onboarding for Paywise:**  
+   The process is moving along smoothly, with the new onboarding materials set to be finalized by Thursday. I would appreciate your input on the proposed demo, scheduled for next Friday.
+
+3. **Internal Training Sessions:**  
+   We are planning a series of training sessions for our new software tools that will start in two weeks. Please let me know if there are any specific areas you think we should focus on or if you’d like to lead any of the sessions.
+
+If you have any questions or suggestions regarding these projects, feel free to reach out.
+
+Best regards,  
+Claire Harrison  
+Project Manager  
+Canvassian Pty Ltd  
+claire.harrison@canvassian.com  
++61 2 5555 0195  

@@ -1,0 +1,28 @@
+Subject: Follow-Up on Product Development Meeting
+
+From: Sarah Johnson <sarah.johnson@canvassian.com>
+To: Edon Mask <edon.mask@canvassian.com>
+Cc: Jane Wu <jane.wu@canvassian.com>
+
+Dear Edon,
+
+I hope this message finds you well. I wanted to take a moment to follow up on our recent product development meeting held last Thursday. 
+
+During our discussions, we covered several key points regarding the next phases of our software development lifecycle, particularly in relation to the upcoming release scheduled for Q1 next year. As we approach our deadlines, I believe it would be beneficial to target specific areas for improvement and finalize our resource allocation.
+
+Here are the primary action items we outlined:
+1. Gather feedback from the sales team on the new features.
+2. Review the project timeline and adjust any critical paths as needed.
+3. Ensure that all compliance checks have been conducted prior to launch.
+
+Could you please provide an update on the status of these action items by the end of the week? Additionally, if there are any obstacles, I’m more than willing to assist in overcoming them.
+
+Thank you for your attention to these matters. Looking forward to your feedback.
+
+Best regards,
+
+Sarah Johnson  
+Product Manager  
+Canvassian Pty Ltd  
+Phone: +61 2 1234 5678  
+Email: sarah.johnson@canvassian.com  

@@ -1,0 +1,111 @@
+**SOFTWARE SERVICE AGREEMENT**
+
+**This Software Service Agreement (the "Agreement") is made and entered into as of this 15th day of October 2023, by and between:**
+
+**Canvassian Pty Ltd**, an Australian company with its principal place of business at 123 Innovation Drive, Melbourne, VIC 3000, Australia (hereinafter referred to as the "Provider"), and
+
+**Innovative Solutions Inc.**, a corporation with its principal place of business at 456 Discovery Lane, Sydney, NSW 2000, Australia (hereinafter referred to as the "Client").
+
+**RECITALS**
+
+WHEREAS, the Provider is in the business of developing and providing software solutions and services; and
+
+WHEREAS, the Client seeks to engage the Provider to provide certain software services as more particularly described herein, and the Provider agrees to provide such services under the terms and conditions set forth below.
+
+**NOW, THEREFORE, in consideration of the mutual covenants herein contained, the parties hereto agree as follows:**
+
+**1. DEFINITIONS**
+
+1.1 "Software" means the Provider's proprietary software product known as "CanvasFlow" and any Updates provided to the Client.
+
+1.2 "Services" means the implementation, integration, customization, support, and maintenance services described in Exhibit A attached hereto.
+
+1.3 "Updates" means any improvements, enhancements, modifications, or bug fixes to the Software provided by the Provider.
+
+**2. SCOPE OF SERVICES**
+
+2.1 The Provider agrees to provide the Services to the Client in accordance with the terms and conditions of this Agreement.
+
+2.2 The Services to be provided by the Provider shall be outlined in Exhibit A, which shall be updated from time to time by mutual written agreement of the parties.
+
+**3. TERM AND TERMINATION**
+
+3.1 This Agreement shall commence on the Effective Date and continue for an initial term of one (1) year (the "Initial Term"). Upon the expiration of the Initial Term, this Agreement will automatically renew for successive one (1) year terms unless terminated by either party upon thirty (30) days written notice prior to the end of the then-current term.
+
+3.2 Either party may terminate this Agreement for material breach by the other party if such breach is not corrected within thirty (30) days of receipt of written notice specifying the breach.
+
+**4. FEES AND PAYMENT TERMS**
+
+4.1 In consideration for the Services, the Client agrees to pay the fees set forth in Exhibit B.
+
+4.2 All invoices submitted by the Provider to the Client shall be payable within thirty (30) days of the invoice date.
+
+4.3 Late payments shall bear interest at the rate of 1.5% per month or the highest rate permitted by law, whichever is lower.
+
+**5. CONFIDENTIALITY**
+
+5.1 Each party agrees to treat all information provided by the other party as confidential and not to use such information except as necessary in the performance of its obligations under this Agreement.
+
+5.2 The parties agree not to disclose any confidential information to any third party without the prior written consent of the other party.
+
+**6. INTELLECTUAL PROPERTY**
+
+6.1 The Provider retains all right, title, and interest in and to the Software, including all intellectual property rights therein.
+
+6.2 The Client shall not, and shall not permit any third party to, reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software.
+
+**7. REPRESENTATIONS AND WARRANTIES**
+
+7.1 The Provider represents and warrants that the Services will be performed in a professional and workmanlike manner and in accordance with applicable industry standards.
+
+7.2 The Provider does not warrant that the Software will operate uninterrupted or error-free.
+
+**8. LIMITATION OF LIABILITY**
+
+8.1 In no event shall either party be liable for any indirect, incidental, special, or consequential damages, including lost profits, even if advised of the possibility of such damages.
+
+8.2 The total liability of each party under this Agreement, whether in contract, tort, or otherwise, shall not exceed the total fees paid by the Client to the Provider during the twelve (12) months preceding the event giving rise to the claim.
+
+**9. GENERAL PROVISIONS**
+
+9.1 **Governing Law:** This Agreement shall be governed by and construed in accordance with the laws of the State of Victoria, Australia.
+
+9.2 **Entire Agreement:** This Agreement constitutes the entire agreement between the parties and supersedes all prior agreements and understandings, whether written or oral, relating to the subject matter hereof.
+
+9.3 **Amendments:** Any amendment to this Agreement must be in writing and signed by both parties.
+
+9.4 **Notices:** All notices required or permitted under this Agreement shall be in writing and shall be deemed delivered when delivered in person, by overnight courier or email, or three (3) business days after being sent by certified mail, return receipt requested, to the addresses set forth above.
+
+**IN WITNESS WHEREOF**, the parties hereto have executed this Software Service Agreement as of the Effective Date.
+
+**Canvassian Pty Ltd**
+  
+**By:** _________________________  
+**Name:** Jane Wu  
+**Title:** CEO  
+  
+**Innovative Solutions Inc.**
+  
+**By:** _________________________  
+**Name:** Michael Smith  
+**Title:** CEO  
+
+**[EXHIBIT A]**
+
+**Scope of Services**
+
+1. Implementation of CanvasFlow software.
+2. Integration of CanvasFlow with existing Client systems.
+3. Customization of CanvasFlow as per Client requirements.
+4. Ongoing support and maintenance.
+5. Regular updates and enhancements.
+
+**[EXHIBIT B]**
+
+**Fees**
+
+1. Initial license fee: AU$50,000
+2. Monthly maintenance fee: AU$5,000
+3. Customization services: AU$150/hour
+
+**END OF DOCUMENT**

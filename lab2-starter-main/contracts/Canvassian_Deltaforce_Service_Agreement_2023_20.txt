@@ -1,0 +1,95 @@
+**Service Agreement**
+
+**This Service Agreement** ("Agreement") is made and entered into on this 15th day of October 2023, by and between:
+
+**Canvassian Pty Ltd**, an Australian corporation with its principal place of business at 210 Bourke St, Melbourne, Victoria 3000, Australia ("Service Provider"), and
+
+**Deltaforce Solutions**, a corporation with its principal place of business at 450 Collins St, Melbourne, Victoria 3000, Australia ("Client").
+
+**Recitals**
+
+WHEREAS, Service Provider is in the business of developing and providing software solutions and associated services; and
+
+WHEREAS, Client wishes to engage Service Provider to provide certain software services on the terms and conditions set forth herein;
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises herein contained, the parties hereto agree as follows:
+
+**1. Services Provided**
+
+1.1 Service Provider agrees to provide software development, implementation, and support services as further described in Schedule A attached hereto (the "Services").
+
+**2. Term and Termination**
+
+2.1 This Agreement shall commence on the date hereof and shall continue in effect for an initial term of one (1) year unless terminated earlier as provided herein. 
+
+2.2 Either party may terminate this Agreement upon thirty (30) days' written notice to the other party.
+
+**3. Fees and Payment**
+
+3.1 Client agrees to pay Service Provider for the Services in accordance with the fee schedule set forth in Schedule B attached hereto.
+
+3.2 Payments shall be due and payable within thirty (30) days from the date of invoice.
+
+**4. Confidentiality**
+
+4.1 Both parties agree to maintain the confidentiality of any confidential information disclosed during the term of this Agreement and for a period of two (2) years thereafter.
+
+**5. Intellectual Property**
+
+5.1 All intellectual property rights in the deliverables created pursuant to this Agreement shall be owned by Canvassian Pty Ltd. 
+
+5.2 Canvassian grants Deltaforce Solutions a non-exclusive, non-transferable license to use the deliverables for its internal business purposes.
+
+**6. Warranties**
+
+6.1 Service Provider warrants that the Services will be performed in a professional and workmanlike manner.
+
+6.2 Service Provider does not warrant that the deliverables will be error-free or that defects will be corrected.
+
+**7. Limitation of Liability**
+
+7.1 In no event shall either party be liable for any indirect, incidental, special, or consequential damages, including loss of profit or revenue.
+
+**8. Governing Law**
+
+8.1 This Agreement shall be governed by and construed in accordance with the laws of the State of Victoria, Australia.
+
+**9. Entire Agreement**
+
+9.1 This Agreement, together with all schedules and exhibits attached hereto, constitutes the entire agreement between the parties and supersedes all prior agreements, understandings, negotiations, and discussions, whether oral or written.
+
+**IN WITNESS WHEREOF**, the parties hereto have caused this Agreement to be executed by their duly authorized representatives as of the day and year first above written.
+
+**Canvassian Pty Ltd**
+
+By: _________________________________
+
+Name: Jane Wu  
+Title: CEO  
+Date: October 15, 2023  
+
+**Deltaforce Solutions**
+
+By: _________________________________
+
+Name: Michael Roberts  
+Title: COO  
+Date: October 15, 2023  
+
+**Schedule A**
+
+**Description of Services**
+
+- Software development tailored to Deltaforce's requirements.
+- Implementation and configuration services.
+- Technical support and maintenance.
+
+**Schedule B**
+
+**Fee Schedule**
+
+- Initial Development Fee: AUD $200,000
+- Monthly Maintenance Fee: AUD $5,000 per month
+- Additional Services (if required): AUD $150 per hour
+
+**End of Document**

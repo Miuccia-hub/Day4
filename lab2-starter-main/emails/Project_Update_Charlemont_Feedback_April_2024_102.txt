@@ -1,0 +1,20 @@
+Subject: Project Update and Next Steps
+
+From: Sarah Thompson <s.thompson@canvassian.com.au>  
+To: Mark Jackson <m.jackson@canvassian.com.au>  
+Date: April 12, 2024  
+
+Hi Mark,
+
+I hope this message finds you well!
+
+I wanted to touch base regarding our ongoing projects this quarter. The team has made excellent progress on the latest software update, and I believe we are on track for our timeline. 
+
+Additionally, I spoke with our account manager about Charlemont's upcoming needs. It seems they are interested in some new features that align perfectly with our current capabilities. I suggest we might want to prioritize integrating their feedback into our next sprint cycle to further strengthen our relationship with them.
+
+Let’s catch up later this week to discuss our progress and any challenges we might face. 
+
+Best regards,  
+Sarah Thompson  
+Product Manager  
+Canvassian Pty Ltd  

@@ -1,0 +1,118 @@
+**SOFTWARE SERVICES AGREEMENT**
+
+**This Software Services Agreement ("Agreement") is entered into as of October 10, 2023, ("Effective Date") by and between:**
+
+**Canvassian Pty Ltd.**
+An Australian Corporation
+ACN: 123 456 789
+Address: Level 4, 101 Collins Street, Melbourne, Victoria, 3000
+("Service Provider")
+
+**and**
+
+**NimbusTech Ltd.**
+A hypothetical Corporation
+Address: 200 Elm Street, Floor 5, Sydney, New South Wales, 2000
+("Client")
+
+**RECITALS:**
+
+WHEREAS, the Service Provider is engaged in the business of providing software development and related services; and
+
+WHEREAS, the Client desires to obtain certain software development services from the Service Provider as described herein.
+
+NOW, THEREFORE, in consideration of the promises and mutual covenants herein contained, the parties hereto agree as follows:
+
+**1. Scope of Services**
+
+1.1 The Service Provider agrees to provide the software development and consulting services described in Exhibit A ("Services") attached hereto and incorporated by reference. 
+
+1.2 The Service Provider shall render the Services in a professional and workmanlike manner, consistent with industry standards.
+
+**2. Term and Termination**
+
+2.1 This Agreement shall commence on the Effective Date and shall continue in full force and effect for a period of twelve (12) months ("Initial Term"), unless terminated earlier in accordance with the provisions of this Agreement. 
+
+2.2 After the Initial Term, this Agreement may be extended for additional periods upon mutual written agreement by both parties.
+
+2.3 Either party may terminate this Agreement upon thirty (30) days written notice to the other party.
+
+**3. Compensation**
+
+3.1 In consideration of the Services to be performed by the Service Provider, the Client shall pay the Service Provider as detailed in Exhibit B ("Compensation Schedule") attached hereto.
+
+3.2 Payment shall be made within thirty (30) days of receipt of an invoice from the Service Provider.
+
+**4. Confidentiality**
+
+4.1 During the term of this Agreement, each party may have access to certain confidential and proprietary information of the other party ("Confidential Information"). Each party agrees to protect such Confidential Information from unauthorized use or disclosure.
+
+4.2 Confidential Information does not include information that is (i) in the public domain, (ii) previously known to the receiving party, (iii) disclosed to the receiving party by a third party without breach of any obligation of confidentiality, or (iv) independently developed by the receiving party.
+
+**5. Intellectual Property**
+
+5.1 All intellectual property rights, including copyrights, patents, trademarks, and trade secrets, developed by the Service Provider in the performance of the Services hereunder shall remain the property of the Service Provider.
+
+5.2 The Client shall have a non-exclusive, non-transferable license to use the deliverables created by the Service Provider for its internal business purposes.
+
+**6. Warranties and Disclaimers**
+
+6.1 The Service Provider warrants that the Services will be performed in a professional and workmanlike manner and in accordance with the specifications set forth in Exhibit A.
+
+6.2 Except as expressly provided herein, the Service Provider disclaims all other warranties, express or implied, including any warranties of merchantability or fitness for a particular purpose.
+
+**7. Limitation of Liability**
+
+7.1 In no event shall either party be liable for any indirect, incidental, consequential, special, exemplary, or punitive damages arising out of or related to this Agreement.
+
+7.2 The Service Provider's total liability under this Agreement shall not exceed the total Compensation paid by the Client to the Service Provider under this Agreement.
+
+**8. Governing Law**
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of Victoria, Australia, without regard to its conflict of law principles.
+
+**9. Dispute Resolution**
+
+Any disputes arising out of or in connection with this Agreement shall be resolved by binding arbitration conducted in Melbourne, Victoria under the rules of the Australian Centre for International Commercial Arbitration (ACICA).
+
+**10. Miscellaneous**
+
+10.1 Entire Agreement. This Agreement, together with the Exhibits attached hereto, constitutes the entire agreement between the parties and supersedes all prior agreements and understandings, whether written or oral, relating to the subject matter hereof.
+
+10.2 Amendments. This Agreement may be amended only by a written instrument signed by both parties.
+
+10.3 Assignment. Neither party may assign this Agreement, in whole or in part, without the prior written consent of the other party.
+
+10.4 Notices. All notices under this Agreement shall be in writing and shall be deemed to have been duly given when received, if personally delivered; when receipt is electronically confirmed, if transmitted by facsimile or e-mail; or on the third business day after the date mailed, if sent by certified or registered mail, return receipt requested.
+
+**IN WITNESS WHEREOF, the parties hereto have executed this Software Services Agreement as of the Effective Date.**
+
+**Canvassian Pty Ltd.**
+By: _________________________                
+Name: Jane Wu
+Title: CEO
+
+**NimbusTech Ltd.**
+By: _________________________
+Name: John Smith
+Title: Director of Technology
+
+**EXHIBIT A – SCOPE OF SERVICES**
+
+The Service Provider shall provide the following services:
+
+- Custom software development tailored to Client's requirements
+- Consulting services for software architecture and design
+- Maintenance and support services
+- Integration of software solutions with existing systems
+
+**EXHIBIT B – COMPENSATION SCHEDULE**
+
+- Custom software development: $150 per hour
+- Consulting services: $200 per hour
+- Maintenance and support services: Monthly retainer of $5,000
+- Integration services: Project-based pricing to be determined based on scope
+
+---
+
+**(End of Agreement)**

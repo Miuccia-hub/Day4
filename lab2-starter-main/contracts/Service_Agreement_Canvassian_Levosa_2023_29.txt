@@ -1,0 +1,71 @@
+**Service Agreement**
+
+This Service Agreement ("Agreement") is made and entered into as of this 30th day of October, 2023, by and between Canvassian Pty Ltd, a software company incorporated under the laws of Australia, with its principal place of business at 123 Tech Avenue, Sydney, NSW 2000 ("Service Provider"), and Levosa Ltd, a company incorporated under the laws of Australia, with its principal place of business at 456 Business Park, Melbourne, VIC 3000 ("Client").
+
+**WHEREAS:**
+
+A. Service Provider is in the business of developing and supplying software solutions.
+B. Client desires to engage Service Provider to provide certain software development and related services.
+
+**NOW, THEREFORE, in consideration of the mutual covenants and promises herein contained, the parties hereto agree as follows:**
+
+1. **Definitions**
+   1.1 "Services" means the software development, support, and maintenance services described in Exhibit A attached hereto.
+   1.2 "Deliverables" means any software, documentation, reports, or other materials provided to the Client as part of the Services.
+
+2. **Scope of Services**
+   2.1 Service Provider agrees to perform the Services described in Exhibit A.
+   2.2 Any changes to the scope of Services must be agreed upon in writing by both parties.
+
+3. **Term and Termination**
+   3.1 This Agreement shall commence on the Effective Date and continue for a period of one (1) year unless terminated earlier in accordance with this Agreement.
+   3.2 Either party may terminate this Agreement for any reason upon thirty (30) days written notice to the other party.
+   3.3 Either party may terminate this Agreement immediately if the other party breaches a material term of this Agreement and fails to cure such breach within fifteen (15) days of receipt of written notice from the non-breaching party.
+
+4. **Fees and Payment**
+   4.1 Client shall pay Service Provider the fees described in Exhibit B. All fees are payable within thirty (30) days of the date of invoice.
+   4.2 If any invoice is not paid when due, Service Provider may suspend performance of the Services until such time as payment is made in full.
+
+5. **Confidentiality**
+   5.1 Each party agrees to hold the other party's Confidential Information in confidence and not to use or disclose such Confidential Information except as necessary to perform its obligations under this Agreement.
+   5.2 "Confidential Information" means any non-public information disclosed by one party to the other party that is identified as confidential or should reasonably be considered confidential under the circumstances.
+
+6. **Intellectual Property**
+   6.1 Service Provider retains all right, title, and interest in and to any intellectual property developed or provided by Service Provider under this Agreement.
+   6.2 Client shall have a non-exclusive, non-transferable license to use the Deliverables for its internal business purposes.
+
+7. **Warranties and Disclaimers**
+   7.1 Service Provider warrants that the Services will be performed in a professional and workmanlike manner.
+   7.2 EXCEPT AS EXPRESSLY PROVIDED IN THIS AGREEMENT, SERVICE PROVIDER DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+8. **Limitation of Liability**
+   8.1 IN NO EVENT SHALL SERVICE PROVIDER BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT.
+   8.2 SERVICE PROVIDER'S TOTAL LIABILITY TO CLIENT FOR ANY DIRECT DAMAGES SHALL NOT EXCEED THE TOTAL AMOUNT OF FEES PAID BY CLIENT TO SERVICE PROVIDER UNDER THIS AGREEMENT.
+
+9. **Governing Law**
+   9.1 This Agreement shall be governed by the laws of the State of New South Wales, Australia, without regard to its conflict of laws principles.
+
+10. **Miscellaneous**
+   10.1 This Agreement constitutes the entire agreement between the parties and supersedes all prior agreements and understandings, whether written or oral, relating to the subject matter hereof.
+   10.2 This Agreement may not be amended except in writing and signed by both parties.
+   10.3 Neither party may assign this Agreement without the prior written consent of the other party.
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed by their duly authorized representatives as of the day and year first above written.
+
+**Service Provider: Canvassian Pty Ltd**
+
+By: __________________________  
+Name: Jane Wu  
+Title: CEO
+
+**Client: Levosa Ltd**
+
+By: __________________________  
+Name: John Doe  
+Title: Managing Director
+
+**Exhibit A: Scope of Services**
+(Include detailed description of services to be provided)
+
+**Exhibit B: Fees**
+(Include detailed description of fee structure and payment terms)

@@ -1,0 +1,101 @@
+**SOFTWARE DEVELOPMENT AND SERVICES AGREEMENT**
+
+This SOFTWARE DEVELOPMENT AND SERVICES AGREEMENT (the "Agreement") is made and entered into this 15th day of September, 2023, by and between:
+
+**Canvassian Pty Ltd**  
+ABN 37 600 200 300  
+10 Technology Drive, Sydney, NSW 2000, Australia  
+("Canvassian" or the "Developer")
+
+AND
+
+**Innovate Solutions Inc.**  
+1234 Innovation Way, Melbourne, VIC 3000, Australia  
+("Innovate Solutions" or the "Client")
+
+**RECITALS**
+
+WHEREAS, the Client desires to engage the Developer to design, develop, and deliver certain software (the “Software”) and provide services related thereto; and
+
+WHEREAS, the Developer has expertise in software development and is willing to provide such services to the Client, all in accordance with the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the mutual promises and covenants contained herein, the parties hereto agree as follows:
+
+### 1. SCOPE OF WORK
+
+1.1. **Services**. The Developer agrees to provide software development services, including the design, development, testing, and delivery of the Software as described in Exhibit A attached hereto and incorporated herein by reference (the "Services").
+
+1.2. **Milestones and Deliverables**. The timeline for the completion of the Services, including key milestones and deliverables, shall be as specified in Exhibit B attached hereto and incorporated herein by reference (the "Timeline").
+
+### 2. COMPENSATION
+
+2.1. **Fees**. The Client agrees to pay the Developer for the Services in accordance with the payment schedule set forth in Exhibit C attached hereto and incorporated herein by reference (the "Payment Schedule").
+
+2.2. **Expenses**. The Client shall reimburse the Developer for reasonable and approved out-of-pocket expenses incurred by the Developer in connection with the performance of the Services.
+
+### 3. TERM AND TERMINATION
+
+3.1. **Term**. This Agreement shall commence on the date first above written and shall continue until the completion of the Services or until terminated in accordance with this Section 3.
+
+3.2. **Termination for Convenience**. Either party may terminate this Agreement for convenience upon thirty (30) days’ written notice to the other party.
+
+3.3. **Termination for Cause**. Either party may terminate this Agreement immediately upon written notice if the other party breaches any material term of this Agreement and fails to cure such breach within fifteen (15) days after receipt of written notice thereof from the non-breaching party.
+
+### 4. INTELLECTUAL PROPERTY
+
+4.1. **Work Product**. The Developer agrees that all work product and deliverables produced under this Agreement shall be the exclusive property of the Client. The Developer assigns all right, title, and interest in and to such work product and deliverables to the Client.
+
+4.2. **Developer Tools**. The Developer retains ownership of all pre-existing works, software, tools, and methodologies used by the Developer in providing the Services (the "Developer Tools"), provided that the Developer grants the Client a non-exclusive, royalty-free license to use the Developer Tools as necessary to utilize the work product and Services.
+
+### 5. CONFIDENTIALITY
+
+5.1. **Confidential Information**. Both parties acknowledge that during the course of performance under this Agreement, they may have access to certain confidential and proprietary information of the other party. Each party agrees to maintain the confidentiality of such information and not disclose it to any third party without the prior written consent of the disclosing party.
+
+### 6. WARRANTIES AND DISCLAIMERS
+
+6.1. **Warranties**. The Developer warrants that the Services will be performed in a professional and workmanlike manner in accordance with industry standards.
+
+6.2. **Disclaimer**. EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE DEVELOPER MAKES NO WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+### 7. INDEMNIFICATION
+
+7.1. **Indemnification**. Each party agrees to indemnify, defend, and hold harmless the other party from and against any and all claims, losses, liabilities, damages, costs, and expenses, including reasonable attorney's fees, arising out of or resulting from the performance of this Agreement by the indemnifying party.
+
+### 8. MISCELLANEOUS
+
+8.1. **Governing Law**. This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia.
+
+8.2. **Entire Agreement**. This Agreement, including all exhibits and attachments hereto, constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements and understandings, whether written or oral.
+
+8.3. **Amendment**. This Agreement may be amended only by a written document signed by both parties.
+
+8.4. **Severability**. If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+8.5. **Notices**. All notices required or permitted under this Agreement shall be in writing and shall be deemed delivered when delivered in person, by email (with confirmation of receipt), or three (3) days after being sent by registered or certified mail, postage prepaid, addressed to the parties at their respective addresses set forth above.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the day and year first above written.
+
+**CANVASSIAN PTY LTD**                    
+
+By: ______________________________  
+Jane Wu, CEO  
+
+**INNOVATE SOLUTIONS INC.**  
+
+By: ______________________________  
+Alexander Clark, CEO  
+
+**EXHIBIT A**  
+**Scope of Work**
+
+*[Detailed description of the Software and Services to be provided]*
+
+**EXHIBIT B**  
+**Timeline**
+
+*[Detailed timeline including key milestones and deliverables]*
+
+**EXHIBIT C**  
+**Payment Schedule**
+
+*[Detailed payment schedule and terms]*

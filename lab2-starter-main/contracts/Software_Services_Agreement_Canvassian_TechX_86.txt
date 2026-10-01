@@ -1,0 +1,84 @@
+---
+
+**Software Services Agreement**
+
+This Software Services Agreement ("Agreement") is made and entered into as of the [Effective Date], by and between:
+
+**Canvassian Pty Ltd,** a software company incorporated and registered in Australia with its principal place of business at [Canvassian Address] (hereinafter referred to as "Canvassian"), and
+
+**TechX Solutions Ltd,** a company incorporated and registered in [Country] with its principal place of business at [TechX Address] (hereinafter referred to as "Client").
+
+**Recitals**
+
+WHEREAS, Canvassian is in the business of developing and providing software solutions;
+
+WHEREAS, the Client desires to retain Canvassian to provide certain software development and support services as set forth in this Agreement;
+
+NOW THEREFORE, in consideration of the mutual covenants herein contained, the parties hereto agree as follows:
+
+**1. Scope of Services**
+   1.1 Canvassian shall perform the services described in Exhibit A of this Agreement ("Services").
+   1.2 The Services shall include, but not be limited to, software development, implementation, support, and maintenance.
+   1.3 Any modifications to the Services must be agreed upon in writing by both parties.
+
+**2. Term and Termination**
+   2.1 This Agreement shall commence on the Effective Date and shall continue for a period of one (1) year unless terminated earlier in accordance with this Agreement.
+   2.2 Either party may terminate this Agreement with thirty (30) days' written notice to the other party.
+   2.3 Upon termination, Canvassian shall return all Client data and documentation.
+
+**3. Compensation**
+   3.1 In consideration for the Services, the Client shall pay Canvassian the fees set forth in Exhibit B of this Agreement ("Fees").
+   3.2 All payments shall be made within thirty (30) days from the date of receipt of the invoice.
+   3.3 Any late payment shall accrue interest at a rate of 1.5% per month.
+
+**4. Confidentiality**
+   4.1 Each party agrees to keep confidential all information that is designated as confidential or which ought reasonably to be considered confidential.
+   4.2 This confidentiality obligation will survive the termination of this Agreement.
+
+**5. Intellectual Property**
+   5.1 Canvassian shall retain all right, title, and interest in and to any and all intellectual property developed under this Agreement.
+   5.2 The Client is granted a non-exclusive, non-transferable license to use the software developed under this Agreement solely for its internal purposes.
+
+**6. Warranties and Disclaimers**
+   6.1 Canvassian warrants that the Services will be performed in a professional and workmanlike manner.
+   6.2 Canvassian disclaims all other warranties, express or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose.
+
+**7. Limitation of Liability**
+   7.1 Neither party shall be liable for any indirect, incidental, consequential, or punitive damages.
+   7.2 Canvassian's total liability under this Agreement shall not exceed the amounts paid by the Client to Canvassian in the twelve (12) months preceding the event giving rise to the claim.
+
+**8. Governing Law**
+   8.1 This Agreement shall be governed by and construed in accordance with the laws of [Jurisdiction].
+
+**9. Miscellaneous**
+   9.1 Any amendment to this Agreement must be in writing and signed by both parties.
+   9.2 If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+   9.3 This Agreement constitutes the entire agreement between the parties and supersedes all prior agreements and understandings.
+
+**IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Effective Date.**
+
+**Canvassian Pty Ltd**  
+By: ___________________________  
+Name: Jane Wu  
+Title: CEO  
+Date: ___________________________
+
+**TechX Solutions Ltd**  
+By: ___________________________  
+Name: [Client Representative Name]  
+Title: [Client Representative Title]  
+Date: ___________________________
+
+---
+
+**Exhibit A - Scope of Services**
+
+[Detail the specific services to be provided by Canvassian]
+
+---
+
+**Exhibit B - Fees**
+
+[Detail the fees and payment schedule]
+
+---

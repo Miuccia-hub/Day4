@@ -1,0 +1,23 @@
+**From:** Sarah Johnson <s.johnson@canvassian.com.au>  
+**To:** David Thompson <d.thompson@canvassian.com.au>  
+**Subject:** Weekly Project Update  
+
+---
+
+Hi David,
+
+I hope this message finds you well!
+
+I wanted to provide you with an update on our current project status for the Paywise integration. As of today, we have completed the initial phases, including requirement gathering and development setup. The team has made significant progress on the prototype, and I am confident we are on track to meet our next milestone, which is scheduled for next week.
+
+Additionally, the feedback from our first round of client testing has been very positive. The product managers have addressed the suggestions, and we anticipate rolling out the next version shortly.
+
+Let me know if you would like to discuss this further or if you have any questions.
+
+Best regards,
+
+Sarah Johnson  
+Project Manager  
+Canvassian Pty Ltd  
+Phone: +61 2 1234 5678  
+Email: s.johnson@canvassian.com.au  

@@ -1,0 +1,102 @@
+**Service Agreement**
+
+**This Service Agreement ("Agreement") is made and entered into as of October 15, 2023, by and between:**
+
+**Canvassian Pty Ltd**
+ABN: 12 345 678 910
+Address: 123 Tech Street, Sydney, NSW 2000, Australia
+
+**and**
+
+**Bravocat Pty Ltd**
+ABN: 98 765 432 109
+Address: 456 Business Avenue, Melbourne, VIC 3000, Australia
+
+**RECITALS**
+
+WHEREAS, Canvassian Pty Ltd ("Service Provider") is engaged in the business of providing software development and maintenance services;
+
+WHEREAS, Bravocat Pty Ltd ("Client") desires to retain the services of the Service Provider to provide certain software development and maintenance services as described herein;
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, the parties hereto agree as follows:
+
+**1. Scope of Services**
+
+1.1 The Service Provider agrees to provide the Client with the following services ("Services"):
+   - Custom software development tailored to the Client's specifications.
+   - Software maintenance, including bug fixes and updates.
+   - Technical support and consulting as needed.
+
+1.2 The Services shall be provided in accordance with the specifications and timelines set out in **Exhibit A** attached hereto.
+
+**2. Term**
+
+2.1 This Agreement shall commence on the date first written above and shall continue for a period of twelve (12) months, unless earlier terminated in accordance with the terms of this Agreement.
+
+**3. Compensation**
+
+3.1 In consideration for the Services provided, the Client agrees to pay the Service Provider a fee of AUD 50,000 (Fifty Thousand Australian Dollars) per month, payable within thirty (30) days of receipt of an invoice.
+
+3.2 Any additional work or changes to the scope of Services that result in higher costs shall be agreed upon in writing by both parties before any such work is commenced.
+
+**4. Confidentiality**
+
+4.1 Both parties acknowledge that performance under this Agreement may require access to confidential and proprietary information. Both parties agree to maintain the confidentiality of such information and not to disclose it to any third party without the other party’s prior written consent.
+
+**5. Intellectual Property**
+
+5.1 Any software, documentation, tools, or other materials developed under this Agreement by the Service Provider shall be and remain the exclusive property of the Service Provider, unless otherwise agreed in writing.
+
+5.2 The Client shall receive a non-exclusive, non-transferable license to use the software and related materials solely for its internal business purposes.
+
+**6. Warranties and Representations**
+
+6.1 The Service Provider warrants that the Services provided will meet the specifications described in **Exhibit A**.
+
+6.2 The Service Provider agrees to re-perform any Services not meeting the aforementioned warranty at no additional cost to the Client.
+
+**7. Termination**
+
+7.1 Either party may terminate this Agreement for any reason by providing thirty (30) days written notice to the other party.
+
+7.2 Either party may terminate this Agreement immediately if the other party breaches any material term or condition of this Agreement and fails to cure such breach within ten (10) days after receipt of written notice of such breach.
+
+**8. Limitation of Liability**
+
+8.1 In no event shall either party be liable to the other for any indirect, incidental, special, or consequential damages, including but not limited to, lost profits or revenue, even if advised of the possibility of such damages.
+
+**9. Governing Law**
+
+9.1 This Agreement shall be governed by and construed in accordance with the laws of New South Wales, Australia.
+
+**10. Dispute Resolution**
+
+10.1 Any disputes arising from or in connection with this Agreement shall be resolved through good faith negotiations between the parties.
+
+10.2 If the dispute cannot be resolved through negotiations, the parties agree to submit the dispute to mediation before pursuing any other legal remedies.
+
+**11. Miscellaneous**
+
+11.1 This Agreement constitutes the entire agreement between the parties and supersedes all prior or contemporaneous agreements and understandings, whether written or oral.
+
+11.2 No modification or amendment of this Agreement shall be effective unless made in writing and signed by both parties.
+
+11.3 If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+**IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.**
+
+**For Canvassian Pty Ltd:**
+
+/s/ Jane Wu  
+Jane Wu, Chief Executive Officer
+
+**For Bravocat Pty Ltd:**
+
+/s/ Michael Thompson  
+Michael Thompson, Chief Operating Officer
+
+**Exhibit A**  
+- Detailed Project Specifications  
+- Project Milestones  
+- Timelines  
+- Deliverables

@@ -1,0 +1,103 @@
+**SOFTWARE SERVICES AGREEMENT**
+
+**THIS SOFTWARE SERVICES AGREEMENT** (the "Agreement") is made and entered into as of this 1st day of October 2023, by and between Canvassian Pty Ltd, an Australian corporation having its principal place of business at 123 Innovation Road, Sydney, NSW 2000 ("Service Provider"), and TechWave Solutions, Inc., a company having its principal place of business at 789 Enterprise Ave, Melbourne, VIC 3000 ("Client").
+
+**RECITALS**
+
+WHEREAS, Service Provider is engaged in the business of providing software development and related services; and
+
+WHEREAS, Client desires to obtain certain software services from Service Provider;
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises herein contained, the parties hereto agree as follows:
+
+**1. DEFINITIONS**
+
+1.1 *Services*. "Services" shall mean the software development, implementation, and support services provided by Service Provider as described in Exhibit A attached hereto.
+
+1.2 *Deliverables*. "Deliverables" shall mean any and all software, documentation, reports, or other materials developed and provided by Service Provider to Client as part of the Services.
+
+**2. SERVICES AND DELIVERABLES**
+
+2.1 *Provision of Services*. Service Provider agrees to provide the Services to Client in accordance with the terms and conditions of this Agreement and Exhibit A.
+
+2.2 *Acceptance of Deliverables*. Client shall review each Deliverable upon delivery and shall notify Service Provider in writing within fifteen (15) business days if any Deliverable fails to conform to the specifications set forth in Exhibit A. If Client does not provide such notice within this period, the Deliverable shall be deemed accepted.
+
+**3. TERM AND TERMINATION**
+
+3.1 *Term*. This Agreement shall commence on the date first above written and shall continue in effect for a period of one (1) year ("Term"), unless earlier terminated in accordance with this Agreement.
+
+3.2 *Termination for Convenience*. Either party may terminate this Agreement upon thirty (30) days' prior written notice to the other party.
+
+3.3 *Termination for Cause*. Either party may terminate this Agreement immediately upon written notice if the other party breaches any material term of this Agreement and fails to cure such breach within fifteen (15) days after receiving written notice of such breach.
+
+**4. COMPENSATION**
+
+4.1 *Fees*. In consideration of the Services provided hereunder, Client shall pay Service Provider the fees set forth in Exhibit B attached hereto.
+
+4.2 *Payment Terms*. Unless otherwise specified in Exhibit B, all payments shall be due within thirty (30) days of the date of the corresponding invoice.
+
+4.3 *Expenses*. Client shall reimburse Service Provider for all reasonable and necessary expenses incurred in connection with the performance of Services, provided that such expenses are pre-approved in writing by Client.
+
+**5. OWNERSHIP AND INTELLECTUAL PROPERTY RIGHTS**
+
+5.1 *Ownership*. Service Provider retains all right, title, and interest in and to any pre-existing intellectual property, including but not limited to software and methodologies, that are used in connection with the Services.
+
+5.2 *License Grant*. Service Provider hereby grants to Client a non-exclusive, royalty-free, worldwide, perpetual license to use, copy, modify, and distribute the Deliverables solely for Client's internal business purposes.
+
+**6. CONFIDENTIALITY**
+
+6.1 *Confidential Information*. During the term of this Agreement and thereafter, each party agrees to protect the confidential information of the other party with the same degree of care it uses to protect its own confidential information, but in no event less than reasonable care. 
+
+6.2 *Exclusions*. Confidential information does not include information that (i) is or becomes publicly known through no fault of the receiving party, (ii) is rightfully received from a third party without restriction on disclosure, or (iii) was independently developed by the receiving party.
+
+**7. WARRANTIES AND DISCLAIMERS**
+
+7.1 *Service Provider Warranty*. Service Provider warrants that the Services will be performed in a professional and workmanlike manner in accordance with industry standards.
+
+7.2 *Disclaimer*. EXCEPT FOR THE EXPRESS WARRANTIES PROVIDED IN THIS SECTION 7, SERVICE PROVIDER DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+**8. INDEMNIFICATION**
+
+8.1 *Indemnification by Service Provider*. Service Provider shall indemnify, defend, and hold harmless Client from any third-party claims, damages, or liabilities arising from Service Provider's breach of its warranties under this Agreement.
+
+**9. LIMITATION OF LIABILITY**
+
+9.1 *Limitation on Types of Damages*. IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT.
+
+9.2 *Cap on Liability*. THE TOTAL LIABILITY OF EITHER PARTY UNDER THIS AGREEMENT SHALL NOT EXCEED THE AMOUNTS PAID BY CLIENT TO SERVICE PROVIDER UNDER THIS AGREEMENT.
+
+**10. GENERAL**
+
+10.1 *Governing Law*. This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia.
+
+10.2 *Notices*. All notices required under this Agreement shall be in writing and shall be deemed to have been given when delivered personally, sent by confirmed email, or mailed by registered or certified mail, return receipt requested, to the addresses set forth above.
+
+10.3 *Entire Agreement*. This Agreement, including its Exhibits, constitutes the entire agreement between the parties and supersedes all prior agreements or understandings, whether written or oral, concerning the subject matter hereof.
+
+10.4 *Amendments*. This Agreement may only be amended by a written instrument executed by both parties.
+
+10.5 *Severability*. If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Software Services Agreement as of the Effective Date.
+
+**SERVICE PROVIDER: Canvassian Pty Ltd**
+By: ___________________________
+Name: Jane Wu
+Title: CEO
+Date: October 1, 2023
+
+**CLIENT: TechWave Solutions, Inc.**
+By: ___________________________
+Name: Michael Smith
+Title: CEO
+Date: October 1, 2023
+
+**EXHIBIT A**
+
+**Services Description**
+(Service Provider to provide detailed description of services here)
+
+**EXHIBIT B**
+
+**Fee Schedule**
+(Service Provider to provide detailed fee schedule here)

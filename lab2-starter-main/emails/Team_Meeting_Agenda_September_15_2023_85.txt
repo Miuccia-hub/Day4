@@ -1,0 +1,34 @@
+**Email**
+
+Subject: Team Meeting Agenda for September 15th
+
+From: Sarah Thompson <sarah.thompson@canvassian.com>  
+To: Richard Albright <richard.albright@canvassian.com>  
+Date: September 13, 2023  
+
+Hi Richard,
+
+I hope this message finds you well. As we prepare for our team meeting scheduled for September 15th, I wanted to share the agenda with you ahead of time. 
+
+1. Project Updates
+   - Status reports from each team
+   - Discussion on client feedback
+
+2. New Client Acquisition Strategies
+   - Focus on increasing engagement with major clients like Paywise
+   - Brainstorming ideas for outreach
+
+3. Upcoming Product Launch
+   - Timeline and key deliverables
+   - Assigning responsibilities to team members
+
+4. Any Other Business
+
+Please review and let me know if you'd like to add anything to the agenda. Looking forward to our discussions.
+
+Best,  
+Sarah Thompson  
+Product Manager  
+Canvassian Pty Ltd  
+sarah.thompson@canvassian.com  
+(02) 9876 5432

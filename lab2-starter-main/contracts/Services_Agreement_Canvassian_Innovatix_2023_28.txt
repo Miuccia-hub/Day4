@@ -1,0 +1,81 @@
+**SERVICES AGREEMENT**
+
+This Services Agreement ("Agreement") is made and entered into this 15th day of October, 2023 ("Effective Date") by and between Canvassian Pty Ltd ("Service Provider"), a corporation organized and existing under the laws of Australia, with its principal office located at 123 Tech Ave, Sydney, NSW, Australia, and Innovatix Solutions Ltd ("Client"), a corporation organized and existing under the laws of Australia, with its principal office located at 456 Enterprise Blvd, Melbourne, VIC, Australia.
+
+**Recitals**
+
+WHEREAS, Service Provider is in the business of developing, implementing, and maintaining software solutions;
+
+WHEREAS, Client desires to engage Service Provider to provide certain software development services as more fully described herein;
+
+NOW, THEREFORE, in consideration of the mutual promises and covenants herein contained, the parties hereto agree as follows:
+
+**1. Services**
+
+1.1 Scope of Work. Service Provider agrees to perform the services described in Exhibit A attached hereto and made a part hereof ("Services").
+
+1.2 Delivery Schedule. The Services shall be delivered in accordance with the schedule set forth in Exhibit B attached hereto.
+
+**2. Compensation**
+
+2.1 Fees. As consideration for the Services to be provided by Service Provider, Client agrees to pay Service Provider the fees set forth in Exhibit C attached hereto ("Fees").
+
+2.2 Payment Terms. Service Provider shall invoice Client on a monthly basis. Client shall pay each invoice within thirty (30) days after receipt.
+
+**3. Intellectual Property Rights**
+
+3.1 Ownership. All intellectual property rights in the deliverables created by Service Provider in the performance of the Services ("Deliverables") shall be owned by Client, subject to Service Provider’s rights in any pre-existing materials that are incorporated into the Deliverables.
+
+3.2 License. Service Provider hereby grants to Client a non-exclusive, worldwide, royalty-free, perpetual license to use, reproduce, modify, and distribute any pre-existing materials incorporated into the Deliverables.
+
+**4. Confidentiality**
+
+4.1 Confidential Information. Each party agrees to keep confidential and to use only for purposes of performing this Agreement, any proprietary or confidential information of the other party disclosed in connection with this Agreement and marked as confidential or proprietary ("Confidential Information").
+
+4.2 Obligations. Each party agrees to take all reasonable steps to ensure that Confidential Information is not disclosed or distributed by its employees, agents, or contractors in violation of the terms of this Agreement.
+
+**5. Warranties**
+
+5.1 Service Provider Warranties. Service Provider represents and warrants that:
+a) It has the necessary expertise, skill, and resources to provide the Services;
+b) The Services shall be performed in a professional and workmanlike manner.
+
+5.2 Disclaimer. EXCEPT AS EXPRESSLY SET FORTH IN THIS SECTION 5, SERVICE PROVIDER MAKES NO WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+**6. Limitation of Liability**
+
+IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE TOTAL LIABILITY OF SERVICE PROVIDER FOR ANY CLAIMS ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT SHALL NOT EXCEED THE TOTAL AMOUNT PAID BY CLIENT TO SERVICE PROVIDER UNDER THIS AGREEMENT.
+
+**7. Term and Termination**
+
+7.1 Term. This Agreement shall commence on the Effective Date and continue until the completion of the Services, unless earlier terminated as provided herein.
+
+7.2 Termination for Cause. Either party may terminate this Agreement for cause if the other party breaches any material term of this Agreement and fails to cure such breach within thirty (30) days after receipt of written notice.
+
+**8. General Provisions**
+
+8.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia, without regard to its conflicts of law principles.
+
+8.2 Assignment. Neither party may assign this Agreement without the prior written consent of the other party.
+
+8.3 Entire Agreement. This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements, understandings, and negotiations.
+
+8.4 Amendments. No amendment or modification of this Agreement shall be valid or binding unless in writing and signed by both parties.
+
+**IN WITNESS WHEREOF, the parties hereto have executed this Services Agreement as of the Effective Date.**
+
+**CANVASSIAN PTY LTD**
+
+By: ____________________
+
+Name: Jane Wu
+
+Title: Chief Executive Officer
+
+**INNOVATIX SOLUTIONS LTD**
+
+By: ____________________
+
+Name: Alex Johnson
+
+Title: Chief Operating Officer

@@ -1,0 +1,83 @@
+**Software License and Services Agreement**
+
+**This Software License and Services Agreement** ("Agreement") is made as of October 1, 2023, by and between Canvassian Pty Ltd ("Licensor"), an Australian corporation with its principal place of business at 123 Tech Drive, Sydney, Australia, and Paywise Pty Ltd ("Licensee"), an Australian corporation with its principal place of business at 456 Finance Avenue, Melbourne, Australia.
+
+**RECITALS**
+
+WHEREAS, Licensor is the developer and owner of certain software known as the "Canvassian Productivity Suite" (the "Software");
+
+WHEREAS, Licensee desires to obtain a license to use the Software and avail certain services from Licensor;
+
+NOW, THEREFORE, in consideration of the mutual covenants herein contained, the parties hereby agree as follows:
+
+**1. DEFINITIONS**
+
+1.1 "Software" means the Canvassian Productivity Suite, including any updates, upgrades, enhancements, modifications, new releases, and related documentation provided by the Licensor.
+
+1.2 "Services" means the support, maintenance, training, and other related services as further described in Exhibit A.
+
+**2. LICENSE GRANT**
+
+2.1 Subject to the terms and conditions of this Agreement, Licensor grants to Licensee a non-exclusive, non-transferable license to use the Software solely for Licensee’s internal business purposes.
+
+**3. TERM AND TERMINATION**
+
+3.1 This Agreement shall commence on the Effective Date and continue for an initial term of three (3) years, unless earlier terminated in accordance with this Agreement (the "Initial Term"). This Agreement will automatically renew for successive one (1) year terms (each a "Renewal Term") unless either party provides written notice of non-renewal to the other party at least ninety (90) days prior to the expiration of the Initial Term or any Renewal Term.
+
+3.2 Either party may terminate this Agreement upon thirty (30) days' written notice to the other party if the other party materially breaches this Agreement and does not cure such breach within the thirty (30) day notice period.
+
+**4. FEES AND PAYMENT**
+
+4.1 Licensee shall pay to Licensor the fees set forth in Exhibit B. All payments are due within thirty (30) days of receipt of invoice unless otherwise specified in Exhibit B.
+
+4.2 Any late payments shall accrue interest at a rate of one and one-half percent (1.5%) per month or the highest rate allowed by applicable law, whichever is lower.
+
+**5. SUPPORT AND MAINTENANCE**
+
+5.1 During the term of this Agreement, Licensor will provide support and maintenance services to Licensee in accordance with Exhibit A.
+
+**6. CONFIDENTIALITY**
+
+6.1 Each party agrees that all Confidential Information disclosed by the other party shall be held in strict confidence and used only for the purposes of this Agreement. "Confidential Information" means any proprietary information, technical data, trade secrets, or know-how disclosed by one party to the other.
+
+**7. WARRANTIES AND DISCLAIMER**
+
+7.1 Licensor warrants that the Software will perform substantially in accordance with the documentation during the term of this Agreement. 
+
+7.2 EXCEPT AS EXPRESSLY SET FORTH IN SECTION 7.1, THE SOFTWARE IS PROVIDED "AS IS" AND LICENSOR DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+**8. INDEMNIFICATION**
+
+8.1 Licensor agrees to indemnify, defend, and hold harmless Licensee from any and all claims, damages, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or in connection with any claim that the Software infringes any intellectual property rights of a third party.
+
+**9. LIMITATION OF LIABILITY**
+
+9.1 IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO THIS AGREEMENT, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+**10. GENERAL**
+
+10.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia, without regard to its conflict of laws principles.
+
+10.2 Entire Agreement. This Agreement constitutes the entire agreement between the parties and supersedes all prior or contemporaneous agreements, representations, and understandings.
+
+10.3 Amendments. Any amendments or modifications to this Agreement must be in writing and signed by both parties.
+
+10.4 Notices. All notices required or permitted under this Agreement shall be in writing and shall be deemed received upon delivery if delivered in person, three (3) days after being sent by registered or certified mail, or upon receipt if sent by internationally recognized overnight courier service, to the addresses set forth above or to such other addresses as either party may designate in writing.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Effective Date.
+
+**Canvassian Pty Ltd**  
+By:  
+/s/ Jane Wu  
+Name: Jane Wu  
+Title: CEO  
+
+**Paywise Pty Ltd**  
+By:  
+/s/ Michael Roberts  
+Name: Michael Roberts  
+Title: CFO
+
+**Exhibit A: Support and Maintenance Services**
+
+**Exhibit B: Fees and Payment Schedule**

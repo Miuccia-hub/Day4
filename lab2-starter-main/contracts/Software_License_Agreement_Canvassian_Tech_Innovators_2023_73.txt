@@ -1,0 +1,80 @@
+**SOFTWARE LICENSE AGREEMENT**
+
+**This Software License Agreement (the "Agreement") is made and entered into as of this 1st day of October, 2023 (the "Effective Date"), by and between Canvassian Pty Ltd, an Australian corporation having its principal place of business at 123 Tech Avenue, Sydney, Australia ("Licensor"), and Tech Innovators, Inc., a corporation having its principal place of business at 456 Innovation Road, San Francisco, CA, USA ("Licensee").**
+
+**WHEREAS**, Licensor is the owner of certain proprietary software known as "CanvasFlow" (the "Software");
+
+**AND WHEREAS**, Licensee desires to obtain a license to use the Software, and Licensor is willing to grant such a license under the terms and conditions set forth herein;
+
+**NOW, THEREFORE**, in consideration of the mutual covenants and promises contained herein, the parties hereto agree as follows:
+
+### 1. GRANT OF LICENSE
+1.1 **License**: Subject to the terms and conditions of this Agreement, Licensor hereby grants to Licensee a non-exclusive, non-transferable, limited license to use the Software solely for Licensee's internal business purposes.
+
+1.2 **Restrictions**: Licensee shall not:
+   - a) Copy, modify, or distribute the Software except as expressly permitted hereunder;
+   - b) Reverse engineer, decompile, or disassemble the Software;
+   - c) Use the Software to provide services to third parties as part of a service bureau or similar arrangement;
+   - d) Transfer or assign its rights under this Agreement without the prior written consent of Licensor.
+
+### 2. DELIVERY AND INSTALLATION
+2.1 **Delivery**: Licensor shall deliver the Software electronically to Licensee within five (5) business days of the Effective Date.
+
+2.2 **Installation**: Licensee shall be responsible for the installation of the Software. Licensor agrees to provide reasonable assistance and support during the installation process.
+
+### 3. FEES AND PAYMENT
+3.1 **License Fee**: In consideration for the license granted hereunder, Licensee shall pay to Licensor a one-time license fee of AUD $50,000, due and payable within thirty (30) days of the Effective Date.
+
+3.2 **Maintenance and Support Fees**: Licensee may elect to purchase annual maintenance and support services from Licensor for an additional fee of AUD $10,000 per annum.
+
+### 4. CONFIDENTIALITY
+4.1 **Confidential Information**: Each party acknowledges that it will have access to certain confidential and proprietary information of the other party during the term of this Agreement. Each party agrees to maintain the confidentiality of such information and not to disclose it to any third party without the prior written consent of the other party.
+
+4.2 **Exclusions**: Confidential Information shall not include information that:
+   - a) Is or becomes publicly known through no breach of this Agreement by the receiving party;
+   - b) Is already known by the receiving party at the time of disclosure;
+   - c) Is rightfully received from a third party without breach of any obligation of confidentiality.
+
+### 5. WARRANTIES AND DISCLAIMER
+5.1 **Limited Warranty**: Licensor warrants that the Software will perform substantially in accordance with the documentation provided with the Software for a period of ninety (90) days from the date of delivery.
+
+5.2 **Disclaimer**: Except as expressly set forth herein, the Software is provided "as is" and Licensor disclaims all warranties, whether express, implied, statutory or otherwise, including but not limited to the implied warranties of merchantability and fitness for a particular purpose.
+
+### 6. LIMITATION OF LIABILITY
+6.1 **Limitation on Damages**: In no event shall Licensor be liable for any incidental, consequential, special, or indirect damages, including without limitation, lost profits or revenues, business interruption, or loss of data, arising out of or in connection with this Agreement or the use or inability to use the Software, even if Licensor has been advised of the possibility of such damages.
+
+6.2 **Maximum Liability**: Licensor's total liability to Licensee for any damages arising out of or related to this Agreement shall not exceed the amount of the license fees paid by Licensee to Licensor hereunder.
+
+### 7. TERM AND TERMINATION
+7.1 **Term**: This Agreement shall commence on the Effective Date and shall continue in effect until terminated as provided herein.
+
+7.2 **Termination for Convenience**: Either party may terminate this Agreement for any reason, or no reason, upon thirty (30) days' written notice to the other party.
+
+7.3 **Termination for Cause**: Either party may terminate this Agreement immediately upon written notice if the other party breaches any material provision of this Agreement and fails to cure such breach within thirty (30) days after receiving written notice thereof.
+
+7.4 **Effect of Termination**: Upon termination of this Agreement, Licensee shall immediately cease all use of the Software and return or destroy all copies of the Software and related documentation in its possession.
+
+### 8. GENERAL PROVISIONS
+8.1 **Governing Law**: This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia, without regard to its conflict of laws principles.
+
+8.2 **Entire Agreement**: This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements, understandings, and representations, whether oral or written.
+
+8.3 **Amendments**: No modification or amendment of this Agreement shall be binding unless in writing and signed by both parties.
+
+8.4 **Severability**: If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+8.5 **Waiver**: The failure of either party to enforce any right or provision of this Agreement shall not constitute a waiver of future enforcement of that right or provision.
+
+**IN WITNESS WHEREOF**, the parties hereto have executed this Agreement as of the Effective Date.
+
+**CANVASSIAN PTY LTD**
+
+By: /s/ Jane Wu  
+Name: Jane Wu  
+Title: CEO  
+
+**TECH INNOVATORS, INC.**
+
+By: /s/ John Smith  
+Name: John Smith  
+Title: CEO

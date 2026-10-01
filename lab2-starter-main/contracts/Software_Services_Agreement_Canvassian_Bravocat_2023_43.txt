@@ -1,0 +1,92 @@
+**Software Services Agreement**
+
+**This Software Services Agreement ("Agreement") is made and entered into as of this _1st day of October 2023_, by and between Canvassian Pty Ltd ("Provider"), an Australian corporation with its principal place of business at 123 Tech Avenue, Sydney, NSW, Australia, and Bravocat Inc. ("Client"), a corporation with its principal place of business at 987 Innovation Drive, Melbourne, VIC, Australia.**
+
+**RECITALS**
+
+WHEREAS, Provider is in the business of developing, licensing, and providing software products and related services;
+
+WHEREAS, Client desires to obtain software services from Provider, and Provider agrees to provide such services under the terms and conditions set forth in this Agreement.
+
+**NOW, THEREFORE, in consideration of the mutual covenants and promises herein contained, the Parties hereby agree as follows:**
+
+### 1. DEFINITIONS
+**1.1 "Services"** shall mean the software development and consulting services to be provided by Provider to Client as described in Exhibit A attached hereto and made a part of this Agreement.
+
+**1.2 "Software"** shall refer to the proprietary software applications developed and provided by Provider to Client, including any updates, upgrades, bug fixes, patches, and enhancements thereto.
+
+**1.3 "Confidential Information"** shall mean all information disclosed by either Party to the other Party that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure. 
+
+### 2. SCOPE OF SERVICES
+**2.1 Provision of Services.** Provider agrees to design, develop, and deliver the Services described in Exhibit A in accordance with the timeline and milestones set forth therein.
+
+**2.2 Project Managers.** Each Party shall appoint a project manager to coordinate the implementation of the Services and act as the primary contact for the other Party.
+
+### 3. PAYMENT TERMS
+**3.1 Fees.** Client shall pay Provider for the Services in accordance with the fee schedule set forth in Exhibit B.
+
+**3.2 Invoices.** Provider shall invoice Client monthly for Services rendered, and Client agrees to pay the invoiced amounts within thirty (30) days of receipt of each invoice.
+
+**3.3 Taxes.** All fees are exclusive of taxes, and Client shall be responsible for all applicable taxes, excluding taxes based on Provider's net income.
+
+### 4. TERM AND TERMINATION
+**4.1 Term.** This Agreement shall commence on the Effective Date and continue for a period of one (1) year ("Initial Term"), unless earlier terminated in accordance with this Section 4.
+
+**4.2 Renewal.** Upon the expiration of the Initial Term, this Agreement may be renewed for additional one (1) year terms upon mutual written agreement of the Parties.
+
+**4.3 Termination for Convenience.** Either Party may terminate this Agreement for any reason upon sixty (60) days' prior written notice to the other Party.
+
+**4.4 Termination for Cause.** Either Party may terminate this Agreement immediately upon written notice if the other Party breaches any material term or condition of this Agreement and fails to cure such breach within thirty (30) days of receipt of written notice of such breach.
+
+### 5. INTELLECTUAL PROPERTY
+**5.1 Ownership.** Provider shall retain all right, title, and interest in and to the Software and any other intellectual property created or developed in the course of providing the Services.
+
+**5.2 License.** Provider grants Client a non-exclusive, non-transferable, limited license to use the Software solely for Client's internal business purposes.
+
+### 6. CONFIDENTIALITY
+**6.1 Obligations.** Each Party agrees to protect the Confidential Information of the other Party with the same degree of care it uses to protect its own confidential information, but in no event less than a reasonable degree of care.
+
+**6.2 Exceptions.** Confidential Information does not include information that is (i) publicly known through no wrongful act or omission of the receiving Party, (ii) rightfully received from a third party without breach of any obligation of confidentiality, or (iii) independently developed without use of or reference to the other Party's Confidential Information.
+
+### 7. WARRANTIES AND DISCLAIMERS
+**7.1 Provider Warranties.** Provider warrants that the Services shall be performed in a professional and workmanlike manner and in accordance with generally accepted industry standards.
+
+**7.2 Disclaimer.** Except as expressly provided in this Agreement, the Services and Software are provided "as is" without warranty of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose.
+
+### 8. LIMITATION OF LIABILITY
+**8.1 Limitation.** In no event shall either Party be liable to the other for any indirect, incidental, special, consequential, or punitive damages, including lost profits or revenues, whether in an action in contract, tort, or otherwise, even if the other Party has been advised of the possibility of such damages.
+
+### 9. MISCELLANEOUS
+**9.1 Governing Law.** This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia, without regard to its conflict of law principles.
+
+**9.2 Entire Agreement.** This Agreement constitutes the entire agreement between the Parties regarding its subject matter and supersedes all prior or contemporaneous agreements, understandings, and communications, whether written or oral.
+
+**9.3 Amendments.** No modification or amendment of this Agreement shall be effective unless made in writing and signed by both Parties.
+
+**9.4 Assignment.** Neither Party may assign this Agreement or any of its rights or obligations hereunder without the prior written consent of the other Party.
+
+**9.5 Severability.** If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+**9.6 Counterparts.** This Agreement may be executed in counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.
+
+### IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be executed by their duly authorized representatives as of the Effective Date.
+
+**Canvassian Pty Ltd**
+
+By: ____________________________________
+Jane Wu, CEO
+
+**Bravocat Inc.**
+
+By: ____________________________________
+Michael Thompson, CFO
+
+**Exhibit A: Description of Services**
+
+- Detailed scope of software development and consulting services to be provided.
+- Project timeline and milestones.
+
+**Exhibit B: Fee Schedule**
+
+- Detailed fee structure for Services, including hourly rates, fixed fees, or milestones-based payments.
+- Payment terms and conditions.

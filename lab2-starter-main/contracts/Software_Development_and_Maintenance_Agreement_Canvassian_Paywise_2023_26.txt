@@ -1,0 +1,108 @@
+**Software Development and Maintenance Agreement**
+
+**This Agreement** ("Agreement") is entered into as of this 25th day of October 2023 ("Effective Date"), by and between:
+
+**Canvassian Pty Ltd**  
+ACN: 123 456 789  
+Address: Level 10, 123 King Street, Sydney, NSW 2000, Australia  
+("Canvassian")
+
+and 
+
+**Paywise Pty Ltd**  
+ACN: 987 654 321  
+Address: Suite 5, 456 Queen Street, Melbourne, VIC 3000, Australia  
+("Client" or "Paywise")
+
+Collectively known as the "Parties".
+
+**1. Definitions**
+
+1.1 "Services" means the software development, maintenance, and technical support services to be provided by Canvassian as described in Schedule A attached hereto.
+
+1.2 "Deliverables" means any and all software, documentation, updates, and other materials developed by Canvassian for Paywise as described in Schedule B attached hereto.
+
+1.3 "Confidential Information" means any non-public information disclosed by either Party to the other Party that is designated as confidential or that the receiving Party should reasonably recognize as confidential given the nature of the information.
+
+**2. Services and Deliverables**
+
+2.1 Canvassian agrees to use its commercially reasonable efforts to provide the Services and Deliverables to Paywise in accordance with the terms and conditions of this Agreement.
+
+2.2 The Services shall be provided subject to the milestones and delivery schedule set forth in Schedule A of this Agreement.
+
+**3. Compensation**
+
+3.1 In consideration for the Services and Deliverables, Paywise agrees to pay Canvassian the fees set forth in Schedule C attached hereto (the "Fees").
+
+3.2 All invoices shall be payable by Paywise within thirty (30) days of receipt of an invoice from Canvassian.
+
+**4. Term and Termination**
+
+4.1 This Agreement shall commence on the Effective Date and shall continue in effect for a period of two (2) years unless terminated earlier in accordance with this Section 4.
+
+4.2 Either Party may terminate this Agreement upon thirty (30) days written notice to the other Party.
+
+**5. Confidentiality**
+
+5.1 Each Party agrees not to use the Confidential Information of the other Party for any purpose except as necessary to fulfill its obligations under this Agreement.
+
+5.2 Each Party agrees to protect the confidentiality of the other Party's Confidential Information with the same degree of care that it uses to protect its own confidential information, but in no event less than reasonable care.
+
+**6. Intellectual Property**
+
+6.1 Canvassian shall retain all right, title, and interest in and to the Deliverables, subject to the limited license granted to Paywise as set forth in Section 6.2.
+
+6.2 Canvassian hereby grants to Paywise a non-exclusive, non-transferable, worldwide license to use the Deliverables in connection with its internal business operations.
+
+**7. Warranties and Disclaimers**
+
+7.1 Canvassian represents and warrants that the Services will be performed in a professional and workmanlike manner in accordance with industry standards.
+
+7.2 Except as expressly provided in this Agreement, Canvassian disclaims all other warranties, express or implied, including but not limited to any implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+**8. Limitation of Liability**
+
+8.1 In no event shall either Party be liable for any indirect, incidental, special, or consequential damages, including loss of profits, revenue, data, or use, incurred by the other Party, even if advised of the possibility of such damages.
+
+**9. Governing Law**
+
+9.1 This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia, without regard to its conflict of law principles.
+
+**10. Entire Agreement**
+
+10.1 This Agreement, including all schedules, constitutes the entire agreement between the Parties with respect to its subject matter and supersedes all prior or contemporaneous understandings or agreements, whether written or oral, regarding such subject matter.
+
+IN WITNESS WHEREOF, the Parties hereto have executed this Agreement as of the Effective Date.
+
+**Canvassian Pty Ltd**
+
+By: ______________________
+
+Name: Jane Wu
+
+Title: CEO
+
+**Paywise Pty Ltd**
+
+By: ______________________
+
+Name: Michael Anderson
+
+Title: CFO
+
+------
+
+**Schedule A - Services**
+1. Develop and implement a custom financial software integration.
+2. Provide ongoing maintenance and technical support.
+3. Modify existing software based on client needs.
+
+**Schedule B - Deliverables**
+1. Fully functional financial integration software.
+2. User manuals and technical documentation.
+3. Periodic updates and patches.
+
+**Schedule C - Fees**
+1. Initial Development Fee: AUD $250,000.
+2. Monthly Maintenance Fee: AUD $15,000.
+3. Additional custom development: AUD $150/hour.

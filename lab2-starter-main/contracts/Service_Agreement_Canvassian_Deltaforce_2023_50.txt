@@ -1,0 +1,119 @@
+# SERVICE AGREEMENT
+
+**THIS SERVICE AGREEMENT** (the "Agreement") is made and entered into as of the 1st day of October, 2023 (the "Effective Date"), by and between:
+
+**Canvassian Pty Ltd**  
+ABN 56 123 456 789  
+Level 7, 50 Martin Place,  
+Sydney, NSW 2000,  
+Australia  
+(Hereinafter referred to as "Service Provider")
+
+AND
+
+**Deltaforce Ltd**  
+ABN 65 987 654 321  
+15 Eagle Street,  
+Brisbane, QLD 4000,  
+Australia  
+(Hereinafter referred to as "Client")
+
+**RECITALS**
+
+WHEREAS, the Service Provider is in the business of providing software development and IT consulting services; and
+
+WHEREAS, the Client desires to retain the Service Provider to provide certain services as described herein on the terms and conditions set forth in this Agreement.
+
+NOW, THEREFORE, in consideration of the mutual covenants herein contained, the parties hereby agree as follows:
+
+**1. SERVICES**
+
+1.1 **Scope of Services**. The Service Provider agrees to provide to the Client the services described in Schedule A attached hereto (the "Services").
+
+1.2 **Delivery of Services**. The Service Provider shall deliver the Services to the Client in accordance with the timelines and milestones set out in Schedule A.
+
+**2. TERM AND TERMINATION**
+
+2.1 **Term**. This Agreement shall commence on the Effective Date and shall continue in full force and effect until the completion of the Services, unless earlier terminated as provided herein.
+
+2.2 **Termination for Convenience**. Either party may terminate this Agreement at any time for any reason by providing thirty (30) days' written notice to the other party.
+
+2.3 **Termination for Cause**. Either party may terminate this Agreement immediately upon written notice if the other party breaches any material term or condition of this Agreement and fails to cure such breach within fifteen (15) days after receiving written notice of the breach.
+
+**3. COMPENSATION**
+
+3.1 **Fees**. The Client agrees to pay the Service Provider the fees set forth in Schedule B attached hereto for the performance of the Services.
+
+3.2 **Invoicing and Payment**. The Service Provider shall invoice the Client monthly in arrears for Services rendered during the preceding month. All invoices shall be due and payable within thirty (30) days of receipt.
+
+3.3 **Expenses**. The Client shall reimburse the Service Provider for all pre-approved, reasonable, and necessary expenses incurred by the Service Provider in connection with the performance of the Services.
+
+**4. CONFIDENTIALITY**
+
+4.1 **Confidential Information**. Each party acknowledges that during the term of this Agreement, it may receive or have access to certain confidential and proprietary information of the other party (the "Confidential Information"). Each party agrees to protect the Confidential Information of the other party with the same degree of care it uses to protect its own confidential information but in no event less than reasonable care.
+
+4.2 **Permitted Disclosure**. The obligations of confidentiality shall not apply to information that: (i) is or becomes publicly known through no act or omission of the receiving party; (ii) is received from a third party without breach of any obligation of confidentiality; (iii) is independently developed by the receiving party; or (iv) is required to be disclosed by law or regulatory authority.
+
+**5. INTELLECTUAL PROPERTY**
+
+5.1 **Ownership**. All intellectual property rights in and to the work product created, developed, or produced by the Service Provider in the performance of the Services ("Work Product") shall be owned by the Client. The Service Provider hereby assigns to the Client all rights, title, and interest in and to the Work Product.
+
+**6. WARRANTIES AND DISCLAIMERS**
+
+6.1 **Standard of Performance**. The Service Provider represents and warrants that it will perform the Services in a professional and workmanlike manner in accordance with industry standards.
+
+6.2 **Disclaimer**. Except as expressly provided in this Agreement, the Service Provider makes no other warranties, express or implied, including any implied warranties of merchantability or fitness for a particular purpose.
+
+**7. INDEMNIFICATION**
+
+7.1 **Indemnification by Service Provider**. The Service Provider shall indemnify, defend, and hold harmless the Client and its officers, directors, employees, and agents from and against any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or in connection with any breach by the Service Provider of its representations, warranties, or obligations under this Agreement.
+
+7.2 **Indemnification by Client**. The Client shall indemnify, defend, and hold harmless the Service Provider and its officers, directors, employees, and agents from and against any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or in connection with any breach by the Client of its representations, warranties, or obligations under this Agreement.
+
+**8. LIMITATION OF LIABILITY**
+
+8.1 **Limitation**. In no event shall either party be liable to the other party for any indirect, incidental, consequential, special, or punitive damages arising out of or related to this Agreement, even if advised of the possibility of such damages.
+
+8.2 **Cap on Liability**. The total cumulative liability of each party arising out of or related to this Agreement shall not exceed the total amount of fees paid by the Client to the Service Provider under this Agreement.
+
+**9. MISCELLANEOUS**
+
+9.1 **Entire Agreement**. This Agreement, including all schedules, constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous agreements, understandings, and communications, whether written or oral.
+
+9.2 **Amendments**. No modification or amendment to this Agreement shall be effective unless in writing and signed by both parties.
+
+9.3 **Governing Law**. This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia, without regard to its conflicts of laws principles.
+
+9.4 **Notices**. All notices, requests, consents, and other communications required or permitted under this Agreement shall be in writing and shall be deemed delivered when delivered in person or five days after being sent by certified or registered mail, return receipt requested, postage prepaid, to the addresses set forth above or to such other address as may be provided by the parties in writing.
+
+9.5 **Waiver**. The failure of either party to enforce any right or provision of this Agreement will not constitute a waiver of future enforcement of that right or provision.
+
+9.6 **Severability**. If any provision of this Agreement is held invalid or unenforceable, the remaining provisions of this Agreement will remain in full force and effect.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Effective Date.
+
+**Canvassian Pty Ltd**  
+
+By: _________________________  
+    Jane Wu, CEO  
+
+**Deltaforce Ltd**  
+
+By: _________________________  
+    Christopher Black, CEO  
+
+**SCHEDULE A - SCOPE OF SERVICES**
+
+The Service Provider shall provide the following services:
+1. Software development for Deltaforce's internal CRM system.
+2. IT consulting services to optimize Deltaforce's cloud infrastructure.
+3. Regular maintenance and support services for Deltaforce's software solutions.
+
+**SCHEDULE B - FEES**
+
+The Client agrees to pay the Service Provider the following fees:
+1. Software Development: AUD $200,000 (fixed fee) payable in two installments.
+2. IT Consulting Services: AUD $150 per hour, billed monthly.
+3. Maintenance and Support: AUD $50,000 per year, billed quarterly.
+
+[Signatures and dates]

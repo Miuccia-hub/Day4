@@ -1,0 +1,94 @@
+**SOFTWARE SERVICE AGREEMENT**
+
+**This Software Service Agreement ("Agreement") is made and entered into as of the ___ day of __________, 20__, by and between:**
+
+**Canvassian Pty Ltd,** an Australian Company, having its principal place of business at 123 Tech Avenue, Sydney, NSW 2000, Australia, ("Service Provider") and 
+
+**TechNova Solutions Ltd,** a hypothetical Company, with its principal place of business at 789 Innovation Drive, Melbourne, VIC 3000, Australia, ("Client").
+
+**RECITALS**
+
+WHEREAS, the Service Provider is in the business of developing and providing software solutions and related services;
+
+WHEREAS, the Client desires to retain the services of the Service Provider to provide certain software development and related services as more fully described herein:
+
+NOW, THEREFORE, in consideration of the mutual promises hereinafter set forth, the parties hereto agree as follows:
+
+### 1. **SERVICES**
+
+1.1 **Scope of Services** - Service Provider agrees to provide software development, maintenance, and support services ("Services") as detailed in Exhibit A attached hereto.
+
+1.2 **Deliverables** - All deliverables ("Deliverables") are described in Exhibit A. The Service Provider agrees to deliver these in accordance with the timeline stipulated.
+
+### 2. **TERM AND TERMINATION**
+
+2.1 **Term** - This Agreement shall commence on the Effective Date and continue for a period of one (1) year, unless terminated earlier in accordance with this Agreement. The Agreement may be renewed upon mutual written agreement by both parties.
+
+2.2 **Termination for Convenience** - Either party may terminate this Agreement for any reason by providing thirty (30) days written notice to the other party.
+
+2.3 **Termination for Cause** - Either party may terminate this Agreement immediately in the event of a material breach by the other party which is not cured within fifteen (15) days after receipt of written notice of such breach.
+
+### 3. **COMPENSATION**
+
+3.1 **Fees** - Client agrees to pay Service Provider an amount of AU$ _____ per hour, plus any applicable taxes, for Services performed under this Agreement.
+
+3.2 **Payment Terms** - Invoices will be issued monthly, and payments will be due within thirty (30) days of receipt of invoice. Late payments will incur interest at the rate of 1.5% per month.
+
+### 4. **CONFIDENTIALITY**
+
+4.1 **Confidential Information** - Both parties agree to keep confidential all information, whether conveyed orally, in writing, or through inspection of documents or premises, that is identified as proprietary or confidential or would be understood by reasonable judgment to be confidential ("Confidential Information").
+
+4.2 **Exclusions** - Confidential Information does not include information that is or becomes publicly known through no wrongful act or breach of this Agreement.
+
+### 5. **INTELLECTUAL PROPERTY**
+
+5.1 **Ownership** - Except as provided below, all right, title, and interest in and to any and all Deliverables and intellectual property related thereto shall be owned by Service Provider.
+
+5.2 **License to Client** - Upon full payment, Client shall have a non-exclusive, non-transferable, royalty-free license to use, for its internal business purposes, any Deliverables provided under this Agreement.
+
+### 6. **LIMITATION OF LIABILITY**
+
+6.1 **Exclusion of Damages** - In no event shall either party be liable to the other for any indirect, incidental, special, or consequential damages, including but not limited to loss of profits, data, or business opportunities, arising out of or in connection with this Agreement.
+
+6.2 **Limitation of Liability** - Service Provider's total liability under this Agreement shall be limited to the total amount paid by Client to Service Provider as of the date of the claim.
+
+### 7. **GENERAL PROVISIONS**
+
+7.1 **Governing Law** - This Agreement shall be governed and construed in accordance with the laws of the State of New South Wales, Australia.
+
+7.2 **Entire Agreement** - This Agreement, along with its Exhibits, constitutes the entire agreement between the parties and supersedes all prior or contemporaneous communications, representations, or agreements, whether oral or written.
+
+7.3 **Amendments** - Any amendments or modifications to this Agreement must be made in writing and signed by both parties.
+
+7.4 **Notices** - All notices shall be in writing and delivered to the addresses stated above or to such other address as a party may designate in writing.
+
+### IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the day and year first above written.
+
+**CANVASSIAN PTY LTD**
+
+By: __________________________          Date: __________________
+
+Name: Jane Wu  
+Title: Chief Executive Officer  
+
+**TECHNOVA SOLUTIONS LTD**
+
+By: __________________________          Date: __________________
+
+Name: John Smith  
+Title: Chief Executive Officer  
+
+
+
+**EXHIBIT A**
+
+**Scope of Services:**
+- Custom software development
+- Software maintenance and support
+- Integration with existing systems
+- User training and documentation
+
+**Deliverables:**
+- Software modules as per specifications
+- Monthly progress reports
+- Final project report and documentation

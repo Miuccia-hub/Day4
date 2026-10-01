@@ -1,0 +1,106 @@
+---
+
+**Service Agreement**
+
+**This Agreement is made this 5th day of October 2023, by and between:**
+
+**Canvassian Pty Ltd**  
+(Australian Business Number: 12 345 678 910)  
+Principal Office: 22 Technology Drive, Melbourne, VIC 3000, Australia  
+(hereinafter referred to as the "Service Provider")  
+
+**and**
+
+**Paywise Pty Ltd**  
+(Australian Business Number: 98 765 432 109)  
+Principal Office: 15 Financial Lane, Sydney, NSW 2000, Australia  
+(hereinafter referred to as the "Client")
+
+**1. Services to Be Provided**
+
+1.1 The Service Provider agrees to provide software solutions and maintenance services (the "Services") to the Client as specified in Schedule A.
+
+1.2 The Services shall include but not be limited to: software development, troubleshooting, periodic updates, and customer support as outlined in Schedule A.
+
+**2. Term of Agreement**
+
+2.1 This Agreement shall commence on the 5th of October 2023 and shall continue for a period of one (1) year unless extended or terminated as provided for in this Agreement.
+
+2.2 The Agreement may be extended upon mutual written consent of both parties.
+
+**3. Payment Terms**
+
+3.1 The Client agrees to pay the Service Provider a total fee of AUD $500,000 (inclusive of GST) for the Services provided under this Agreement.
+
+3.2 Payment shall be made as follows:
+   - 50% deposit upon the signing of this Agreement
+   - 25% upon the halfway completion of the Services
+   - 25% within 30 days of the final delivery of the Services
+
+3.3 Invoices will be issued by the Service Provider and payment shall be made by the Client within 14 days upon receipt of the invoice.
+
+**4. Confidentiality**
+
+4.1 Both parties agree to maintain the confidentiality of any proprietary information provided during the term of this Agreement.
+
+4.2 Confidential information shall not include information that:
+   - Is or becomes publicly known through no wrongful act of the receiving party
+   - Is received from a third party without breach of any confidentiality obligation
+   - Is independently developed by the receiving party
+
+**5. Intellectual Property**
+
+5.1 All intellectual property rights developed as a result of the Services provided shall be the exclusive property of the Client.
+
+5.2 The Service Provider shall not use any of the Client’s intellectual property for its own benefit or for the benefit of any third party.
+
+**6. Termination**
+
+6.1 Either party may terminate this Agreement with 30 days’ written notice to the other party.
+
+6.2 In the event of termination, the Service Provider shall be paid for all Services performed up to the date of termination.
+
+6.3 The Client may terminate immediately, if the Service Provider breaches any material term of this Agreement and fails to remedy the breach within 14 days of receiving written notice of the breach.
+
+**7. Governing Law**
+
+7.1 This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia.
+
+**8. Dispute Resolution**
+
+8.1 Any disputes arising out of or in connection with this Agreement shall be resolved through good faith negotiation between the parties.
+
+8.2 If disputes cannot be resolved through negotiation, they shall be submitted to mediation. If mediation fails, disputes shall be submitted to binding arbitration.
+
+**9. Miscellaneous**
+
+9.1 This Agreement constitutes the entire agreement between the parties and supersedes all prior agreements and understandings.
+
+9.2 Any amendments to this Agreement shall be in writing and signed by both parties.
+
+9.3 Any notice required under this Agreement shall be in writing and sent to the addresses provided above.
+
+**IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the day and year first above written.**
+
+**For Canvassian Pty Ltd:**  
+________________________  
+Jane Wu  
+Chief Executive Officer
+
+**For Paywise Pty Ltd:**  
+________________________  
+Alexander Thompson  
+Chief Financial Officer
+
+---
+
+**Schedule A: Services List**
+
+1. Custom Software Development
+2. System Integration
+3. Regular Maintenance
+4. Technical Support
+5. Software Updates
+
+---
+

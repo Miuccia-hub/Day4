@@ -1,0 +1,101 @@
+**Software Development and Service Agreement**
+
+**This Agreement** (“Agreement”) is made and entered into as of October 15, 2023, by and between:
+
+**Canvassian Pty Ltd**  
+Level 12, 345 George Street  
+Sydney, NSW 2000  
+Australia  
+(Hereinafter referred to as "Canvassian")
+
+and
+
+**Charlemont Ltd**  
+123 King Street  
+Melbourne, VIC 3000  
+Australia  
+(Hereinafter referred to as "Client")
+
+**RECITALS**
+
+WHEREAS, Canvassian is in the business of developing, marketing, and supporting software products and services; and
+
+WHEREAS, Client desires to procure software development and support services from Canvassian, and Canvassian agrees to provide such services under the terms and conditions set forth below.
+
+NOW, THEREFORE, in consideration of the mutual promises herein contained, the parties hereto agree as follows:
+
+**1. Definitions**
+
+1.1 "Services" shall mean the software development, customization, implementation, maintenance, and support services to be provided by Canvassian as specified in Exhibit A.
+
+1.2 "Software" shall mean the proprietary software products developed and owned by Canvassian, including any third-party software integrated by Canvassian.
+
+**2. Scope of Services**
+
+2.1 Canvassian agrees to perform the Services specified in Exhibit A, in accordance with the project plan and milestones outlined therein.
+
+2.2 Client agrees to provide all necessary information, resources, and assistance required to enable Canvassian to complete the Services.
+
+**3. Fees and Payment**
+
+3.1 Client agrees to pay Canvassian for the Services in accordance with the fee schedule specified in Exhibit B.
+
+3.2 All invoices submitted by Canvassian shall be payable within thirty (30) days from the date of the invoice.
+
+3.3 Any late payments shall be subject to a interest charge of 1.5% per month or the maximum rate allowed by law.
+
+**4. Term and Termination**
+
+4.1 This Agreement shall commence on the Effective Date and shall continue for a period of one (1) year unless earlier terminated in accordance with this Agreement.
+
+4.2 Either party may terminate this Agreement with or without cause by giving sixty (60) days' written notice to the other party.
+
+4.3 Upon termination of this Agreement, Client shall pay Canvassian for all Services performed up to the termination date.
+
+**5. Confidentiality**
+
+5.1 Each party agrees to treat as confidential all information received from the other party that is marked as confidential or would reasonably be considered confidential under the circumstances.
+
+5.2 The confidentiality obligations shall survive the termination of this Agreement for a period of two (2) years.
+
+**6. Intellectual Property**
+
+6.1 Canvassian retains all right, title, and interest in and to any software, documentation, and other materials developed or provided by Canvassian under this Agreement.
+
+6.2 Client shall not acquire any ownership or intellectual property rights in the Software or any other materials provided by Canvassian.
+
+**7. Warranties and Disclaimers**
+
+7.1 Canvassian warrants that the Services will be performed in a professional and workmanlike manner in accordance with industry standards.
+
+7.2 EXCEPT AS EXPRESSLY PROVIDED IN THIS AGREEMENT, CANVASSIAN DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+**8. Limitation of Liability**
+
+8.1 IN NO EVENT SHALL CANVASSIAN BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO THIS AGREEMENT, EVEN IF CANVASSIAN HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8.2 CANVASSIAN'S TOTAL LIABILITY TO CLIENT FOR ANY AND ALL CLAIMS ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT SHALL NOT EXCEED THE TOTAL AMOUNT PAID BY CLIENT TO CANVASSIAN UNDER THIS AGREEMENT.
+
+**9. Governing Law**
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia, without regard to its conflict of laws principles.
+
+**10. Entire Agreement**
+
+This Agreement, including all exhibits hereto, contains the entire understanding of the parties with respect to the subject matter hereof and supersedes all prior agreements and understandings between the parties with respect to such subject matter.
+
+**IN WITNESS WHEREOF**, the parties hereto have executed this Agreement as of the date first above written.
+
+**CANVASSIAN PTY LTD**  
+By: ____________________________  
+Jane Wu, CEO  
+
+**CHARLEMONT LTD**  
+By: ____________________________  
+Michael Stephens, Managing Director  
+
+**Exhibit A - Scope of Services**  
+(Description of specific services to be performed by Canvassian)
+
+**Exhibit B - Fee Schedule**  
+(Description of fees to be paid by Client)

@@ -1,0 +1,56 @@
+**SOFTWARE SERVICE AGREEMENT**
+
+This Software Service Agreement (the "Agreement") is entered into as of this 1st day of October, 2023, by and between Canvassian Pty Ltd., an Australian corporation with its principal place of business at 123 Innovation Drive, Sydney, NSW, Australia ("Canvassian"), and Paywise Ltd., a corporation with its principal place of business at 456 Finance Avenue, Melbourne, VIC, Australia ("Paywise").
+
+**1. Services Provided**
+1.1 Canvassian agrees to provide Paywise with its proprietary software solutions, including but not limited to, the "IntelliMetrics" suite and associated support services (the "Services").
+1.2 The scope of services, including software features, updates, and support, is detailed in Exhibit A attached hereto.
+
+**2. Term and Termination**
+2.1 The term of this Agreement shall commence on the date hereof and shall continue for an initial period of two (2) years (the "Initial Term"). The Agreement shall automatically renew for successive one (1) year terms (each, a "Renewal Term") unless either party provides written notice of non-renewal at least ninety (90) days prior to the end of the Initial Term or any Renewal Term.
+2.2 Either party may terminate this Agreement upon thirty (30) days' written notice if the other party breaches any material term of this Agreement and such breach remains uncured at the end of such thirty (30) day period.
+2.3 Upon termination of this Agreement for any reason, Canvassian shall cease to provide the Services and Paywise shall immediately pay any outstanding fees due to Canvassian.
+
+**3. Fees and Payment**
+3.1 Paywise agrees to pay Canvassian the fees set forth in Exhibit B attached hereto (the "Fees").
+3.2 All Fees are due and payable within thirty (30) days from the date of the invoice.
+3.3 Any payments not received by Canvassian by the due date shall accrue interest at a rate of 1.5% per month, or the maximum rate allowed by law, whichever is less, on the outstanding balance.
+
+**4. Confidentiality**
+4.1 Each party agrees to treat as confidential all confidential information of the other party, and to take all reasonable precautions to protect such confidential information.
+4.2 This obligation of confidentiality shall survive termination of this Agreement.
+
+**5. Intellectual Property Rights**
+5.1 Canvassian retains all right, title, and interest in and to the software, including all improvements, enhancements, modifications, and derivative works thereof.
+5.2 Nothing in this Agreement shall be construed to give Paywise any rights in or to the software except as expressly set forth herein.
+
+**6. Warranties and Disclaimers**
+6.1 Canvassian warrants that the Services will be provided in a professional and workmanlike manner.
+6.2 EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, CANVASSIAN DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+**7. Limitation of Liability**
+7.1 IN NO EVENT SHALL CANVASSIAN BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT.
+7.2 CANVASSIAN'S TOTAL AGGREGATE LIABILITY ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT SHALL BE LIMITED TO THE TOTAL FEES PAID BY PAYWISE TO CANVASSIAN DURING THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
+
+**8. General Provisions**
+8.1 **Governing Law**: This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia, without regard to its conflict of law principles.
+8.2 **Entire Agreement**: This Agreement, including all attached Exhibits, constitutes the entire agreement between the parties and supersedes all prior agreements, understandings, and representations, whether written or oral.
+8.3 **Amendments**: No modification or amendment of this Agreement shall be effective unless in writing and signed by both parties.
+8.4 **Severability**: If any provision of this Agreement is found to be illegal or unenforceable, the remaining provisions shall remain in full force and effect.
+8.5 **Assignment**: Neither party may assign this Agreement without the prior written consent of the other party, except in the case of a merger, acquisition, or sale of all or substantially all of the assigning party's assets.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Software Service Agreement as of the day and year first above written.
+
+CANVASSIAN PTY LTD.                         PAYWISE LTD.
+
+By: ___________________________             By: ___________________________
+Name: Jane Wu                               Name: Timothy Clark
+Title: CEO                                   Title: CFO
+
+**Exhibit A: Scope of Services**
+
+[List of specific software features, updates, and support services provided by Canvassian]
+
+**Exhibit B: Fees**
+
+[Detailed breakdown of the Fees for the Services provided by Canvassian]

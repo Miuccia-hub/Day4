@@ -1,0 +1,113 @@
+**Software Services Agreement**
+
+**Parties**
+
+This Agreement is made and entered into on this 1st day of October, 2023, by and between:
+
+**Canvassian Pty Ltd**  
+ABN: 53 987 654 321  
+Address: 123 Innovation Drive, Sydney, NSW 2000, Australia  
+("Service Provider" or "Canvassian")
+
+and
+
+**Alphabear Pty Ltd**  
+ABN: 76 123 456 789  
+Address: 456 Enterprise Avenue, Melbourne, VIC 3000, Australia  
+("Client" or "Alphabear")
+
+**Recitals**
+Whereas, Canvassian is in the business of providing software development and related services;
+
+Whereas, Alphabear desires to engage Canvassian to provide certain software services as described herein;
+
+Now, therefore, in consideration of the mutual promises and covenants hereinafter set forth, the parties hereto agree as follows:
+
+**1. Definitions**
+
+1.1 "Services" means the software development, maintenance, support, and other related services to be provided by Canvassian to Alphabear as described in Exhibit A attached hereto.
+
+1.2 "Deliverables" means the software and documentation, as described in Exhibit A, to be created and delivered by Canvassian to Alphabear.
+
+**2. Services**
+
+2.1 Canvassian agrees to provide Alphabear with the Services as detailed in Exhibit A.
+
+2.2 Both parties agree to work in good faith to achieve the goals and objectives of this Agreement.
+
+**3. Term**
+
+3.1 This Agreement shall commence on the Effective Date and shall continue for a period of twelve (12) months unless terminated earlier in accordance with section 7 of this Agreement.
+
+**4. Fees and Payment**
+
+4.1 Alphabear will pay Canvassian the fees as set forth in Exhibit B.
+
+4.2 Invoices will be issued monthly and will be payable within thirty (30) days of the invoice date.
+
+4.3 All payments made under this Agreement are non-refundable unless otherwise specified.
+
+**5. Confidentiality**
+
+5.1 Each party agrees to keep confidential all information disclosed by the other party in relation to this Agreement. Such information will only be used for the purposes of fulfilling this Agreement.
+
+5.2 The obligations of confidentiality shall survive the expiration or termination of this Agreement.
+
+**6. Intellectual Property**
+
+6.1 Subject to compliance with the terms of this Agreement, all intellectual property rights in the Deliverables shall vest in Alphabear upon full payment to Canvassian.
+
+6.2 Canvassian retains the right to use non-confidential, residual know-how learned during the course of this project for future business purposes.
+
+**7. Termination**
+
+7.1 Either party may terminate this Agreement for any reason by providing thirty (30) days written notice to the other party.
+
+7.2 In the event of termination, Alphabear shall pay Canvassian for all Services performed up to the date of termination.
+
+**8. Warranties**
+
+8.1 Canvassian warrants that the Services will be performed in a professional and workmanlike manner.
+
+8.2 Canvassian does not warrant that the Deliverables will be completely free from errors.
+
+**9. Limitation of Liability**
+
+9.1 In no event shall either party be liable to the other for any indirect, special, consequential, or incidental damages arising out of or in connection with this Agreement.
+
+**10. Governing Law**
+
+10.1 This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia.
+
+**11. Dispute Resolution**
+
+11.1 The parties agree to resolve any disputes arising out of this Agreement through good faith negotiation. If such negotiations do not result in a resolution, disputes shall be resolved through mediation.
+
+**12. Miscellaneous**
+
+12.1 Amendments. This Agreement may only be amended in writing signed by both parties.
+
+12.2 Entire Agreement. This Agreement, including any exhibits attached hereto, constitutes the entire agreement between the parties.
+
+12.3 Severability. If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions will continue in full force and effect.
+
+**IN WITNESS WHEREOF**, the parties hereto have executed this Software Services Agreement as of the day and year first above written.
+
+**Canvassian Pty Ltd**
+
+By: _______________________  
+Name: Jane Wu  
+Title: CEO  
+Date: October 1, 2023
+
+**Alphabear Pty Ltd**
+
+By: _______________________  
+Name: Michael Roberts  
+Title: CFO  
+Date: October 1, 2023
+
+**Exhibits:**
+
+- Exhibit A: Description of Services and Deliverables
+- Exhibit B: Fees and Payment Schedule

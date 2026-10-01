@@ -1,0 +1,78 @@
+**SOFTWARE DEVELOPMENT AND SERVICES AGREEMENT**
+
+**This Software Development and Services Agreement** ("Agreement") is made and entered into as of October 5, 2023 ("Effective Date"), by and between **Canvassian Pty Ltd**, an Australian company with its principal place of business at 123 Innovation Drive, Sydney, NSW 2000 ("Canvassian"), and **Charlemont**, a corporation with its principal place of business at 456 Enterprise Avenue, Melbourne, VIC 3000 ("Client").
+
+**WHEREAS**, Canvassian is in the business of software development and related services;
+
+**WHEREAS**, Client desires to engage Canvassian to provide certain software development and related services under the terms and conditions set forth herein;
+
+**NOW, THEREFORE**, in consideration of the mutual covenants, terms, and conditions herein contained, the parties hereby agree as follows:
+
+### 1. Scope of Services
+Canvassian agrees to develop, deliver, and maintain custom software solutions for Client (the "Services") as described in **Exhibit A** attached hereto.
+
+### 2. Term
+This Agreement shall commence on the Effective Date and shall continue in full force for a period of three (3) years unless terminated earlier as provided herein.
+
+### 3. Fees and Payment
+Client shall pay Canvassian the fees specified in **Exhibit B** attached hereto. Fees shall be payable within thirty (30) days of receipt of Canvassian's invoice.
+
+### 4. Change in Control
+In the event that either party undergoes a Change in Control, as defined below, the non-affected party shall have the right to terminate this Agreement upon thirty (30) days’ prior written notice to the affected party.
+- **"Change in Control"** shall mean: (a) a sale of all or substantially all of the assets of a party; (b) a merger, consolidation, or reorganization of a party with a third party where the shareholders of the party before the event own less than fifty percent (50%) of the voting securities in the new entity; or (c) a change in ownership of more than fifty percent (50%) of the outstanding voting shares of a party.
+
+### 5. Confidential Information
+Both parties agree to keep confidential all information disclosed by the other party that is marked or otherwise identified as confidential information. 
+
+### 6. Intellectual Property
+All software, documentation, and other materials developed under this Agreement will be the sole property of Client. Canvassian hereby assigns all intellectual property rights in the software to Client.
+
+### 7. Warranties
+Canvassian warrants that the Services will be performed in a professional and workmanlike manner in accordance with industry standards.
+
+### 8. Limitation of Liability
+Neither party shall be liable to the other for any indirect, incidental, or consequential damages arising out of or related to this Agreement.
+
+### 9. Termination
+In addition to termination rights under Section 4, either party may terminate this Agreement for any material breach by the other party that is not cured within thirty (30) days after written notice of such breach.
+
+### 10. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, without regard to its conflict of laws principles.
+
+### 11. Entire Agreement
+This Agreement, including all Exhibits, constitutes the complete and entire agreement between the parties and supersedes all prior agreements and representations, written or oral, concerning the subject matter hereof.
+
+### 12. Amendment
+This Agreement may be amended only by a written instrument signed by both parties.
+
+### IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Effective Date.
+
+**CANVASSIAN PTY LTD**
+
+By: ___________________________
+
+Name: Jane Wu
+
+Title: CEO
+
+Date: October 5, 2023
+
+
+**CHARLEMONT**
+
+By: ___________________________
+
+Name: Robert Mills
+
+Title: CFO
+
+Date: October 5, 2023
+
+
+**Exhibit A: Scope of Services**
+
+[Detailed description of the software development and services]
+
+**Exhibit B: Fees and Payment**
+
+[Detailed description of fees and payment terms]

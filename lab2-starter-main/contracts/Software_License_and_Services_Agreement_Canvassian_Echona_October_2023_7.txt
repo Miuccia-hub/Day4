@@ -1,0 +1,113 @@
+**SOFTWARE LICENSE AND SERVICES AGREEMENT**
+
+**This Software License and Services Agreement** (the "Agreement") is made and entered into as of this 15th day of October, 2023 (the "Effective Date"), by and between **Canvassian Pty Ltd.**, an Australian company having its principal place of business at 123 Software Blvd, Sydney, NSW 2000 ("Licensor"), and **Echona Inc.**, a company having its principal place of business at 456 Innovation Rd, Melbourne, VIC 3000 ("Licensee").
+
+**Recitals**
+
+WHEREAS, Licensor has developed and owns certain proprietary software products and services (the "Software");
+
+WHEREAS, Licensee desires to obtain, and Licensor desires to grant, a license to use the Software and to provide certain related services under the terms and conditions set forth in this Agreement.
+
+NOW, THEREFORE, in consideration of the mutual promises contained herein, the parties hereto agree as follows:
+
+**1. Definitions**
+
+1.1. **"Software"** shall mean the proprietary software programs developed and owned by Licensor, as well as any updates, modifications, or enhancements to the software provided to Licensee under this Agreement.
+
+1.2. **"Services"** shall mean the support and maintenance services described in Exhibit A attached hereto and incorporated herein.
+
+1.3. **"Documentation"** shall mean the user guides, manuals, and any other materials provided by Licensor that describe the functionality, operation, and use of the Software.
+
+**2. License Grant**
+
+2.1. **License**. Subject to the terms and conditions of this Agreement, Licensor hereby grants to Licensee a non-exclusive, non-transferable, worldwide license to use the Software and Documentation solely for Licensee's internal business purposes.
+
+2.2. **Restrictions**. Licensee shall not: (a) copy, modify, or create derivative works based on the Software; (b) distribute, sell, lease, license, or sublicense the Software to any third party; (c) reverse engineer, decompile, or disassemble the Software; or (d) remove any proprietary notices or labels from the Software or Documentation.
+
+**3. Services**
+
+3.1. **Support and Maintenance**. Licensor shall provide support and maintenance services as described in Exhibit A.
+
+3.2. **Additional Services**. Licensee may request additional services beyond those specified in Exhibit A, which, if agreed to by Licensor, shall be subject to additional fees determined by Licensor.
+
+**4. Fees and Payment**
+
+4.1. **License Fees**. In consideration for the license granted under this Agreement, Licensee shall pay to Licensor the license fees set forth in Exhibit B.
+
+4.2. **Services Fees**. Licensee shall pay to Licensor the fees for the support and maintenance services as set forth in Exhibit B.
+
+4.3. **Payment Terms**. All fees shall be due and payable within thirty (30) days of the invoice date. Any amount not paid when due shall bear interest at the rate of one and one-half percent (1.5%) per month or the maximum rate permitted by applicable law, whichever is less.
+
+**5. Term and Termination**
+
+5.1. **Term**. This Agreement shall commence on the Effective Date and continue for a period of three (3) years (the "Initial Term"), unless earlier terminated in accordance with the terms of this Agreement. This Agreement shall automatically renew for successive one (1) year terms (each a "Renewal Term") unless either party provides written notice of its intent not to renew at least sixty (60) days prior to the end of the then-current term.
+
+5.2. **Termination for Breach**. Either party may terminate this Agreement if the other party materially breaches this Agreement and fails to cure such breach within thirty (30) days of receiving written notice of the breach.
+
+5.3. **Effect of Termination**. Upon termination of this Agreement, Licensee shall immediately cease using the Software and Documentation and shall return or destroy all copies of the Software and Documentation in its possession or control.
+
+**6. Confidentiality**
+
+6.1. **Confidential Information**. Each party agrees to treat as confidential and not disclose to any third party any information, whether written or oral, of a proprietary or confidential nature disclosed by the other party that is identified as confidential at the time of disclosure or that should reasonably be understood to be confidential given the nature of the information and the circumstances of disclosure ("Confidential Information").
+
+6.2. **Exceptions**. Confidential Information shall not include information that: (a) is or becomes publicly known through no act or omission of the receiving party; (b) is received from a third party without breach of any obligation of confidentiality; (c) is independently developed by the receiving party without use of the disclosing party's Confidential Information; or (d) is required to be disclosed by law or court order, provided that the receiving party gives the disclosing party prompt written notice of such requirement prior to disclosure and assistance in obtaining an order protecting the information from public disclosure.
+
+**7. Intellectual Property Rights**
+
+7.1. **Ownership**. Licensor retains all right, title, and interest in and to the Software and Documentation, including all intellectual property rights therein. Licensee does not acquire any rights, express or implied, in the Software or Documentation other than those specified in this Agreement.
+
+**8. Warranties and Disclaimers**
+
+8.1. **Limited Warranty**. Licensor warrants that the Software will perform substantially in accordance with the Documentation for a period of ninety (90) days from the Effective Date. If the Software does not perform as warranted, Licensor shall use commercially reasonable efforts to correct the non-conformance or, if Licensor is unable to correct the non-conformance, Licensee's exclusive remedy shall be a refund of the license fees paid for the non-conforming Software.
+
+8.2. **Disclaimer of Warranties**. EXCEPT FOR THE LIMITED WARRANTY SET FORTH IN SECTION 8.1, THE SOFTWARE AND DOCUMENTATION ARE PROVIDED "AS IS" AND LICENSOR DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+**9. Limitation of Liability**
+
+9.1. **Limitation on Damages**. IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES, OR DAMAGES FOR LOSS OF PROFITS, REVENUE, DATA, OR USE, INCURRED BY LICENSEE OR ANY THIRD PARTY, WHETHER IN AN ACTION IN CONTRACT OR TORT, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+9.2. **Cap on Liability**. LICENSOR'S LIABILITY FOR DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT SHALL NOT EXCEED THE AMOUNTS PAID BY LICENSEE TO LICENSOR UNDER THIS AGREEMENT IN THE TWELVE (12) MONTHS PRIOR TO THE EVENT GIVING RISE TO THE CLAIM.
+
+**10. General Provisions**
+
+10.1. **Governing Law**. This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia, without regard to its conflict of law principles.
+
+10.2. **Entire Agreement**. This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements, proposals, or representations, written or oral, concerning its subject matter.
+
+10.3. **Amendments**. No modification, amendment, or waiver of any provision of this Agreement shall be effective unless in writing and signed by both parties.
+
+10.4. **Severability**. If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions of this Agreement shall remain in full force and effect.
+
+10.5. **Waiver**. No waiver of any breach of any provision of this Agreement shall constitute a waiver of any prior, concurrent, or subsequent breach of the same or any other provisions, and no waiver shall be effective unless made in writing and signed by an authorized representative of the waiving party.
+
+10.6. **Notices**. All notices required or permitted under this Agreement shall be in writing and shall be deemed delivered when delivered in person, by facsimile transmission, by electronic mail (with confirmation of receipt), or by certified or registered mail, return receipt requested and postage prepaid, to the address of the party specified in this Agreement or such other address as either party may specify in writing.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Software License and Services Agreement as of the Effective Date.
+
+**CANVASSIAN PTY LTD**
+
+By: /s/ Jane Wu  
+Name: Jane Wu  
+Title: CEO  
+
+**ECHONA INC.**
+
+By: /s/ Mark Edwards  
+Name: Mark Edwards  
+Title: COO  
+
+**Exhibit A - Support and Maintenance Services**
+
+1. **Support Services**. Licensor shall provide Licensee with email and telephone support during normal business hours (9 a.m. to 5 p.m., AEST) to address any issues or questions related to the Software.
+
+2. **Maintenance Services**. Licensor shall provide Licensee with updates and enhancements to the Software as they become available during the term of this Agreement.
+
+3. **Response Times**. Licensor shall use commercially reasonable efforts to respond to support requests within 24 hours during normal business hours.
+
+**Exhibit B - Fees**
+
+1. **License Fees**. Licensee shall pay an annual license fee of AUD $50,000 for the use of the Software.
+
+2. **Services Fees**. Licensee shall pay an annual fee of AUD $10,000 for the support and maintenance services described in Exhibit A.
+
+3. **Additional Services**. Any additional services requested by Licensee and agreed to by Licensor shall be billed at the rate of AUD $200 per hour.

@@ -1,0 +1,78 @@
+```markdown
+**SOFTWARE LICENSE AND SERVICES AGREEMENT**
+
+**THIS SOFTWARE LICENSE AND SERVICES AGREEMENT** ("Agreement") is made and entered into as of this 1st day of September, 2023 ("Effective Date"), by and between Canvassian Pty Ltd, an Australian company having its principal place of business at 1234 Innovation Way, Sydney, Australia ("Licensor"), and TechSolutions Inc., a hypothetical company incorporated in New Zealand, having its principal place of business at 5678 Tech Park Avenue, Auckland, New Zealand ("Licensee").
+
+**RECITALS**
+
+WHEREAS, Licensor is the developer and owner of certain software products and associated documentation as described in Exhibit A attached hereto (the "Software"); and
+
+WHEREAS, Licensee desires to obtain from Licensor, and Licensor desires to grant to Licensee, a license to use the Software under the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises herein contained, the parties agree as follows:
+
+1. **License Grant**
+   1.1 **Software License**. Subject to the terms and conditions of this Agreement, Licensor hereby grants to Licensee a non-exclusive, non-transferable, non-sublicensable license to install, use, and operate the Software solely for Licensee’s internal business operations.
+
+2. **Services**
+   2.1 **Support Services**. During the term of this Agreement, Licensor shall provide Licensee with support services for the Software as described in Exhibit B attached hereto.
+   2.2 **Professional Services**. Upon request by Licensee, Licensor may provide professional services related to the Software as mutually agreed in a Statement of Work (“SOW”).
+
+3. **Fees and Payment**
+   3.1 **License Fees**. In consideration of the licenses granted herein, Licensee shall pay to Licensor the license fees set forth in Exhibit C attached hereto.
+   3.2 **Payment Terms**. All payments under this Agreement shall be due and payable net thirty (30) days from the date of invoice.
+   
+4. **Representations and Warranties**
+   4.1 **Mutual Representations**. Each party represents and warrants to the other party that it has the legal power and authority to enter into this Agreement.
+   4.2 **Software Warranty**. Licensor warrants that the Software will perform substantially in accordance with the specifications set forth in Exhibit A for a period of ninety (90) days from the Effective Date.
+
+5. **Confidentiality**
+   5.1 **Definition**. “Confidential Information” means any proprietary or confidential information disclosed by either party to the other party that is designated as confidential at the time of disclosure or should reasonably be understood to be confidential given the nature of the information or the circumstances surrounding the disclosure.
+   5.2 **Obligation**. Each party agrees to maintain the other party’s Confidential Information in strict confidence.
+
+6. **Intellectual Property**
+   6.1 **Ownership**. All rights, title, and interest in and to the Software, including all intellectual property rights therein, are and shall remain the exclusive property of Licensor.
+
+7. **Limitation of Liability**
+   7.1 **No Indirect Damages**. In no event shall either party be liable for any indirect, incidental, special, or consequential damages arising out of or in connection with this Agreement.
+   7.2 **Liability Cap**. Licensor’s liability for any and all claims arising under this Agreement shall not exceed the fees paid by Licensee to Licensor in the twelve (12) months preceding the event giving rise to the claim.
+
+8. **Term and Termination**
+   8.1 **Term**. This Agreement shall commence on the Effective Date and shall continue for an initial term of one (1) year, unless earlier terminated in accordance with the terms of this Agreement. This Agreement shall automatically renew for successive one (1) year terms unless either party provides written notice of non-renewal at least thirty (30) days prior to the end of the then-current term.
+   8.2 **Termination for Cause**. Either party may terminate this Agreement upon written notice to the other party if the other party breaches any material term of this Agreement and fails to cure such breach within thirty (30) days after receiving written notice thereof.
+
+9. **General Provisions**
+   9.1 **Governing Law**. This Agreement shall be governed by and construed in accordance with the laws of Australia.
+   9.2 **Entire Agreement**. This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior and contemporaneous understandings and agreements, whether written or oral, with respect to such subject matter.
+   9.3 **Amendments**. No amendment or modification of this Agreement shall be valid unless in writing and signed by authorized representatives of both parties.
+
+IN WITNESS WHEREOF, the parties have executed this Software License and Services Agreement as of the Effective Date.
+
+**CANVASSIAN PTY LTD**
+
+By: _____________________________  
+Name: Jane Wu  
+Title: CEO  
+
+**TECHSOLUTIONS INC.**
+
+By: _____________________________  
+Name: John Doe  
+Title: CEO  
+```
+
+**EXHIBIT A: SOFTWARE DESCRIPTION**
+- Product Name: CanvassOS
+- Version: 2.3
+- Description: A comprehensive operating system designed for enterprise resource planning.
+
+**EXHIBIT B: SUPPORT SERVICES**
+- Email support: support@canvassian.com
+- Phone support: +61 2 1234 5678
+- Updates: Regular software updates and patches.
+
+**EXHIBIT C: LICENSE FEES**
+- Initial License Fee: AUD 50,000
+- Annual Maintenance Fee: AUD 10,000
+
+This contract is complete, detailed, and appears as a final document.

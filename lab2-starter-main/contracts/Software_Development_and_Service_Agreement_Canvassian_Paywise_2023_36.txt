@@ -1,0 +1,106 @@
+**Software Development and Service Agreement**
+
+**This Software Development and Service Agreement (the "Agreement") is entered into on this 15th day of October 2023, by and between:**
+
+**Canvassian Pty Ltd.**
+3 Market Street, Sydney, NSW 2000, Australia
+(Hereinafter referred to as "Developer")
+
+**and**
+
+**Paywise Pty Ltd.**
+2 George Street, Sydney, NSW 2000, Australia
+(Hereinafter referred to as "Client")
+
+**Recitals:**
+
+WHEREAS, Client desires to engage Developer to provide software development and related services under the terms and conditions set forth in this Agreement; and
+
+WHEREAS, Developer agrees to provide such services to Client, all on the terms and conditions set forth herein;
+
+NOW, THEREFORE, in consideration of the mutual promises, covenants, and agreements herein contained, the parties hereto, intending to be legally bound, agree as follows:
+
+**1. Description of Services**
+
+1.1 **Scope of Work**: Developer shall design, develop, test, and implement the software solution specified in Exhibit A attached hereto and made part of this Agreement ("Services").
+
+1.2 **Deliverables**: Developer shall provide Client with the deliverables ("Deliverables") described in Exhibit A according to the project timeline outlined therein.
+
+**2. Term and Termination**
+
+2.1 **Term**: The term of this Agreement shall commence on October 15, 2023, and shall continue until the completion of the Services or termination by either party as provided herein.
+
+2.2 **Termination for Convenience**: Either party may terminate this Agreement by providing thirty (30) days prior written notice to the other party.
+
+2.3 **Termination for Cause**: Either party may terminate this Agreement immediately if the other party breaches any material term or condition of this Agreement and fails to cure such breach within fifteen (15) days after receipt of written notice of such breach.
+
+**3. Compensation**
+
+3.1 **Fees**: Client agrees to pay Developer for the Services as set forth in Exhibit B attached hereto and made part of this Agreement.
+
+3.2 **Expenses**: Client shall reimburse Developer for all pre-approved expenses reasonably incurred in the performance of the Services.
+
+3.3 **Payment Terms**: Developer shall invoice Client monthly for Services rendered. All invoices shall be due and payable within thirty (30) days of the invoice date.
+
+**4. Confidentiality**
+
+4.1 **Confidential Information**: Each party agrees to maintain in confidence all technical, business, and financial information disclosed by the other party.
+
+4.2 **Non-Disclosure**: The receiving party shall not disclose any Confidential Information to any third party without the prior written consent of the disclosing party.
+
+**5. Intellectual Property**
+
+5.1 **Ownership**: All intellectual property rights in the Deliverables shall be owned by Client upon full payment of the fees.
+
+5.2 **License**: Developer grants Client a non-exclusive, perpetual, worldwide license to use, modify, and distribute the Deliverables.
+
+**6. Warranty and Limitation of Liability**
+
+6.1 **Warranty**: Developer warrants that the Services will be performed in a professional and workmanlike manner.
+
+6.2 **Limitation of Liability**: In no event shall either party be liable for any indirect, incidental, special, or consequential damages, including lost profits or revenue, arising out of or related to this Agreement.
+
+**7. General Provisions**
+
+7.1 **Governing Law**: This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia.
+
+7.2 **Entire Agreement**: This Agreement constitutes the entire agreement between the parties and supersedes all prior agreements and understandings, whether written or oral.
+
+7.3 **Amendment**: This Agreement may only be amended by a written instrument signed by both parties.
+
+7.4 **Counterparts**: This Agreement may be executed in counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the day and year first above written.
+
+**For Canvassian Pty Ltd.:**
+
+/s/ Jane Wu  
+Jane Wu  
+CEO  
+
+**For Paywise Pty Ltd.:**
+
+/s/ Robert Smith  
+Robert Smith  
+Chief Financial Officer  
+
+**Exhibit A - Scope of Work**
+
+- Requirements Analysis
+- Software Design
+- Development of Custom Modules
+- Integration with Existing Systems
+- Quality Assurance and Testing
+- User Training and Documentation
+- Deployment and Support
+
+**Exhibit B - Payment Terms**
+
+- Total Project Cost: AUD $500,000
+- Milestone 1: Requirements Analysis - AUD $100,000
+- Milestone 2: Design Completion - AUD $100,000
+- Milestone 3: Development Completion - AUD $150,000
+- Milestone 4: Integration and Testing - AUD $75,000
+- Milestone 5: Final Deployment and Support - AUD $75,000
+
+--- End of Agreement ---

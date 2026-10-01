@@ -1,0 +1,70 @@
+**SOFTWARE LICENSE AGREEMENT** 
+
+**THIS SOFTWARE LICENSE AGREEMENT** (the "Agreement") is made and entered into as of the 1st day of November 2023, by and between:
+
+**1. Canvassian Pty Ltd**  
+ACN: 12 345 678 910  
+Address: 123 Innovation Drive, Sydney, NSW 2000, Australia  
+(hereinafter referred to as "Licensor")
+
+AND 
+
+**2. Generic Solutions Inc.**  
+Company Number: 876 543 210  
+Address: 456 Technology Way, Melbourne, VIC 3000, Australia  
+(hereinafter referred to as "Licensee")
+
+**RECITALS**  
+WHEREAS, Licensor is the owner and developer of certain proprietary software products and technologies (the "Software"); and 
+
+WHEREAS, Licensee desires to obtain a license to use the Software and Licensor is willing to grant such license under the terms and conditions hereinafter set forth.
+
+NOW, THEREFORE, in consideration of the premises and mutual covenants herein contained, the parties hereto, intending to be legally bound, agree as follows: 
+
+### 1. LICENSE GRANT
+Licensor hereby grants to Licensee a non-exclusive, non-transferable license to use the Software in accordance with the terms of this Agreement.
+
+### 2. SCOPE OF USE
+2.1 Licensee shall use the Software solely for internal business purposes and shall not distribute, license, or otherwise make the Software available to any third party without prior written consent from Licensor.  
+2.2 Licensee shall not modify, reverse engineer, or create derivative works from the Software.
+
+### 3. FEES
+In consideration for the license granted under this Agreement, Licensee agrees to pay Licensor the sum of AU$50,000 per year, payable in advance on the anniversary of this Agreement.
+
+### 4. TERM AND TERMINATION
+4.1 This Agreement shall commence on the Effective Date and shall continue for a period of three (3) years unless terminated earlier in accordance with this Section 4.  
+4.2 Either party may terminate this Agreement upon thirty (30) days written notice if the other party breaches any material provision of this Agreement and fails to cure such breach within such thirty-day period.
+
+### 5. CONFIDENTIALITY
+5.1 Both parties agree to maintain the confidentiality of any proprietary or confidential information disclosed during the term of this Agreement.  
+5.2 This obligation shall survive the termination of this Agreement.
+
+### 6. WARRANTY DISCLAIMER
+Licensor does not warrant that the Software will be error-free or uninterrupted. The Software is licensed "as is," and Licensor disclaims all warranties, express or implied, with respect to the Software to the fullest extent permitted by law.
+
+### 7. LIMITATION OF LIABILITY
+In no event shall Licensor be liable for any indirect, special, incidental, or consequential damages arising out of this Agreement, even if advised of the possibility of such damages.
+
+### 8. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia.
+
+### 9. ENTIRE AGREEMENT
+This Agreement constitutes the entire understanding of the parties with respect to the subject matter hereof and supersedes all prior agreements and understandings, whether written or oral.
+
+### IN WITNESS WHEREOF, the parties hereto have caused this Software License Agreement to be executed by their duly authorized representatives as of the Effective Date.
+
+**CANVASSIAN PTY LTD**  
+By: ___________________________  
+Name: Jane Wu  
+Title: Chief Executive Officer  
+Date: __________________________
+
+**GENERIC SOLUTIONS INC.**  
+By: ___________________________  
+Name: John Smith  
+Title: Chief Technology Officer  
+Date: __________________________ 
+
+--- 
+
+**End of Agreement**

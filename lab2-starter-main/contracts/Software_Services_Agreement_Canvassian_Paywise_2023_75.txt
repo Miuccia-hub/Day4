@@ -1,0 +1,104 @@
+# Software Services Agreement
+
+**This Software Services Agreement** ("Agreement") is entered into as of this 1st day of November, 2023 ("Effective Date"), by and between:
+
+**Canvassian Pty Ltd**, an Australian corporation with its principal place of business at 123 Innovation Road, Sydney, Australia (hereinafter referred to as "Provider"), and 
+
+**Paywise**, an Australian corporation with its principal place of business at 456 Finance Avenue, Melbourne, Australia (hereinafter referred to as "Client").
+
+**RECITALS**
+
+WHEREAS, Provider is in the business of providing software development and related services;
+
+WHEREAS, Client desires to engage Provider to perform software services as described in this Agreement.
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements herein contained, the parties hereby agree as follows:
+
+**1. Definitions**
+
+1.1 "Services" shall mean the software development and related services to be provided by Provider to Client as detailed in Exhibit A.
+
+1.2 "Deliverables" shall mean the items, documents, or software to be delivered to Client as specified in Exhibit B.
+
+**2. Scope of Services**
+
+2.1 Provider agrees to perform the Services for Client as described in Exhibit A, attached hereto and incorporated by reference.
+
+2.2 Any changes to the Services must be made in writing and signed by both parties.
+
+**3. Term**
+
+3.1 This Agreement shall commence on the Effective Date and shall continue for a period of twelve (12) months unless earlier terminated in accordance with Section 8 of this Agreement.
+
+**4. Compensation**
+
+4.1 Client shall pay Provider the fees set forth in Exhibit C for the Services provided under this Agreement.
+
+4.2 All payments are due within thirty (30) days of receipt of an invoice from Provider.
+
+**5. Ownership of Materials**
+
+5.1 All Deliverables created by Provider under this Agreement shall be owned by Client, subject to the provisions outlined in Exhibit D.
+
+**6. Confidentiality**
+
+6.1 Each party agrees to maintain in confidence and not to disclose to any third party any Confidential Information received from the other party.
+
+**7. Warranties**
+
+7.1 Provider warrants that the Services shall be performed in a professional and workmanlike manner and that the Deliverables will substantially conform to the specifications set forth in Exhibit B.
+
+**8. Termination**
+
+8.1 Either party may terminate this Agreement upon thirty (30) days written notice to the other party.
+
+8.2 Upon termination, Provider shall deliver all works in progress to Client and shall be compensated for all Services performed up to the effective date of termination.
+
+**9. Limitation of Liability**
+
+9.1 In no event shall either party be liable for any indirect, incidental, consequential, or punitive damages, including lost profits, even if advised of the possibility of such damages.
+
+**10. Governing Law**
+
+10.1 This Agreement shall be governed by and construed in accordance with the laws of the state of New South Wales, Australia.
+
+**11. Miscellaneous**
+
+11.1 This Agreement constitutes the entire agreement between the parties and supersedes all prior agreements and understandings regarding its subject matter.
+
+11.2 Any amendments or modifications to this Agreement must be in writing and signed by both parties.
+
+**Exhibit A**: Description of Services
+
+**Exhibit B**: Specifications for Deliverables
+
+**Exhibit C**: Fee Schedule
+
+**Exhibit D**: Ownership and Intellectual Property Provisions
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed by their duly authorized representatives.
+
+***
+
+**Provider: Canvassian Pty Ltd** 
+
+By: ____________________________
+
+Name: Jane Wu
+
+Title: CEO
+
+Date: ___________________________
+
+***
+
+**Client: Paywise**
+
+By: ____________________________
+
+Name: Michael Clarke
+
+Title: CFO
+
+Date: ___________________________
+

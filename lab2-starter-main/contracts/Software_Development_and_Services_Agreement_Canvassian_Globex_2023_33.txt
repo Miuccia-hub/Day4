@@ -1,0 +1,90 @@
+**SOFTWARE DEVELOPMENT AND SERVICES AGREEMENT**
+
+THIS SOFTWARE DEVELOPMENT AND SERVICES AGREEMENT ("Agreement") is made and entered into on this 1st day of October, 2023, by and between:
+
+**Canvassian Pty Ltd**, an Australian corporation with its principal office located at 123 Innovation Drive, Sydney, NSW, Australia ("Developer"),
+
+AND
+
+**Globex Corp**, a corporation organized under the laws of New Zealand, with its principal office located at 456 Enterprise Lane, Wellington, NZ ("Client").
+
+**RECITALS**
+
+WHEREAS, Developer is in the business of software development and related services;
+
+WHEREAS, Client desires to hire Developer to provide software development services as defined herein;
+
+NOW, THEREFORE, in consideration of the promises and mutual covenants contained herein, the parties agree as follows:
+
+**1. SCOPE OF SERVICES**
+
+1.1 **Description of Services**: Developer agrees to develop and deliver a custom software application ("Software") and provide related services ("Services") in accordance with the specifications detailed in Exhibit A, attached hereto and made a part hereof.
+
+1.2 **Milestones**: Developer shall use commercially reasonable efforts to meet the project milestones and deadlines as set forth in Exhibit B.
+
+1.3 **Modifications and Enhancements**: Any modifications or enhancements to the Software outside the initial scope of work may be subject to additional fees, to be agreed upon in writing by both parties.
+
+**2. FEES AND PAYMENT**
+
+2.1 **Total Fee**: Client agrees to pay Developer a total fee of AUD $200,000 for the Software and Services.
+
+2.2 **Payment Schedule**: Payments shall be made to Developer according to the following schedule:
+
+- 25% upon signing this Agreement.
+- 25% upon completion of the first major milestone as described in Exhibit B.
+- 25% upon completion of the second major milestone as described in Exhibit B.
+- 25% upon final delivery and acceptance of the Software.
+
+2.3 **Late Payments**: Any late payments shall accrue interest at a rate of 1.5% per month, or the maximum rate allowed by law, whichever is less.
+
+**3. OWNERSHIP AND LICENSE**
+
+3.1 **Ownership of Deliverables**: Upon full payment of all fees, Client shall have ownership of the Software delivered under this Agreement.
+
+3.2 **License to Developer**: Client grants Developer a non-exclusive, royalty-free license to use the Software for marketing and demonstration purposes.
+
+**4. CONFIDENTIALITY**
+
+4.1 **Definition**: "Confidential Information" means any and all information disclosed by one party to the other, which is considered proprietary or confidential, whether or not marked as such.
+
+4.2 **Obligations**: Each party agrees to retain in confidence and not disclose any Confidential Information without the prior written consent of the other party.
+
+**5. WARRANTIES AND DISCLAIMERS**
+
+5.1 **Performance Warranty**: Developer warrants that the Software will substantially perform in accordance with the specifications in Exhibit A for a period of 90 days following delivery.
+
+5.2 **Disclaimers**: Developer disclaims any and all other warranties, express or implied, including but not limited to implied warranties of merchantability and fitness for a particular purpose.
+
+**6. LIMITATION OF LIABILITY**
+
+6.1 **Limitation**: Developer’s liability for any claim arising under this Agreement shall be limited to the total amount of fees paid by Client.
+
+6.2 **No Consequential Damages**: In no event shall either party be liable for any indirect, incidental, special, or consequential damages.
+
+**7. TERM AND TERMINATION**
+
+7.1 **Term**: The term of this Agreement shall commence on the Effective Date and shall continue until the Services are completed, unless earlier terminated in accordance with the provisions herein.
+
+7.2 **Termination for Cause**: Either party may terminate this Agreement immediately for cause if the other party breaches any material term or condition of this Agreement.
+
+7.3 **Effect of Termination**: Upon termination, Developer shall cease all work, and Client shall pay all fees for Services rendered up to the date of termination.
+
+**8. GENERAL PROVISIONS**
+
+8.1 **Governing Law**: This Agreement shall be governed by and construed in accordance with the laws of the state of Victoria, Australia.
+
+8.2 **Entire Agreement**: This Agreement constitutes the entire agreement between the parties and supersedes all prior agreements and understandings, whether written or oral, relating to the subject matter hereof.
+
+8.3 **Amendments**: Any amendments to this Agreement must be in writing and signed by authorized representatives of both parties.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the day and year first above written.
+
+**CANVASSIAN PTY LTD**
+
+By: ___________________________
+Jane Wu, CEO
+
+**GLOBEX CORP**
+
+By: ___________________________
+Michael Blake, CEO

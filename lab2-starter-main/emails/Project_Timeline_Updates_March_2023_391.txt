@@ -1,0 +1,31 @@
+Subject: Upcoming Project Timeline and Updates
+
+To: Alex Fitzpatrick (alex.fitzpatrick@canvassian.com)  
+From: Sarah Ling (sarah.ling@canvassian.com)  
+Date: March 15, 2023  
+CC: Edon Mask (edon.mask@canvassian.com), Jane Wu (jane.wu@canvassian.com)  
+
+Dear Team,
+
+I hope this message finds you well. As we move forward with the upcoming project involving the integration of our new software features for our major clients, I wanted to share an updated timeline along with some important milestones we need to keep in mind.
+
+**Project Timeline:**
+
+- **Phase 1 - Requirement Gathering:** March 20, 2023 - March 31, 2023  
+- **Phase 2 - Development:** April 1, 2023 - April 30, 2023  
+- **Phase 3 - Testing:** May 1, 2023 - May 15, 2023  
+- **Phase 4 - Deployment:** May 16, 2023 - May 20, 2023  
+
+Please ensure that you allocate time accordingly for your respective tasks. Additionally, I would like each team lead to provide a brief update on their current progress by March 22, 2023.
+
+Should you have any questions or need further clarification, please do not hesitate to reach out.
+
+Thank you for your continuous hard work and dedication.
+
+Best regards,
+
+Sarah Ling  
+Project Manager  
+Canvassian Pty Ltd  
+sarah.ling@canvassian.com  
+(02) 1234 5678  

@@ -1,0 +1,58 @@
+**CONTRACT AGREEMENT**
+
+**THIS CONTRACT is made on this 15th day of November 2023**
+
+**BETWEEN**
+
+**Canvassian Pty Ltd**, a company registered in Australia with its registered office at 12 Innovation Way, Sydney, NSW 2000 (hereinafter referred to as "Supplier")
+
+AND
+
+**Paywise**, a company registered in Australia with its registered office at 45 Financial Rd, Sydney, NSW 2000 (hereinafter referred to as "Client")
+
+**WHEREAS**, the Supplier is engaged in the business of developing and providing software solutions and has expertise in (specifically) financial management software;
+
+**AND WHEREAS**, the Client desires to purchase certain software solutions from the Supplier and the Supplier agrees to provide these services under the terms set forth in this agreement.
+
+**NOW, THEREFORE, in consideration of the mutual covenants contained herein, the parties agree as follows:**
+
+**1. SCOPE OF WORK**
+1.1. The Supplier shall provide the Client with the software solution known as "Paywise Financial Suite" (hereafter referred to as the "Software").
+1.2. The Supplier agrees to deliver the Software and support services which include installation, configuration, and user training (the "Services") as detailed in Exhibit A attached hereto.
+
+**2. TERM**
+2.1. This Contract shall commence on the effective date of this Agreement and continue for a period of three (3) years, unless terminated earlier in accordance with the provisions contained herein.
+
+**3. FEES AND PAYMENT**
+3.1. The total fee for the Software and Services shall be AUD 500,000.
+3.2. Payment shall occur in three installments:
+   - 1st installment of AUD 200,000 upon signing this Contract.
+   - 2nd installment of AUD 150,000 upon delivery of the Software.
+   - 3rd installment of AUD 150,000 upon completion of training.
+
+**4. INTELLECTUAL PROPERTY**
+4.1. The Supplier retains all rights, title, and interest in the Software.
+4.2. The Client shall not sublicense, distribute or share the Software without prior written consent from the Supplier.
+
+**5. CONFIDENTIALITY**
+5.1. Both parties agree to keep confidential any information that is disclosed as a part of this agreement that is not publicly available.
+
+**6. TERMINATION**
+6.1. Either party may terminate the Contract if the other party materially breaches its terms and fails to cure the breach within thirty (30) days following written notice.
+
+**7. GOVERNING LAW**
+7.1. This Contract shall be governed by and construed in accordance with the laws of the State of New South Wales.
+
+**IN WITNESS WHEREOF**, the parties hereto have caused this Contract to be executed by themselves or their duly authorized representatives as of the date first above written.
+
+**Canvassian Pty Ltd**    
+Signature: ______________________    
+Name: Jane Wu                    
+Title: CEO                      
+
+**Paywise**    
+Signature: ______________________    
+Name: Robert Henderson               
+Title: Chief Financial Officer         
+
+**DATE**: November 15, 2023

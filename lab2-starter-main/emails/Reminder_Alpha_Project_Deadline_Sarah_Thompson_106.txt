@@ -1,0 +1,22 @@
+**Email Subject:** Reminder: Upcoming Project Deadline
+
+**From:** Sarah Thompson, Project Manager  
+**To:** Edon Mask, CTO
+
+---
+
+**Dear Edon,**
+
+I hope this message finds you well. I wanted to remind you that the deadline for the Alpha Project is fast approaching, with submissions due by the end of this week. As we discussed in our last meeting, it’s crucial that all teams finalize their components and ensure everything is integrated smoothly before the deadline.
+
+Please let me know if there are any obstacles that the engineering team needs assistance with or if additional resources are required to meet the timeline. Collaboration is key, and I’m here to support however possible to keep us on track.
+
+Thank you for your attention to this matter, and I look forward to your confirmation.
+
+Best regards,
+
+Sarah Thompson  
+Project Manager  
+Canvassian Pty Ltd  
+sarah.thompson@canvassian.com  
+(02) 1234 5678

@@ -1,0 +1,60 @@
+**SOFTWARE LICENSE AGREEMENT**
+
+This Software License Agreement ("Agreement") is made effective as of October 10, 2023, by and between Canvassian Pty Ltd, an Australian software company with its principal place of business at 123 Innovation Drive, Sydney, NSW, Australia ("Licensor"), and Nebula Dynamics Inc., a corporation with its principal place of business at 456 Enterprise Way, Melbourne, VIC, Australia ("Licensee").
+
+**1. License Grant**
+Licensor hereby grants to Licensee a non-exclusive, non-transferable, worldwide license to use the software product(s) identified in Exhibit A ("Software") solely for Licensee's internal business operations.
+
+**2. Restrictions on Use**
+Licensee shall not:
+a) Copy, modify, or distribute the Software beyond the rights granted in this Agreement.
+b) Reverse engineer, decompile, or disassemble the Software, except to the extent permitted by applicable law.
+c) Rent, lease, or lend the Software to any third party.
+d) Use the Software to provide services to third parties, including but not limited to, outsourcing, service bureau, or timesharing arrangements.
+
+**3. Ownership**
+Licensor retains all right, title, and interest in and to the Software, including any updates, modifications, or enhancements thereto. Licensee shall not assert any ownership rights to the Software.
+
+**4. Support and Maintenance**
+Licensor will provide Licensee with standard support and maintenance services for the Software, as described in Exhibit B, during the initial term of this Agreement and any renewal terms.
+
+**5. Fees and Payment**
+Licensee shall pay Licensor the license fee specified in Exhibit C ("License Fee") within thirty (30) days of the effective date of this Agreement. All payments shall be made in Australian dollars and are non-refundable.
+
+**6. Confidentiality**
+a) Definition. "Confidential Information" includes the Software and any other non-public information disclosed by Licensor to Licensee under this Agreement.
+b) Obligation. Licensee shall not disclose Confidential Information to any third party and shall use the same degree of care to protect it that it uses to protect its own confidential information, but in no event less than reasonable care.
+
+**7. Warranties and Disclaimers**
+a) Limited Warranty. Licensor warrants that the Software will perform substantially in accordance with the documentation provided by Licensor for a period of ninety (90) days from the delivery date.
+b) Disclaimer. Except as expressly set forth in this Agreement, the Software is provided "as is," and Licensor disclaims all other warranties, whether express, implied, or statutory, including, but not limited to, warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+**8. Limitation of Liability**
+In no event shall Licensor be liable to Licensee for any indirect, incidental, special, consequential, or punitive damages, whether in an action in contract, tort, or otherwise, arising out of or related to this Agreement.
+
+**9. Term and Termination**
+a) Term. This Agreement shall commence on the effective date and continue for one (1) year, and shall automatically renew for additional one-year terms unless either party gives written notice of non-renewal at least thirty (30) days prior to the end of the then-current term.
+b) Termination for Cause. Either party may terminate this Agreement if the other party materially breaches this Agreement and fails to cure such breach within thirty (30) days of written notice thereof.
+c) Effect of Termination. Upon termination, Licensee shall immediately cease using the Software and return or destroy all copies of the Software and related documentation.
+
+**10. General Provisions**
+a) Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia, without regard to its conflict of laws principles.
+b) Entire Agreement. This Agreement constitutes the entire agreement between the parties and supersedes all prior or contemporaneous understandings regarding its subject matter.
+c) Amendments. No amendment or modification of this Agreement shall be binding unless in writing and signed by both parties.
+d) Severability. If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Software License Agreement as of the effective date first written above.
+
+CANVASSIAN PTY LTD                        NEBULA DYNAMICS INC.
+By: ___________________________           By: ___________________________
+Name: Jane Wu                             Name: Michael Thompson
+Title: CEO                                Title: CTO
+
+**Exhibit A - Software Product(s)**
+(List of licensed software product(s))
+
+**Exhibit B - Support and Maintenance Services**
+(Description of support and maintenance services)
+
+**Exhibit C - License Fee**
+(Specification of license fee and payment terms)

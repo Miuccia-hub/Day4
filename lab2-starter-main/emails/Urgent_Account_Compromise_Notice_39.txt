@@ -1,0 +1,21 @@
+Subject: Urgent: Your Account Has Been Compromised!
+
+Dear Valued User,
+
+We hope this message finds you well. We regret to inform you that there has been suspicious activity detected on your account. Our security team has noted multiple unsuccessful login attempts, and we believe your account may be compromised.
+
+To ensure the safety of your personal information, we urgently require you to verify your account. Please click on the link below to provide the necessary information:
+
+[Secure Verification Link]
+
+Failure to verify your account within the next 24 hours may result in a temporary suspension of your account to protect your data.
+
+Thank you for your prompt attention to this matter.
+
+Best Regards,
+Customer Support Team  
+Secure Online Services  
+Phone: (123) 456-7890  
+Email: support@secureonlineservices.com  
+
+(Note: This email is automatically generated. Please do not reply to this message.)

@@ -1,0 +1,117 @@
+**SOFTWARE LICENSE AGREEMENT**
+
+This Software License Agreement (the "Agreement") is made and entered into as of the [Effective Date], by and between Canvassian Pty Ltd, an Australian company with its principal place of business at 123 Innovation Drive, Sydney, NSW 2000, Australia ("Canvassian"), and Nexa Solutions Inc., a corporation organized under the laws of the State of Delaware, with its principal place of business at 456 Enterprise Way, San Francisco, CA 94103, USA ("Licensee").
+
+**RECITALS**
+
+WHEREAS, Canvassian is the owner of certain proprietary software products described herein; and
+
+WHEREAS, Licensee desires to obtain, and Canvassian desires to grant, a license to use such software products under the terms and conditions set forth in this Agreement.
+
+NOW, THEREFORE, the parties hereby agree as follows:
+
+**1. DEFINITIONS**
+
+1.1. "Software" means the software programs listed in Exhibit A attached hereto and made part of this Agreement, in object code form only.
+
+1.2. "Documentation" means the user manuals, technical manuals, and any other materials provided by Canvassian, in printed, electronic, or other form, that describe the installation, operation, use, or technical specifications of the Software.
+
+1.3. "Licensed User" means employees and contractors of Licensee who are authorized by Licensee to use the Software for Licensee's internal business purposes.
+
+**2. LICENSE GRANT**
+
+2.1. Subject to the terms and conditions of this Agreement, Canvassian hereby grants to Licensee a non-exclusive, non-transferable, limited license to:
+
+    a. Install and use the Software on servers and/or personal computers owned or leased by Licensee.
+
+    b. Use the Documentation solely in connection with Licensee's authorized use of the Software.
+
+2.2. Licensee shall not copy the Software or Documentation, except for reasonable backup purposes or as otherwise expressly permitted in this Agreement.
+
+**3. RESTRICTIONS**
+
+3.1. Licensee shall not:
+
+    a. Modify, adapt, alter, translate, or create derivative works based on the Software or Documentation without the prior written consent of Canvassian.
+    
+    b. Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code for the Software, except to the extent expressly permitted by applicable law.
+
+    c. Sell, lease, license, transfer, distribute, or otherwise make the Software available to any third party.
+
+**4. FEES AND PAYMENT**
+
+4.1. In consideration for the licenses granted under this Agreement, Licensee shall pay to Canvassian the license fees set forth in Exhibit B attached hereto.
+
+4.2. All fees shall be due and payable within thirty (30) days from the date of Canvassian's invoice.
+
+4.3. Licensee shall be responsible for all taxes, duties, and other governmental charges associated with the licensing of the Software, except for taxes based on Canvassian’s net income.
+
+**5. TERM AND TERMINATION**
+
+5.1. This Agreement shall commence on the Effective Date and shall continue for an initial term of one (1) year, unless terminated earlier in accordance with this Section 5.
+
+5.2. Either party may terminate this Agreement upon thirty (30) days' written notice if the other party breaches any material term of this Agreement and fails to cure such breach within the thirty (30) day notice period.
+
+5.3. Upon termination or expiration of this Agreement, Licensee shall immediately cease using the Software and Documentation and return or destroy all copies thereof.
+
+**6. CONFIDENTIALITY**
+
+6.1. "Confidential Information" means any non-public information disclosed by one party to the other that is marked as confidential or that reasonably should be understood to be confidential given the nature of the information.
+
+6.2. Each party agrees not to use the other party's Confidential Information except as necessary for the performance of this Agreement and not to disclose such Confidential Information to any third party without the prior written consent of the disclosing party.
+
+**7. WARRANTIES AND DISCLAIMERS**
+
+7.1. Canvassian warrants that the Software will perform substantially in accordance with the Documentation for a period of ninety (90) days from the Effective Date. If the Software does not perform as warranted, Canvassian shall use commercially reasonable efforts to correct any defects promptly.
+
+7.2. EXCEPT AS EXPRESSLY SET FORTH HEREIN, THE SOFTWARE IS PROVIDED "AS IS" AND CANVASSIAN DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+**8. LIMITATION OF LIABILITY**
+
+8.1. IN NO EVENT SHALL CANVASSIAN BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO THIS AGREEMENT, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, DATA, OR USE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8.2. IN NO EVENT SHALL CANVASSIAN'S TOTAL LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT EXCEED THE AMOUNTS PAID BY LICENSEE TO CANVASSIAN UNDER THIS AGREEMENT.
+
+**9. MISCELLANEOUS**
+
+9.1. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia, without regard to its conflict of laws principles.
+
+9.2. Entire Agreement. This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous understandings, agreements, negotiations, and communications, both written and oral.
+
+9.3. Amendments. No modification or amendment of this Agreement shall be binding unless in writing and signed by both parties hereto.
+
+9.4. Assignment. Licensee may not assign or transfer this Agreement, in whole or in part, without the prior written consent of Canvassian. Any attempted assignment or transfer in violation of the foregoing shall be void.
+
+9.5. Severability. If any provision of this Agreement is held to be invalid or unenforceable, the invalidity or unenforceability shall not affect the other provisions of this Agreement.
+
+9.6. Waiver. No waiver by either party of any breach of this Agreement shall constitute a waiver of any other or subsequent breach, and no waiver shall be effective unless made in writing and signed by an authorized representative of the waiving party.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Effective Date.
+
+**Canvassian Pty Ltd**:
+
+By: _______________________
+
+Name: Jane Wu
+
+Title: CEO
+
+**Nexa Solutions Inc.**:
+
+By: _______________________
+
+Name: John Smith
+
+Title: CEO
+
+**EXHIBIT A - SOFTWARE DESCRIPTION**
+
+[List detailed descriptions of the software products being licensed.]
+
+**EXHIBIT B - LICENSE FEES**
+
+[List the fees associated with the licenses being granted.]
+
+---
+
+This Software License Agreement is hereby entered into by Canvassian Pty Ltd and Nexa Solutions Inc. as of the Effective Date stated above.

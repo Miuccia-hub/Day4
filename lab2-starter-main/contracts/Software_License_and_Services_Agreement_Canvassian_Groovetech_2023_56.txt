@@ -1,0 +1,108 @@
+**Software License and Services Agreement**
+
+**This Software License and Services Agreement (the "Agreement") is made and entered into as of this 15th day of October, 2023 (the "Effective Date"), by and between Canvassian Pty Ltd, an Australian software company, with its principal place of business at 123 Innovation Drive, Tech Park, Sydney, Australia ("Licensor") and Groovetech Solutions Inc., a company organized and existing under the laws of Delaware, USA, with its principal place of business at 75 Broad Street, New York, NY 10004, USA ("Licensee").**
+
+**1. Definitions**
+
+1.1 "Software" means the proprietary software product developed by Licensor, including any updates, upgrades, patches, and enhancements made available to Licensee under this Agreement.
+
+1.2 "Services" means the support and maintenance services provided by Licensor as described in Exhibit A.
+
+1.3 "Documentation" means any user manuals, technical documentation, and other materials provided by Licensor regarding the use and operation of the Software.
+
+1.4 "Confidential Information" means any information disclosed by one party (the "Disclosing Party") to the other party (the "Receiving Party") that is designated as confidential or that, given the nature of the information or circumstances surrounding its disclosure, should reasonably be understood to be confidential.
+
+**2. License Grant**
+
+2.1 **License.** Subject to the terms and conditions of this Agreement, Licensor grants Licensee a non-exclusive, non-transferable license to use the Software and Documentation solely for Licensee's internal business purposes.
+
+2.2 **Restrictions.** Licensee shall not (i) modify, adapt, or create derivative works of the Software; (ii) reverse engineer, decompile, disassemble, or attempt to derive the source code of the Software; (iii) sublicense, lease, rent, or distribute the Software to any third party; or (iv) use the Software in any unlawful manner or for any unlawful purpose.
+
+**3. Payment Terms**
+
+3.1 **License Fee.** Licensee shall pay to Licensor a one-time license fee of Fifty Thousand US Dollars ($50,000) as consideration for the license granted under this Agreement.
+
+3.2 **Service Fee.** Licensee shall pay to Licensor an annual service fee of Ten Thousand US Dollars ($10,000) for the Services provided under this Agreement.
+
+3.3 **Payment Terms.** All fees due under this Agreement shall be payable within thirty (30) days of the date of the applicable invoice. Any amounts not paid when due shall accrue interest at a rate of one and a half percent (1.5%) per month, or the highest rate allowed by law, whichever is lower.
+
+**4. Services**
+
+4.1 **Support.** Licensor shall provide Licensee with support and maintenance services for the Software in accordance with the terms and conditions set forth in Exhibit A.
+
+4.2 **Service Levels.** Licensor shall use commercially reasonable efforts to ensure that the Software operates substantially in accordance with the Documentation and that the Services are provided in a professional and workmanlike manner.
+
+**5. Confidentiality**
+
+5.1 **Obligations.** The Receiving Party shall (i) protect the Confidential Information of the Disclosing Party with the same degree of care it uses to protect its own confidential information, but in no event less than reasonable care; (ii) not use any Confidential Information of the Disclosing Party for any purpose outside the scope of this Agreement; and (iii) not disclose Confidential Information of the Disclosing Party to any third party, except to its employees, contractors, and agents who are bound by obligations of confidentiality at least as restrictive as those set forth herein.
+
+5.2 **Exceptions.** Confidential Information shall not include any information that (i) is or becomes publicly available without breach of this Agreement by the Receiving Party; (ii) was known to the Receiving Party before receipt from the Disclosing Party; (iii) is received by the Receiving Party from a third party without breach of any obligation of confidentiality; or (iv) was independently developed by the Receiving Party without use of or reference to the Disclosing Party's Confidential Information.
+
+**6. Warranties and Disclaimers**
+
+6.1 **Mutual Warranties.** Each party represents and warrants that it has the legal power to enter into this Agreement and that this Agreement constitutes a valid and binding obligation enforceable against it in accordance with its terms.
+
+6.2 **Software Warranties.** Licensor warrants that (i) the Software will perform substantially in accordance with the Documentation for a period of ninety (90) days from the Effective Date; and (ii) the Services will be performed in a professional and workmanlike manner. Licensee's exclusive remedy and Licensor's entire liability for a breach of this warranty shall be, at Licensor's option, to (a) repair or replace the Software or re-perform the Services to conform to the warranty, or (b) terminate this Agreement and refund any fees paid by Licensee for the non-conforming Software or Services.
+
+6.3 **Disclaimer.** EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN THIS SECTION 6, THE SOFTWARE AND SERVICES ARE PROVIDED "AS IS" AND LICENSOR DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+**7. Limitation of Liability**
+
+7.1 **Exclusion of Damages.** IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUE, ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, WHETHER BASED IN CONTRACT, TORT (INCLUDING NEGLIGENCE), OR ANY OTHER LEGAL THEORY, EVEN IF THE OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+7.2 **Limitation of Liability.** IN NO EVENT SHALL EITHER PARTY'S AGGREGATE LIABILITY ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT EXCEED THE AMOUNTS PAID OR PAYABLE BY LICENSEE TO LICENSOR UNDER THIS AGREEMENT.
+
+**8. Term and Termination**
+
+8.1 **Term.** This Agreement shall commence on the Effective Date and continue for a period of one (1) year, unless earlier terminated as provided herein. This Agreement shall automatically renew for additional one (1) year terms unless either party provides written notice of non-renewal at least sixty (60) days before the end of the then-current term.
+
+8.2 **Termination for Breach.** Either party may terminate this Agreement upon written notice to the other party if the other party materially breaches this Agreement and fails to cure such breach within thirty (30) days after receiving written notice of the breach.
+
+8.3 **Effect of Termination.** Upon termination of this Agreement for any reason, (i) all licenses granted herein shall immediately terminate; (ii) Licensee shall immediately cease all use of the Software and return or destroy all copies of the Software and Documentation in its possession or control; and (iii) Licensee shall pay to Licensor all fees due and owing under this Agreement as of the effective date of termination.
+
+**9. Miscellaneous**
+
+9.1 **Governing Law.** This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia without regard to its conflict of laws principles.
+
+9.2 **Dispute Resolution.** Any disputes arising under or in connection with this Agreement shall be resolved by binding arbitration conducted in Sydney, Australia in accordance with the rules of the Australian Centre for International Commercial Arbitration (ACICA).
+
+9.3 **Notices.** All notices required or permitted to be given under this Agreement shall be in writing and shall be deemed to have been given (i) when delivered by hand; (ii) one (1) business day after being sent by a nationally recognized overnight courier; or (iii) three (3) business days after being mailed by certified or registered mail, return receipt requested, to the addresses set forth above.
+
+9.4 **Entire Agreement.** This Agreement constitutes the entire agreement between the parties and supersedes all prior and contemporaneous agreements, proposals, or representations, written or oral, concerning its subject matter. No modification, amendment, or waiver of any provision of this Agreement shall be effective unless in writing and signed by both parties.
+
+9.5 **Waiver.** No failure or delay by either party in exercising any right under this Agreement shall constitute a waiver of that right.
+
+IN WITNESS WHEREOF, the parties hereto have caused this Software License and Services Agreement to be executed by their duly authorized representatives as of the Effective Date.
+
+**CANVASSIAN PTY LTD**
+
+By: ___________________________
+
+Name: Jane Wu
+
+Title: CEO
+
+**GROOVETECH SOLUTIONS INC.**
+
+By: ___________________________
+
+Name: Michael Davis
+
+Title: COO
+
+
+**Exhibit A: Support and Maintenance Services**
+
+**1. Support Services**
+
+1.1 **Technical Support.** Licensor shall provide Technical Support to Licensee via telephone and email on a 24/7 basis.
+
+1.2 **Error Correction.** Licensor shall use commercially reasonable efforts to correct any reproducible error in the Software reported by Licensee in accordance with Licensor's standard support procedures.
+
+1.3 **Upgrades and Updates.** Licensor shall provide Licensee with all updates and upgrades to the Software that Licensor makes generally available to its other licensees at no additional charge.
+
+**2. Maintenance Services**
+
+2.1 **Scheduled Maintenance.** Licensor may perform scheduled maintenance on the Software from time to time. Licensor shall use commercially reasonable efforts to provide Licensee with at least forty-eight (48) hours prior notice of any scheduled maintenance.
+
+2.2 **Emergency Maintenance.** Licensor may perform emergency maintenance on the Software as needed, without prior notice to Licensee. Licensor shall use commercially reasonable efforts to minimize the impact of such emergency maintenance on the availability of the Software.

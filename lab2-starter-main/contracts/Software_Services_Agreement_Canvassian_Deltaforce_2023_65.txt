@@ -1,0 +1,115 @@
+---
+
+**Software Services Agreement**
+
+**This Software Services Agreement ("Agreement") is made and entered into this 1st day of October, 2023 (the "Effective Date") by and between:**
+
+**Canvassian Pty Ltd**, an Australian corporation having its principal place of business at 45 Innovation Drive, Sydney, NSW 2000, Australia ("Canvassian" or "Provider")
+
+and
+
+**Deltaforce Corporation**, a corporation having its principal place of business at 123 Market Street, Melbourne, VIC 3000, Australia ("Deltaforce" or "Client").
+
+**WHEREAS:**
+
+a) Canvassian is engaged in the business of providing software solutions and related services; and 
+
+b) Deltaforce desires to engage Canvassian to provide certain software services under the terms and conditions set forth herein;
+
+**NOW, THEREFORE, in consideration of the mutual promises contained herein and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereby agree as follows:**
+
+**1. Definitions**
+
+1.1 "Services" means the software services and deliverables specified in Exhibit A attached hereto.
+
+1.2 "Deliverables" means the outcomes and products to be delivered by Canvassian as specified in Exhibit A.
+
+**2. Scope of Services**
+
+2.1 Canvassian agrees to perform the Services for Deltaforce as described in Exhibit A with the highest professional standards.
+
+2.2 Any changes or additions to the Services or Deliverables must be set forth in writing and signed by both parties.
+
+**3. Term and Termination**
+
+3.1 This Agreement shall commence on the Effective Date and shall continue for a period of twelve (12) months unless earlier terminated in accordance with this Agreement.
+
+3.2 Either party may terminate this Agreement with or without cause by giving thirty (30) days' written notice to the other party.
+
+3.3 Upon termination of this Agreement for any reason, Canvassian shall cease all work on behalf of Deltaforce and shall deliver to Deltaforce all completed deliverables and work in progress.
+
+**4. Fees and Payment**
+
+4.1 In consideration for the Services, Deltaforce shall pay Canvassian the fees as set forth in Exhibit B attached hereto.
+
+4.2 Invoices shall be submitted by Canvassian on a monthly basis and shall be payable within thirty (30) days of receipt.
+
+4.3 All fees are exclusive of GST, VAT, or other local taxes which shall be borne by Deltaforce.
+
+**5. Confidentiality**
+
+5.1 Each party agrees to keep the other party's Confidential Information secure and not to disclose it to any third party except as required by law.
+
+5.2 "Confidential Information" shall include all information disclosed by either party identified as confidential at the time of disclosure or that reasonably should be understood to be confidential.
+
+**6. Intellectual Property Rights**
+
+6.1 Canvassian retains all intellectual property rights in the software and methodologies used in providing the Services.
+
+6.2 Deltaforce shall have a limited, non-exclusive license to use the software developed by Canvassian solely for its internal business purposes.
+
+**7. Warranties and Disclaimers**
+
+7.1 Canvassian warrants that the Services will be performed in a professional and workmanlike manner.
+
+7.2 Except as expressly stated herein, Canvassian makes no other warranties, express or implied, including but not limited to, the implied warranties of merchantability and fitness for a particular purpose.
+
+**8. Limitation of Liability**
+
+8.1 In no event shall either party be liable to the other for any indirect, special, incidental, or consequential damages, arising out of or related to this Agreement.
+
+8.2 Canvassian’s total liability under this Agreement shall not exceed the amount of fees paid by Deltaforce to Canvassian in the twelve (12) months preceding the event giving rise to the claim.
+
+**9. Miscellaneous**
+
+9.1 This Agreement sets forth the entire agreement between the parties and supersedes all prior discussions, agreements, or understandings of any kind.
+
+9.2 This Agreement shall be governed by and construed in accordance with the laws of New South Wales, Australia.
+
+9.3 Any notices required under this Agreement shall be in writing and sent to the addresses specified above.
+
+9.4 This Agreement may be executed in counterparts, each of which shall be deemed an original, and together they shall constitute one and the same agreement.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Software Services Agreement as of the Effective Date.
+
+**Canvassian Pty Ltd**
+
+By: ___________________________
+Name: Jane Wu
+Title: CEO
+Date: 01 October 2023
+
+**Deltaforce Corporation**
+
+By: ___________________________
+Name: Michael Roberts
+Title: CTO
+Date: 01 October 2023
+
+---
+
+**Exhibit A - Scope of Services** 
+
+- Provide a comprehensive suite of software solutions to manage and optimize Deltaforce’s supply chain operations.
+- Deliver reports and analytics tools integrated into Deltaforce’s existing systems.
+- Offer support and maintenance services for a period of twelve months.
+
+---
+
+**Exhibit B - Fees and Payment Schedule**
+
+- Monthly Service Fee: AUD 50,000
+- Implementation Fee: AUD 100,000 (one-time)
+- Support and Maintenance Fee: AUD 10,000 per month
+
+---

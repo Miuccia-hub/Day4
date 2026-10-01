@@ -1,0 +1,93 @@
+from pathlib import Path
+
+import streamlit as st
+
+from rag_core import EvidenceStore, build_due_diligence_report, change_control_review
+
+
+ROOT = Path(__file__).resolve().parent
+st.set_page_config(page_title="Canvassian DealScope", page_icon="⚖️", layout="wide")
+
+
+@st.cache_resource(show_spinner=False)
+def get_store() -> EvidenceStore:
+    store = EvidenceStore(ROOT)
+    store.ensure_index()
+    return store
+
+
+st.title("Canvassian DealScope")
+st.caption("Evidence-grounded buyer-side M&A due diligence • every finding links back to supplied text")
+
+with st.sidebar:
+    st.header("Index")
+    if st.button("Rebuild index", use_container_width=True):
+        with st.spinner("Reading, chunking and indexing the corpus…"):
+            get_store().ensure_index(force=True)
+        st.success("Index rebuilt")
+    store = get_store()
+    stats = store.stats()
+    st.metric("Documents", stats["documents"])
+    st.metric("Searchable chunks", stats["chunks"])
+    st.caption(f"Backend: {stats['backend']}")
+    st.warning("The brief says 1,000 documents; only 750 were supplied.")
+
+report_tab, search_tab, clauses_tab, about_tab = st.tabs(
+    ["Board report", "Evidence search", "Control clauses", "Methodology"]
+)
+
+with report_tab:
+    st.subheader("Preliminary Board report")
+    if "report" not in st.session_state:
+        st.session_state.report = build_due_diligence_report(store)
+    if st.button("Regenerate from current index"):
+        with st.spinner("Running the risk workplan…"):
+            st.session_state.report = build_due_diligence_report(store)
+    st.markdown(st.session_state.report)
+    st.download_button(
+        "Download report (.md)", st.session_state.report,
+        file_name="canvassian_due_diligence_report.md", mime="text/markdown",
+    )
+
+with search_tab:
+    st.subheader("Search all evidence")
+    query = st.text_input("Question or search terms", placeholder="e.g. What evidence supports PayWise financial distress?")
+    left, right = st.columns([1, 1])
+    category_label = left.selectbox("Document type", ["All", "Board papers", "Contracts", "Emails"])
+    top_k = right.slider("Results", 3, 20, 8)
+    mapping = {"Board papers": "board_papers", "Contracts": "contracts", "Emails": "emails"}
+    if query:
+        results = store.search(query, top_k=top_k, category=mapping.get(category_label))
+        for rank, result in enumerate(results, 1):
+            with st.expander(f"{rank}. {result.chunk.title} — score {result.score:.3f}", expanded=rank <= 3):
+                st.caption(f"{result.citation} • {result.chunk.category} • {result.chunk.date or 'date not parsed'}")
+                st.markdown(result.chunk.text)
+
+with clauses_tab:
+    st.subheader("Six major clients — change-in-control triage")
+    rows = change_control_review(ROOT)
+    st.dataframe(
+        [{k: v for k, v in row.items() if k not in {"sources", "evidence"}} for row in rows],
+        use_container_width=True, hide_index=True,
+    )
+    st.info("ADVERSE = express change-in-control language found. REVIEW = no express match, but termination-for-convenience language found. NOT FOUND is not a legal clearance.")
+    for row in rows:
+        if row["evidence"]:
+            with st.expander(f"{row['client']} clause evidence"):
+                for evidence in row["evidence"]:
+                    st.write(evidence)
+
+with about_tab:
+    st.subheader("How it works")
+    st.markdown(
+        """
+1. Every supplied `.txt` file is read with source, type, title, date and major-client metadata.
+2. Documents are split into overlapping, line-addressable chunks.
+3. ChromaDB stores deterministic local embeddings; search then reranks results using exact legal-language overlap.
+4. A fixed M&A risk workplan retrieves evidence for the instructed risks and other material issues.
+5. The report quotes the evidence and retains file/line citations. No external API or confidential-data upload is required.
+
+This is rapid document triage. It does not determine privilege, authenticity, execution status, completeness or legal effect.
+        """
+    )
+

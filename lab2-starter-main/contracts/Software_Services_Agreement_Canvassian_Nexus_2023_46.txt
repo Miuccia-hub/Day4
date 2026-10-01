@@ -1,0 +1,83 @@
+**SOFTWARE SERVICES AGREEMENT**
+
+**This Software Services Agreement (“Agreement”) is made and entered into as of October 15, 2023, by and between Canvassian Pty Ltd, an Australian corporation with its principal place of business located at 123 Tech Drive, Sydney, NSW, (“Service Provider”), and Nexus Innovations Ltd., a corporation with its principal place of business located at 456 Innovation Lane, Melbourne, VIC (“Client”).**
+
+**WHEREAS,** the Client desires to procure software development and related services from the Service Provider, and the Service Provider agrees to furnish such services to the Client under the terms and conditions set forth in this Agreement;
+
+**NOW, THEREFORE,** in consideration of the mutual covenants herein contained, the parties hereby agree as follows:
+
+### 1. **Services Provided**
+
+1.1 **Scope of Services**  
+The Service Provider agrees to provide the Client with the software development services (“Services”) detailed in Schedule A attached hereto.
+
+1.2 **Modifications and Changes**  
+Any modifications or changes to the scope of the Services must be agreed in writing by both parties and may result in additional charges.
+
+### 2. **Term and Termination**
+
+2.1 **Term**  
+This Agreement shall commence on the Effective Date and shall continue for a period of twelve (12) months unless earlier terminated in accordance with the terms of this Agreement.
+
+2.2 **Termination**  
+Either party may terminate this Agreement upon thirty (30) days written notice to the other party. In the event of termination, the Client shall pay the Service Provider for all Services rendered up to the date of termination.
+
+### 3. **Payment Terms**
+
+3.1 **Fees**  
+The Client agrees to pay the Service Provider the fees specified in Schedule B attached hereto.
+
+3.2 **Invoices**  
+The Service Provider shall invoice the Client on a monthly basis, and the Client agrees to pay each invoice within thirty (30) days of receipt.
+
+3.3 **Late Payments**  
+Any payment not made when due shall incur interest at the rate of 1.5% per month until paid.
+
+### 4. **Intellectual Property**
+
+4.1 **Ownership**  
+All intellectual property rights, including but not limited to copyrights and patents, created or developed in connection with the Services shall be the sole property of the Client, except as otherwise agreed in writing.
+
+### 5. **Confidentiality**
+
+5.1 **Confidential Information**  
+Each party agrees to treat as confidential all information provided by the other party, whether marked as confidential or not, and not to disclose such information to any third party without the prior written consent of the disclosing party.
+
+### 6. **Warranties and Representations**
+
+6.1 **Mutual Warranties**  
+Each party represents and warrants to the other party that it has the full power and authority to enter into this Agreement and to perform its obligations hereunder.
+
+6.2 **Service Provider Warranties**  
+The Service Provider warrants that the Services will be performed in a professional and workmanlike manner and that the software provided will substantially conform to the specifications agreed upon by the parties.
+
+### 7. **Limitation of Liability**
+
+7.1 **Liability Limitation**  
+In no event shall either party be liable for any indirect, incidental, special, or consequential damages, including but not limited to lost profits or revenue, even if advised of the possibility of such damages.
+
+### 8. **General Provisions**
+
+8.1 **Governing Law**  
+This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia.
+
+8.2 **Dispute Resolution**  
+Any dispute arising out of or in connection with this Agreement shall be resolved through good faith negotiation between the parties. If the dispute cannot be resolved through negotiation, it shall be submitted to mediation.
+
+8.3 **Entire Agreement**  
+This Agreement, including any schedules or exhibits hereto, constitutes the entire understanding and agreement between the parties with respect to the subject matter hereof and supersedes all prior agreements, understandings, or representations.
+
+8.4 **Amendments**  
+No modification, amendment, or waiver of any provision of this Agreement shall be effective unless in writing and signed by both parties.
+
+**IN WITNESS WHEREOF,** the parties hereto have executed this Software Services Agreement as of the Effective Date.
+
+**Canvassian Pty Ltd**  
+By:_________________________  
+Name: Jane Wu  
+Title: CEO  
+
+**Nexus Innovations Ltd.**  
+By:_________________________  
+Name: John Smith  
+Title: CEO  

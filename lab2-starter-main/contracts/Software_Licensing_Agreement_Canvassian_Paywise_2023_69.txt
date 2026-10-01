@@ -1,0 +1,97 @@
+### SOFTWARE LICENSING AGREEMENT
+
+**THIS SOFTWARE LICENSING AGREEMENT** (the "Agreement") is made and entered into as of the 1st day of October, 2023 (the "Effective Date"), by and between:
+
+**Canvassian Pty Ltd.**  
+An Australian company with its principal place of business at 123 Tech Avenue, Sydney, NSW 2000, Australia  
+(hereinafter "Licensor")
+
+AND
+
+**Paywise Solutions Pty Ltd.**  
+An Australian company with its principal place of business at 456 Finance Street, Melbourne, VIC 3000, Australia  
+(hereinafter "Licensee")
+
+**RECITALS**
+
+WHEREAS, Licensor is the owner of proprietary software known as [Software Name], hereinafter referred to as the "Software";
+
+WHEREAS, Licensee desires to obtain, and Licensor is willing to grant, a license to use the Software under the terms and conditions set forth in this Agreement.
+
+**NOW, THEREFORE**, in consideration of the mutual covenants contained herein, the parties hereto agree as follows:
+
+### 1. GRANT OF LICENSE
+1.1 **License**: Licensor hereby grants to Licensee a non-exclusive, non-transferable, worldwide license to use the Software solely for its internal business operations.
+
+1.2 **Limitations**: Licensee shall not, and shall not permit any third party to:
+   a) Modify, adapt, alter, translate, or create derivative works from the Software;
+   b) Merge the Software with other software;
+   c) Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software;
+   d) Rent, lease, loan, sell, sublicense, distribute, transmit, or otherwise transfer the Software to any third party.
+
+### 2. TERM AND TERMINATION
+2.1 **Term**: This Agreement shall commence on the Effective Date and shall continue for a period of one (1) year, unless earlier terminated in accordance with this Section.
+
+2.2 **Termination for Convenience**: Either party may terminate this Agreement at any time by providing thirty (30) days written notice to the other party.
+
+2.3 **Termination for Cause**: Licensor may terminate this Agreement immediately upon written notice to Licensee if:
+   a) Licensee breaches any material term of this Agreement and fails to cure such breach within thirty (30) days after receiving written notice of the breach;
+   b) Licensee becomes insolvent, files for bankruptcy, or has a receiver appointed for its assets.
+
+2.4 **Effect of Termination**: Upon termination of this Agreement, Licensee shall promptly cease all use of the Software and return or destroy all copies of the Software and related documentation in its possession or control.
+
+### 3. FEES AND PAYMENT
+3.1 **License Fee**: In consideration for the license granted under this Agreement, Licensee shall pay Licensor an annual license fee of AUD 50,000, payable within thirty (30) days of the Effective Date.
+
+3.2 **Taxes**: Licensee shall be responsible for all taxes, duties, levies, or similar governmental charges, excluding taxes based on Licensor's net income, in connection with the performance of this Agreement.
+
+### 4. CONFIDENTIALITY
+4.1 **Confidential Information**: Each party agrees that all information disclosed by one party to the other, including but not limited to Software, business plans, customer lists, and financial data, designated as confidential or which a reasonable person would understand to be confidential, shall be treated as confidential ("Confidential Information").
+
+4.2 **Non-Disclosure**: Each party agrees not to disclose, disseminate, or use any Confidential Information of the other party for any purpose other than as necessary to perform its obligations or exercise its rights under this Agreement.
+
+### 5. WARRANTIES AND DISCLAIMERS
+5.1 **Warranties**: Licensor represents and warrants that it has the right to grant the license to use the Software and that the Software will substantially conform to the documentation provided by Licensor.
+
+5.2 **Disclaimer**: EXCEPT AS EXPRESSLY PROVIDED IN THIS AGREEMENT, THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. 
+
+### 6. INDEMNIFICATION
+6.1 **Indemnity by Licensor**: Licensor shall defend, indemnify, and hold harmless Licensee from and against any claims, liabilities, damages, losses, or expenses (including reasonable attorneys' fees) arising out of or in connection with any claim that the Software infringes any intellectual property right of any third party.
+
+6.2 **Indemnity by Licensee**: Licensee shall defend, indemnify, and hold harmless Licensor from and against any claims, liabilities, damages, losses, or expenses (including reasonable attorneys' fees) arising out of or in connection with Licensee's use of the Software.
+
+### 7. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUE, WHETHER INCURRED DIRECTLY OR INDIRECTly, ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT.
+
+### 8. GENERAL PROVISIONS
+8.1 **Governing Law**: This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia, without regard to its conflicts of laws principles.
+
+8.2 **Entire Agreement**: This Agreement constitutes the entire agreement between the parties and supersedes all prior or contemporaneous agreements, understandings, and communications, whether written or oral, relating to the subject matter hereof.
+
+8.3 **Amendments**: No modification or amendment of this Agreement shall be binding unless made in writing and signed by a duly authorized representative of each party.
+
+8.4 **Severability**: If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+8.5 **Waiver**: No waiver of any provision of this Agreement shall be deemed a waiver of any other provision, nor shall any waiver constitute a continuing waiver.
+
+8.6 **Notices**: Any notices required or permitted under this Agreement shall be in writing and shall be deemed to have been given when delivered personally, by express courier, by facsimile, by email with confirmed receipt, or by certified mail, postage prepaid, to the addresses specified above.
+
+**IN WITNESS WHEREOF**, the parties hereto have executed this Software Licensing Agreement as of the Effective Date.
+
+#### LICENSOR
+**Canvassian Pty Ltd.**
+
+_____________________________  
+Jane Wu, CEO  
+
+_____________________________  
+Edon Mask, CTO
+
+#### LICENSEE
+**Paywise Solutions Pty Ltd.**
+
+_____________________________  
+Michael Thompson, CEO  
+
+_____________________________  
+Sarah Bergman, CIO

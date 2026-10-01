@@ -1,0 +1,114 @@
+**SOFTWARE DEVELOPMENT AND SERVICES AGREEMENT**
+
+**This Agreement** is entered into on this 1st day of December, 2023, by and between:
+
+1. **Canvassian Pty Ltd**., an Australian corporation with its principal office located at 123 Innovation Drive, Sydney, New South Wales 2000, Australia, hereinafter referred to as "Canvassian";
+
+-and-
+
+2. **Paywise Ltd**., a company incorporated and existing under the laws of Australia, with its principal office located at 456 Financial Avenue, Melbourne, Victoria 3000, Australia, hereinafter referred to as "Paywise".
+
+**RECITALS**
+
+WHEREAS Canvassian is engaged in the business of software development and providing IT services; and
+
+WHEREAS Paywise desires to retain Canvassian to develop custom software and related services as specified in this Agreement and Canvassian agrees to render such services under the terms and conditions hereinafter set forth;
+
+NOW, THEREFORE, in consideration of the mutual covenants herein contained, the parties hereto agree as follows:
+
+**1. DEFINITIONS**
+
+1.1 "Deliverables" means the software, documentation, and any other materials to be delivered to Paywise as specified in Schedule A of this Agreement.
+
+1.2 "Services" means the software development, installation, maintenance, support, and any other services to be provided by Canvassian as specified in Schedule A.
+
+**2. SCOPE OF SERVICES**
+
+2.1 Canvassian agrees to develop and provide to Paywise the Deliverables and perform the Services in accordance with the specifications and timelines set forth in Schedule A.
+
+2.2 Any changes to the scope of Services and Deliverables must be agreed upon in writing by both parties.
+
+**3. TERM AND TERMINATION**
+
+3.1 This Agreement shall commence on the date hereof and shall continue for a period of one (1) year, unless earlier terminated in accordance with this Agreement.
+
+3.2 Either party may terminate this Agreement for convenience upon sixty (60) days' prior written notice to the other party.
+
+3.3 Either party may terminate this Agreement immediately upon written notice if the other party breaches any material term of this Agreement and fails to cure such breach within thirty (30) days after receipt of written notice of such breach.
+
+**4. COMPENSATION**
+
+4.1 Paywise shall pay Canvassian for the Deliverables and Services in accordance with the payment schedule set forth in Schedule B.
+
+4.2 All payments shall be made within thirty (30) days of receipt of an invoice from Canvassian.
+
+**5. INTELLECTUAL PROPERTY**
+
+5.1 Canvassian retains all rights, title, and interest in and to all software, documentation, and any other materials developed under this Agreement, including all intellectual property rights.
+
+5.2 Paywise is granted a non-exclusive, non-transferable license to use the Deliverables for its internal purposes only.
+
+**6. CONFIDENTIALITY**
+
+6.1 Each party agrees to keep confidential and not to disclose to any third party any confidential information received from the other party in connection with this Agreement, except as required by law.
+
+6.2 The confidentiality obligations set forth in this section shall survive the termination of this Agreement.
+
+**7. WARRANTIES AND DISCLAIMERS**
+
+7.1 Canvassian warrants that the Deliverables will substantially conform to the specifications set forth in Schedule A for a period of ninety (90) days following delivery.
+
+7.2 Except as expressly provided in this Agreement, Canvassian makes no other warranties, express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose.
+
+**8. INDEMNIFICATION**
+
+8.1 Each party agrees to indemnify, defend, and hold harmless the other party from and against any and all losses, liabilities, damages, and expenses (including reasonable attorneys' fees) arising out of or relating to any claim, demand, or action by a third party alleging injury, damage, or loss resulting from the negligence or willful misconduct of the indemnifying party.
+
+**9. LIMITATION OF LIABILITY**
+
+9.1 In no event shall either party be liable for any indirect, incidental, special, or consequential damages, including but not limited to loss of profits or revenue, arising out of or in connection with this Agreement.
+
+**10. GENERAL**
+
+10.1 This Agreement constitutes the entire agreement between the parties and supersedes all prior agreements, understandings, and communications, whether written or oral, between the parties regarding the subject matter of this Agreement.
+
+10.2 This Agreement may not be amended or modified except in writing signed by both parties.
+
+10.3 This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia.
+
+10.4 Any disputes arising out of or in connection with this Agreement shall be resolved by binding arbitration in Sydney, New South Wales, in accordance with the rules of the Australian Centre for International Commercial Arbitration (ACICA).
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the day and year first above written.
+
+**Canvassian Pty Ltd** 
+
+By: ____________________________
+
+Name: Jane Wu
+
+Title: CEO
+
+**Paywise Ltd** 
+
+By: ____________________________
+
+Name: John Smith
+
+Title: CFO
+
+**Schedule A**
+
+**Scope of Services and Deliverables**
+
+- Development of a custom financial management software.
+- Implementation and integration with Paywise's existing systems.
+- Training and support services for Paywise's staff.
+- Timeline: Initial delivery within six (6) months from the start date.
+
+**Schedule B**
+
+**Payment Schedule**
+
+- Initial deposit upon signing: AUD 50,000
+- Monthly milestone payments: AUD 20,000 per month
+- Final payment upon completion: AUD 30,000

@@ -1,0 +1,112 @@
+**SOFTWARE DEVELOPMENT AND SERVICES AGREEMENT**
+
+This Software Development and Services Agreement ("Agreement") is entered into as of this 15th day of October, 2023, by and between:
+
+**Canvassian Pty Ltd**  
+A software company incorporated in Australia  
+with its principal place of business at  
+123 Innovation Drive, Sydney, NSW, 2000, Australia  
+(hereinafter referred to as "Vendor")
+
+AND
+
+**Deltaforce Ltd**  
+A logistics and supply chain solutions company incorporated in Australia  
+with its principal place of business at  
+456 Commerce Park, Melbourne, VIC, 3000, Australia  
+(hereinafter referred to as "Client")
+
+**RECITALS**
+
+WHEREAS, Client desires to engage Vendor to provide software development and related services; and
+
+WHEREAS, Vendor has the expertise and resources to provide such services to Client;
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises herein contained, the parties hereto agree as follows:
+
+1. **Scope of Services**
+
+   1.1 Vendor shall develop and deliver a customized logistics management software (hereinafter referred to as “Software”) as specified in Exhibit A attached hereto.
+
+   1.2 Vendor shall provide ongoing support and maintenance services as outlined in Exhibit B attached hereto.
+
+2. **Term**
+
+   2.1 The initial term of this Agreement shall commence on October 15, 2023, and shall continue for a period of 24 months, unless terminated earlier in accordance with the provisions of this Agreement.
+
+   2.2 The term may be extended by mutual written consent of both parties.
+
+3. **Compensation**
+
+   3.1 Client agrees to pay Vendor a total fee of AUD 500,000 for the development of the Software, payable in the following installments:
+   - 20% upon signing of this Agreement (AUD 100,000)
+   - 30% upon delivery of the beta version of the Software (AUD 150,000)
+   - 50% upon final acceptance of the Software (AUD 250,000)
+
+   3.2 Ongoing support and maintenance services will be billed at a rate of AUD 10,000 per month.
+
+4. **Delivery and Acceptance**
+
+   4.1 Vendor shall deliver the beta version of the Software by May 1, 2024, and the final version by August 1, 2024.
+
+   4.2 Client shall have 30 days from the delivery of each version to test and accept or reject the Software. Acceptance shall not be unreasonably withheld.
+
+5. **Confidentiality**
+
+   5.1 Each party agrees to maintain the confidentiality of the other party’s proprietary and confidential information disclosed under this Agreement.
+
+6. **Intellectual Property**
+
+   6.1 All intellectual property rights, including copyrights and patents, arising out of the development of the Software shall be owned by Vendor.
+
+6.2 Vendor grants Client a perpetual, non-exclusive, royalty-free license to use the Software for its internal business purposes.
+
+7. **Warranties and Representations**
+
+   7.1 Vendor warrants that the Software will perform substantially in accordance with the specifications set forth in Exhibit A for a period of 12 months following the final acceptance.
+
+   7.2 Vendor warrants that it has the right to grant the licenses granted herein, and that to the best of its knowledge, the Software does not infringe any third party’s intellectual property rights.
+
+8. **Limitation of Liability**
+
+   8.1 Except in cases of gross negligence or willful misconduct, neither party shall be liable to the other for any indirect, incidental, consequential, or special damages arising out of or in connection with this Agreement.
+
+9. **Termination**
+
+   9.1 Either party may terminate this Agreement upon 60 days' written notice to the other party.
+
+   9.2 Upon termination, Client shall pay Vendor for all services rendered and costs incurred up to the date of termination.
+
+10. **Governing Law**
+
+    10.1 This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia.
+
+11. **Entire Agreement**
+
+    11.1 This Agreement, including its Exhibits, constitutes the entire agreement between the parties and supersedes all prior or contemporaneous agreements or representations, whether written or oral.
+
+12. **Notices**
+
+    12.1 All notices required or permitted to be given under this Agreement shall be in writing and shall be delivered by courier, facsimile, or email to the addresses set forth above.
+
+**IN WITNESS WHEREOF**, the parties hereto have executed this Agreement as of the day and year first above written.
+
+**Canvassian Pty Ltd**
+
+By:  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+Jane Wu, CEO  
+
+**Deltaforce Ltd**
+
+By:  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+Robert Sterling, CEO
+
+**Exhibit A: Software Specifications**
+
+(Details of the software specifications to be attached here.)
+
+**Exhibit B: Support and Maintenance Services**
+
+(Details of support and maintenance services to be attached here.)

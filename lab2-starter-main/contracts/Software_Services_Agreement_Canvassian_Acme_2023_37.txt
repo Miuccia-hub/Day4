@@ -1,0 +1,101 @@
+**SOFTWARE SERVICES AGREEMENT**
+
+This Software Services Agreement ("Agreement") is entered into as of this 1st day of October, 2023, by and between Canvassian Pty Ltd ("Provider"), with its principal place of business at 123 Innovation Drive, Sydney, NSW, Australia, and Acme Global Solutions Ltd ("Client"), with its principal place of business at 456 Enterprise Avenue, Melbourne, VIC, Australia.
+
+**RECITALS**
+
+WHEREAS, Provider is in the business of providing certain software services and solutions;
+
+WHEREAS, Client desires to engage Provider to provide certain software-related services under the terms and conditions stated in this Agreement;
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises set forth herein, the parties agree as follows:
+
+**1. SERVICES**
+
+1.1 **Scope of Services:** Provider agrees to deliver the software services described in Exhibit A attached hereto ("Services"). 
+
+1.2 **Service Delivery:** The Services will be delivered remotely via the Internet and other electronic means as determined appropriate by Provider.
+
+**2. TERM AND TERMINATION**
+
+2.1 **Term:** The term of this Agreement shall commence on the effective date and shall continue in effect for a period of two (2) years unless terminated earlier as provided herein.
+
+2.2 **Termination for Convenience:** Either party may terminate this Agreement for any reason upon sixty (60) days written notice to the other party.
+
+2.3 **Termination for Cause:** Either party may terminate this Agreement immediately upon written notice if the other party is in material breach of this Agreement and fails to cure such breach within thirty (30) days of written notice of such breach.
+
+**3. FEES AND PAYMENT**
+
+3.1 **Fees:** Client agrees to pay Provider the fees set forth in Exhibit B attached hereto ("Fees").
+
+3.2 **Payment Terms:** Payment of Fees shall be due and payable within thirty (30) days from the date of Provider's invoice. Any late payment shall accrue interest at a rate of one and one-half percent (1.5%) per month, or the highest rate allowed by law, whichever is lower.
+
+**4. CONFIDENTIALITY**
+
+4.1 **Confidential Information:** Both parties agree to hold the other's Confidential Information in strict confidence and not to disclose such Confidential Information to any third parties except as required by law.
+
+4.2 **Survival:** The obligations of confidentiality shall survive the termination of this Agreement for a period of three (3) years.
+
+**5. INTELLECTUAL PROPERTY**
+
+5.1 **Ownership:** All intellectual property rights in the Services and any deliverables created under this Agreement shall remain the property of Provider.
+
+5.2 **License:** Provider grants Client a non-exclusive, non-transferable license to use the deliverables for its internal business purposes, subject to payment of all Fees due to Provider.
+
+**6. WARRANTIES AND DISCLAIMERS**
+
+6.1 **Warranties:** Provider warrants that the Services will be performed in a professional and workmanlike manner.
+
+6.2 **Disclaimer:** EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, PROVIDER DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+**7. LIMITATION OF LIABILITY**
+
+7.1 **Limitation:** TO THE EXTENT PERMITTED BY LAW, IN NO EVENT SHALL PROVIDER BE LIABLE TO CLIENT FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES, INCLUDING BUT NOT LIMITED TO, LOSS OF PROFITS OR REVENUE, EVEN IF PROVIDER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+7.2 **Aggregate Liability:** Provider's aggregate liability under this Agreement shall not exceed the total amount of Fees paid by Client to Provider under this Agreement in the twelve (12) months preceding the claim.
+
+**8. MISCELLANEOUS**
+
+8.1 **Governing Law:** This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia, without regard to its conflict of laws principles.
+
+8.2 **Dispute Resolution:** Any disputes arising out of or in connection with this Agreement shall be resolved through binding arbitration in Sydney, NSW, Australia, in accordance with the rules of the Australian Centre for International Commercial Arbitration (ACICA).
+
+8.3 **Entire Agreement:** This Agreement, including Exhibits A and B, constitutes the entire agreement between the parties and supersedes all prior understandings or agreements, whether written or oral, concerning the subject matter hereof.
+
+8.4 **Amendment:** This Agreement may only be amended by a written instrument executed by both parties.
+
+8.5 **Waiver:** No waiver of any provision of this Agreement shall be effective unless made in writing and signed by the waiving party.
+
+8.6 **Severability:** If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Software Services Agreement as of the effective date first above written.
+
+**Canvassian Pty Ltd**
+
+By: ___________________________  
+Name: Jane Wu  
+Title: CEO  
+
+**Acme Global Solutions Ltd**
+
+By: ___________________________  
+Name: John Smith  
+Title: COO  
+
+---
+
+**Exhibit A - Scope of Services**
+
+1. Custom Software Development
+2. System Integration
+3. Application Support and Maintenance
+
+**Exhibit B - Fees**
+
+1. Initial Consultation Fee: $10,000 AUD
+2. Development Fee: $200 per hour
+3. Monthly Support Fee: $5,000 AUD per month
+
+---
+
+*End of Agreement*

@@ -1,0 +1,73 @@
+**SOFTWARE SERVICES AGREEMENT**
+
+**THIS SOFTWARE SERVICES AGREEMENT** ("Agreement") is made and entered into as of this 1st day of October 2023 (the "Effective Date") by and between Canvassian Pty Ltd, an Australian corporation with its principal place of business located at 123 Tech Ave, Sydney, NSW 2000, Australia ("Canvassian") and TechNova Inc., a corporation organized and existing under the laws of the State of Delaware, with its principal place of business located at 456 Innovation Road, San Francisco, CA 94107, USA ("Client").
+
+**WHEREAS**, Canvassian is in the business of developing and providing software solutions; and
+
+**WHEREAS**, Client desires to procure from Canvassian, and Canvassian desires to provide to Client, certain software development and related services;
+
+**NOW, THEREFORE**, in consideration of the mutual representations, warranties, covenants, and agreements set forth herein, the parties hereto agree as follows:
+
+**1. SERVICES**
+
+1.1 **Scope of Services**. Canvassian shall provide software development services to Client as described in Exhibit A attached hereto (the "Services").
+
+1.2 **Performance Standard**. Canvassian represents and warrants to Client that the Services shall be performed in a professional and workmanlike manner in accordance with the highest applicable industry standards.
+
+**2. TERM AND TERMINATION**
+
+2.1 **Term**. This Agreement shall commence on the Effective Date and shall continue in full force and effect until the completion of the Services, unless earlier terminated in accordance with the provisions of this Agreement (the "Term").
+
+2.2 **Termination for Convenience**. Either party may terminate this Agreement at any time for any reason upon thirty (30) days' prior written notice to the other party.
+
+2.3 **Termination for Cause**. Either party may terminate this Agreement immediately upon written notice to the other party if the other party materially breaches any of its obligations under this Agreement and fails to cure such breach within thirty (30) days after receiving written notice of the breach.
+
+**3. COMPENSATION**
+
+3.1 **Fees**. In consideration for the Services, Client shall pay Canvassian the fees set forth in Exhibit B attached hereto (the "Fees").
+
+3.2 **Payment Terms**. All Fees shall be due and payable net thirty (30) days from the date of the invoice. Invoices shall be submitted by Canvassian monthly in arrears.
+
+**4. CONFIDENTIALITY**
+
+4.1 **Confidential Information**. Each party acknowledges that during the performance of this Agreement it may receive or have access to Confidential Information of the other party. For purposes of this Agreement, "Confidential Information" means all non-public information of a party, including, without limitation, business plans, strategies, customer lists, financial information, and trade secrets.
+
+4.2 **Obligations**. The receiving party shall (a) maintain the confidentiality of the disclosing party's Confidential Information using the same degree of care that it uses with respect to its own Confidential Information, but in no event less than reasonable care, and (b) not disclose or use any of the Confidential Information except in connection with performing its obligations under this Agreement.
+
+**5. INTELLECTUAL PROPERTY RIGHTS**
+
+5.1 **Ownership**. Canvassian shall retain all right, title, and interest in and to any and all software, codes, methods, designs, and documentation developed in connection with the Services ("Work Product"). 
+
+5.2 **License**. Canvassian hereby grants to Client a non-exclusive, non-transferable license to use the Work Product solely for its internal business purposes.
+
+**6. INDEMNIFICATION**
+
+6.1 **By Canvassian**. Canvassian shall defend, indemnify, and hold Client harmless from and against any and all claims, damages, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or related to any breach by Canvassian of its representations, warranties, or obligations under this Agreement.
+
+**7. GENERAL PROVISIONS**
+
+7.1 **Governing Law**. This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia, without regard to its conflict of law principles.
+
+7.2 **Entire Agreement**. This Agreement, including the Exhibits attached hereto, constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements, understandings, and representations.
+
+7.3 **Amendments**. No amendment or modification of this Agreement shall be valid or binding upon the parties unless made in writing and signed by an authorized representative of each party.
+
+**IN WITNESS WHEREOF**, the parties have executed this Agreement as of the Effective Date.
+
+**Canvassian Pty Ltd**
+
+By: _________________________  
+Name: Jane Wu  
+Title: CEO  
+
+**TechNova Inc.**
+
+By: _________________________  
+Name: Alex Johnson  
+Title: CEO  
+
+**Exhibit A - Scope of Services**
+[Detailed description of the software development and related services to be provided by Canvassian]
+
+**Exhibit B - Fees**
+[Detailed description of the fees and payment terms]

@@ -1,0 +1,100 @@
+**Software Development and Services Agreement**
+
+This Software Development and Services Agreement (the "Agreement") is entered into as of [Date], between:
+
+**Canvassian Pty Ltd**  
+A software company organized under the laws of Australia  
+Headquartered at [Headquarters Address]  
+("Developer")
+
+and
+
+**TechSavvy Inc.**  
+A corporation organized under the laws of [Jurisdiction]  
+Headquartered at [Client Address]  
+("Client")
+
+**Recitals**
+
+WHEREAS, Developer is in the business of developing software solutions and providing related services;
+
+WHEREAS, Client desires to engage Developer to perform certain software development services and provide the resulting deliverables as specified herein;
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises herein contained, the parties hereto agree as follows:
+
+**1. Scope of Services**
+
+Developer agrees to develop, deliver, and provide software development services as outlined in "Exhibit A: Statement of Work" (the "Services"). The Services shall be delivered by the milestones and timelines specified in Exhibit A.
+
+**2. Payment Terms**
+
+a. **Fees**: Client shall pay Developer a total fee of AUD [Total Amount], payable in accordance with the payment schedule outlined in Exhibit B.
+
+b. **Expenses**: Client agrees to reimburse Developer for any pre-approved, reasonable, and necessary expenses incurred by Developer in the performance of the Services.
+
+**3. Deliverables**
+
+Developer shall deliver to Client the software and any other deliverables specified in Exhibit A (the "Deliverables"). All Deliverables shall conform to the requirements set forth in Exhibit A.
+
+**4. Ownership and License**
+
+a. **Ownership**: Upon full payment of the fees specified in Section 2, Developer assigns to Client all right, title, and interest in and to the Deliverables.
+
+b. **License**: Developer grants Client a perpetual, non-exclusive, worldwide license to use the Deliverables, subject to the terms and conditions specified in Exhibit C.
+
+**5. Confidentiality**
+
+Both parties agree to maintain the confidentiality of any proprietary information received from the other party during the performance of this Agreement. This obligation shall continue for a period of three (3) years after the termination of this Agreement.
+
+**6. Warranties**
+
+Developer warrants that:
+
+a. The Services will be performed in a professional and workmanlike manner in accordance with industry standards;
+
+b. The software shall be free from material defects and shall operate substantially in accordance with the specifications set forth in Exhibit A for a period of ninety (90) days from the date of final acceptance by Client.
+
+**7. Limitation of Liability**
+
+In no event shall either party be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or in connection with this Agreement. The total liability of either party, whether in contract, tort, or otherwise, shall not exceed the fees paid by Client to Developer under this Agreement.
+
+**8. Term and Termination**
+
+a. **Term**: This Agreement shall commence on the date first written above and shall continue until the Services have been completed and accepted by Client unless terminated earlier as provided herein.
+
+b. **Termination for Convenience**: Either party may terminate this Agreement upon thirty (30) days written notice to the other party.
+
+c. **Termination for Cause**: Either party may terminate this Agreement immediately upon written notice if the other party breaches any material term of this Agreement and fails to cure such breach within fifteen (15) days after receipt of notice of such breach.
+
+**9. Governing Law**
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of [State], and the parties submit to the jurisdiction of the courts of [State] for any disputes arising out of or in connection with this Agreement.
+
+**10. Miscellaneous**
+
+a. **Entire Agreement**: This Agreement, including all exhibits, constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior agreements and understandings, whether written or oral.
+
+b. **Amendments**: Any amendments or modifications to this Agreement must be in writing and executed by both parties.
+
+c. **Severability**: If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the day and year first above written.
+
+**Developer: Canvassian Pty Ltd**  
+By: ______________________  
+Name: Jane Wu  
+Title: CEO  
+
+**Client: TechSavvy Inc.**  
+By: ______________________  
+Name: [Name]  
+Title: [Title]  
+
+**Exhibit A: Statement of Work**
+[Attach detailed description of services and deliverables]
+
+**Exhibit B: Payment Schedule**
+[Attach payment terms and schedule]
+
+**Exhibit C: License Terms**
+[Attach any additional license terms if applicable]

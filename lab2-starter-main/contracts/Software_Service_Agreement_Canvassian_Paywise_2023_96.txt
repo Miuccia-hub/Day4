@@ -1,0 +1,86 @@
+**Software Service Agreement**
+
+**This Software Service Agreement ("Agreement") is made and entered into as of this 1st day of November, 2023, by and between Canvassian Pty Ltd, located at 123 Software Avenue, Sydney, NSW, Australia ("Canvassian"), and Paywise Inc., located at 456 Business Road, Melbourne, VIC, Australia ("Paywise").**
+
+**WHEREAS, Canvassian is in the business of developing and providing software solutions; and**
+
+**WHEREAS, Paywise desires to procure software services from Canvassian, and Canvassian desires to provide such software services to Paywise, under the terms and conditions set forth in this Agreement;**
+
+**NOW, THEREFORE, in consideration of the mutual covenants and promises herein contained, the parties hereby agree as follows:**
+
+### 1. **Services**
+
+Canvassian agrees to provide the following software services to Paywise:
+- Development of custom financial management software solutions.
+- Regular updates and maintenance of the software.
+- 24/7 technical support and customer service.
+
+The scope of services can be modified by mutual written agreement of the parties.
+
+### 2. **Term**
+
+This Agreement shall commence on the effective date and shall continue for a period of two years, unless terminated earlier in accordance with the provisions of this Agreement. The Agreement may be renewed for additional terms upon mutual written agreement of the parties.
+
+### 3. **Compensation**
+
+Paywise shall pay Canvassian the total fee of AUD $500,000 for the services described herein, payable in the following installments:
+- 20% upon execution of this Agreement.
+- 30% upon delivery of the initial prototype.
+- 30% upon completion of the final software.
+- 20% upon acceptance and Go-Live of the software.
+
+All payments shall be due within thirty (30) days from receipt of invoice.
+
+### 4. **Confidentiality**
+
+Both parties agree to hold in strict confidence any confidential information disclosed by either party in connection with this Agreement. Neither party shall use or disclose such confidential information for any purpose other than as necessary to perform its obligations under this Agreement.
+
+### 5. **Intellectual Property**
+
+Canvassian shall retain all rights, title, and interest in and to any and all intellectual property developed or provided by Canvassian in connection with this Agreement. Canvassian grants to Paywise a non-exclusive, non-transferable, royalty-free license to use the software developed under this Agreement solely for its internal business purposes.
+
+### 6. **Warranties**
+
+Canvassian warrants that the services provided under this Agreement will be performed in a professional and workmanlike manner and that the software will perform substantially in accordance with its documentation. Canvassian does not warrant that the software will be error-free or uninterrupted.
+
+### 7. **Limitation of Liability**
+
+In no event shall either party be liable to the other for any consequential, incidental, indirect, special, or punitive damages, regardless of the form of action, whether in contract, tort (including negligence), strict liability, or otherwise, even if advised of the possibility of such damages.
+
+### 8. **Termination**
+
+Either party may terminate this Agreement upon thirty (30) days prior written notice if the other party breaches any material term or condition of this Agreement and fails to cure such breach within the notice period.
+
+### 9. **Governing Law**
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia, without regard to its conflict of law principles.
+
+### 10. **Entire Agreement**
+
+This Agreement constitutes the entire agreement between the parties and supersedes all prior understandings, agreements, representations, and warranties, whether oral or written, with respect to the subject matter hereof.
+
+### 11. **Amendments**
+
+No amendment to this Agreement shall be effective unless it is in writing and signed by both parties.
+
+### 12. **Notices**
+
+All notices under this Agreement shall be in writing and shall be deemed to have been duly given when delivered personally, mailed by certified or registered mail, return receipt requested, or sent by a recognized overnight courier service.
+
+**IN WITNESS WHEREOF**, the parties hereto have executed this Agreement as of the day and year first above written.
+
+**CANVASSIAN PTY LTD**
+
+By: ___________________________
+
+Name: Jane Wu
+
+Title: CEO
+
+**PAYWISE INC.**
+
+By: ___________________________
+
+Name: James Taylor
+
+Title: COO

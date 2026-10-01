@@ -1,0 +1,24 @@
+**Subject:** Upcoming Strategy Review Meeting
+
+**From:** Sarah Thompson, Senior Product Manager  
+**To:** Edon Mask, CTO  
+
+---
+
+Dear Edon,
+
+I hope this message finds you well. As we approach the end of Q3, I wanted to remind you of our upcoming strategy review meeting scheduled for Wednesday, October 25th, at 10:00 AM. Our primary objective will be to assess the progress of our ongoing projects and discuss targets for the next quarter.
+
+Please come prepared to share updates on the software development timelines and any challenges you might be facing with the engineering team. Your insights will be invaluable as we align our objectives with the overarching goals of Canvassian.
+
+Additionally, if there are specific topics you would like to add to the agenda, please let me know by the end of this week.
+
+Looking forward to our discussion.
+
+Best regards,
+
+Sarah Thompson  
+Senior Product Manager  
+Canvassian Pty Ltd  
+Email: sarah.thompson@canvassian.com  
+Phone: +61 2 1234 5678

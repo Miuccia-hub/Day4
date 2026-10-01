@@ -1,0 +1,66 @@
+**Software License Agreement**
+
+This Software License Agreement (“Agreement”) is entered into on this 5th day of October 2023 by and between:
+
+**Canvassian Pty Ltd**, an Australian Proprietary Company with its principal place of business at 128 Tech Avenue, Sydney, NSW 2000 (“Licensor”)
+
+and 
+
+**Paywise**, a company with its principal place of business at 45 Financial Street, Melbourne, VIC 3000 (“Licensee”).
+
+**WHEREAS**, Licensor is the owner of certain proprietary software known as "Canvassian Suite" (the “Software”); and
+
+**WHEREAS**, Licensee wishes to obtain a license to use the Software;
+
+**NOW, THEREFORE**, in consideration of the mutual covenants contained herein, the parties hereby agree as follows:
+
+### 1. Grant of License
+1.1. Licensor hereby grants to Licensee a non-exclusive, non-transferable license to install and use the Software solely for internal business purposes.
+
+### 2. Term and Termination
+2.1. This Agreement shall commence on the Effective Date and shall continue for a term of two (2) years unless terminated earlier as provided herein.
+2.2. Either party may terminate this Agreement upon thirty (30) days written notice to the other party for any reason.
+2.3. Upon termination of this Agreement, Licensee shall destroy all copies of the Software in its possession and certify such destruction in writing to Licensor.
+
+### 3. Fees and Payment
+3.1. Licensee shall pay to Licensor a license fee of AUD $200,000 annually.
+3.2. All payments due under this Agreement shall be paid within thirty (30) days from the date of invoice.
+
+### 4. Maintenance and Support
+4.1. Licensor shall provide Licensee with updates and enhancements to the Software as they become available.
+4.2. Licensor shall provide Licensee with technical support for the Software during normal business hours.
+
+### 5. Confidentiality
+5.1. Each party agrees to maintain in confidence all information disclosed by the other party that is designated as confidential or that should reasonably be understood to be confidential.
+
+### 6. Intellectual Property
+6.1. Licensee acknowledges that the Software and all intellectual property rights therein are the exclusive property of Licensor.
+6.2. Licensee shall not modify, adapt, translate, or create derivative works based on the Software.
+
+### 7. Warranties and Disclaimers
+7.1. Licensor warrants that the Software will perform substantially in accordance with its documentation for ninety (90) days following installation.
+7.2. Except as set forth above, the Software is provided “AS IS” and Licensor disclaims all other warranties, express or implied.
+
+### 8. Limitation of Liability
+8.1. In no event shall Licensor be liable for any indirect, incidental, special, or consequential damages arising out of or in connection with this Agreement.
+
+### 9. Governing Law
+9.1. This Agreement shall be governed by and construed in accordance with the laws of Australia.
+
+### 10. Miscellaneous
+10.1. This Agreement constitutes the entire agreement between the parties and supersedes all prior agreements and understandings, whether written or oral.
+10.2. Any modifications to this Agreement must be in writing and signed by both parties.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Software License Agreement as of the Effective Date.
+
+**Canvassian Pty Ltd**  
+By: ______________________  
+Name: Jane Wu  
+Title: CEO  
+Date: ______________________  
+
+**Paywise**  
+By: ______________________  
+Name: John Smith  
+Title: CFO  
+Date: ______________________

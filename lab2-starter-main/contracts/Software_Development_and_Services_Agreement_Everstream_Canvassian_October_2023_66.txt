@@ -1,0 +1,117 @@
+## SOFTWARE DEVELOPMENT AND SERVICES AGREEMENT
+
+### This Agreement is made as of the 15th day of October, 2023 by and between:
+
+**Client:**
+Everstream Solutions Pty Ltd
+Located at: 120 Pacific Highway, Sydney, NSW 2000, Australia
+(Hereinafter referred to as the "Client")
+
+**Developer:**
+Canvassian Pty Ltd
+Located at: Level 10, 345 George Street, Sydney, NSW 2000, Australia
+(Hereinafter referred to as the "Developer")
+
+### WHEREAS the Client wishes to hire the Developer to provide certain software development and related services;
+
+### WHEREAS the Developer has the required expertise and experience to provide such services;
+
+### NOW, THEREFORE, in consideration of the mutual agreements contained herein, the parties hereto agree as follows:
+
+#### 1. **Services**
+1.1 The Developer shall provide the following services to the Client (the "Services"):
+   - Design and development of Everstream Solutions' proprietary CRM system.
+   - Regular updates and maintenance of the CRM system.
+   - Technical support and troubleshooting.
+
+1.2 The detailed scope of the Services is described in Exhibit A annexed hereto.
+
+#### 2. **Term**
+2.1 This Agreement shall commence on the 15th of October, 2023, and shall continue in effect until the completion of the Services, unless terminated earlier as provided herein.
+
+#### 3. **Compensation**
+3.1 In consideration of the Services to be rendered hereunder, the Client shall pay the Developer a total amount of AUD 150,000.
+
+3.2 Payments will be made according to the following schedule:
+   - 40% of the total amount upon signing this Agreement.
+   - 30% upon delivery of the beta version of the CRM system.
+   - 30% upon final acceptance and deployment of the CRM system.
+
+#### 4. **Ownership of Work Product**
+4.1 All software, documentation, reports, and other materials developed or created by the Developer under this Agreement (the "Work Product") shall be the property of the Client.
+
+4.2 The Developer shall retain no rights to the Work Product and shall not use the Work Product for any purpose other than the performance of the Services.
+
+#### 5. **Confidentiality**
+5.1 Each party agrees that all information, whether written or oral, provided by one party to the other and marked as confidential or proprietary will be maintained in confidence and used only for the purposes of this Agreement.
+
+5.2 This confidentiality obligation shall not apply to information which is:
+   - Already known or independently developed by the recipient.
+   - Publicly available through no wrongful act of the recipient.
+   - Received from a third party who was free to disclose it.
+
+#### 6. **Warranties and Disclaimers**
+6.1 The Developer warrants that the Services provided will be performed with reasonable care and skill.
+
+6.2 The Developer does not warrant that the operation of the software will be uninterrupted or error-free.
+
+#### 7. **Limitation of Liability**
+7.1 Except for confidentiality breaches, in no event shall either party be liable to the other for any indirect, incidental, special, or consequential damages.
+
+7.2 The Developer's total liability for any claim arising out of or relating to this Agreement shall not exceed the total compensation received by the Developer under this Agreement.
+
+#### 8. **Termination**
+8.1 Either party may terminate this Agreement at any time, with or without cause, by giving thirty (30) days written notice to the other party.
+
+8.2 Upon termination, the Client shall pay the Developer for all Services rendered up to the effective date of termination.
+
+#### 9. **Governing Law**
+This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia.
+
+#### 10. **Entire Agreement**
+This Agreement constitutes the entire agreement between the parties and supersedes all prior agreements or understandings with respect to the subject matter hereof.
+
+#### 11. **Amendments**
+Any amendments or modifications to this Agreement must be in writing and signed by both parties.
+
+### IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed by their duly authorized representatives as of the day and year first above written.
+
+**Client: Everstream Solutions Pty Ltd**
+
+By: ___________________________
+
+Name: Mark Thompson
+
+Title: CEO
+
+**Developer: Canvassian Pty Ltd**
+
+By: ___________________________
+
+Name: Jane Wu
+
+Title: CEO
+
+---
+
+#### Exhibit A: Scope of Services
+
+1. **Design Phase:**
+   - Requirements gathering and analysis.
+   - System design and architecture planning.
+
+2. **Development Phase:**
+   - Coding and implementation of the CRM system.
+   - Integration with existing systems and databases.
+
+3. **Quality Assurance and Testing:**
+   - Unit testing, integration testing, and user acceptance testing.
+   - Bug fixes and enhancements.
+
+4. **Deployment:**
+   - Implementation and rollout of the CRM system.
+   - User training and support documentation.
+
+5. **Maintenance and Support:**
+   - Regular updates and feature enhancements.
+   - Ongoing technical support and issue resolution.

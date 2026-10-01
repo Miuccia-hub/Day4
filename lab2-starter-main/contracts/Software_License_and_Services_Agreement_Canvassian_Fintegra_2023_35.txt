@@ -1,0 +1,77 @@
+**SOFTWARE LICENSE AND SERVICES AGREEMENT**
+
+This Software License and Services Agreement ("Agreement") is made and entered into effective as of October 1, 2023 ("Effective Date"), by and between Canvassian Pty Ltd, an Australian corporation with its principal place of business at 123 Innovation Drive, Sydney, NSW 2000, Australia ("Canvassian"), and Fintegra Solutions Inc., a company incorporated under the laws of the State of New York, with its principal place of business at 456 Finance Avenue, New York, NY 10001, USA ("Customer").
+
+**1. DEFINITIONS**
+
+1.1 "Software" means Canvassian's proprietary software product and any updates, upgrades, enhancements, or modifications thereto, described in Exhibit A attached hereto.
+
+1.2 "Services" means the professional services provided by Canvassian to Customer in connection with the use of the Software, including configuration, integration, training, and support, as described in Exhibit B attached hereto.
+
+**2. LICENSE GRANT**
+
+2.1 Subject to the terms and conditions of this Agreement, Canvassian hereby grants to Customer a non-exclusive, non-transferable, non-sublicensable license to install and use the Software solely for Customer's internal business operations.
+
+**3. FEES AND PAYMENT TERMS**
+
+3.1 In consideration of the rights granted under this Agreement, Customer shall pay Canvassian the fees set forth in Exhibit C attached hereto. All fees shall be due and payable within thirty (30) days of the date of Canvassian's invoice.
+
+3.2 Late payments shall accrue interest at the rate of 1.5% per month or the highest rate permissible under applicable law, whichever is lower.
+
+**4. TERM AND TERMINATION**
+
+4.1 This Agreement shall commence on the Effective Date and shall continue for an initial term of three (3) years ("Initial Term"), unless earlier terminated as provided herein. This Agreement shall automatically renew for successive one-year terms (each a “Renewal Term”) unless either party provides written notice of termination at least ninety (90) days prior to the expiration of the then-current term.
+
+4.2 Either party may terminate this Agreement (a) upon thirty (30) days written notice of a material breach by the other party, provided such breach is not cured within the notice period, or (b) immediately upon written notice if the other party becomes the subject of a petition for bankruptcy or any other proceeding relating to insolvency, receivership, liquidation, or assignment for the benefit of creditors.
+
+**5. CONFIDENTIALITY**
+
+5.1 "Confidential Information" means any non-public information disclosed by either party to the other that is designated as confidential, or that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure.
+
+5.2 Each party agrees to: (a) protect the other's Confidential Information with the same standard of care used to protect its own Confidential Information, but in no event less than a reasonable standard of care, and (b) use such information only for the purposes of performing its obligations or exercising its rights under this Agreement.
+
+**6. INTELLECTUAL PROPERTY**
+
+6.1 Canvassian retains all right, title, and interest in and to the Software and all related intellectual property rights. Customer acknowledges that it is obtaining only a limited license to use the Software and that no ownership rights are being conveyed to Customer under this Agreement.
+
+**7. WARRANTY AND DISCLAIMER**
+
+7.1 Canvassian warrants that the Software will perform substantially in accordance with the accompanying documentation for a period of ninety (90) days from the Effective Date ("Warranty Period"). If Customer notifies Canvassian in writing of a breach of this warranty during the Warranty Period, Canvassian's sole obligation shall be to use commercially reasonable efforts to correct the Software.
+
+7.2 EXCEPT FOR THE LIMITED WARRANTY SET FORTH IN SECTION 7.1, THE SOFTWARE AND SERVICES ARE PROVIDED "AS IS" AND CANVASSIAN DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+**8. LIMITATION OF LIABILITY**
+
+8.1 IN NO EVENT SHALL CANVASSIAN BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUE, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, WHETHER BASED IN CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, EVEN IF CANVASSIAN HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8.2 CANVASSIAN'S TOTAL LIABILITY FOR ALL CLAIMS ARISING OUT OF OR RELATED TO THIS AGREEMENT SHALL NOT EXCEED THE AMOUNTS PAID BY CUSTOMER TO CANVASSIAN UNDER THIS AGREEMENT DURING THE TWELVE (12) MONTHS PRECEDING THE DATE THE CLAIM AROSE.
+
+**9. MISCELLANEOUS**
+
+9.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia, without regard to its conflict of laws principles.
+
+9.2 Entire Agreement. This Agreement, including all Exhibits, constitutes the entire agreement between the parties and supersedes all prior or contemporaneous agreements, understandings, or representations, whether written or oral.
+
+9.3 Amendments. No modification or amendment of this Agreement shall be effective unless in writing and signed by both parties.
+
+9.4 Notices. Any notices required or permitted under this Agreement shall be in writing and shall be deemed to have been given (a) when delivered by hand, (b) one business day after being sent by a nationally recognized overnight courier, or (c) three business days after being mailed by registered or certified mail, return receipt requested, to the address of the relevant party set forth above.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Effective Date.
+
+**CANVASSIAN PTY LTD**
+
+By: __________________________
+Name: Jane Wu
+Title: CEO
+
+**FINTEGRA SOLUTIONS INC.**
+
+By: __________________________
+Name: John Smith
+Title: CEO
+
+**Exhibit A: Description of Software**
+
+**Exhibit B: Description of Services**
+
+**Exhibit C: Fees and Payment Terms**

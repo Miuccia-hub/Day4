@@ -1,0 +1,23 @@
+**Email:**
+
+Subject: Update on Project Deliverables
+
+From: Sarah Johnson (s.johnson@canvassian.com)  
+To: Tom Richards (t.richards@canvassian.com)  
+Date: October 10, 2023  
+CC: Jane Wu (j.wu@canvassian.com), Edon Mask (e.mask@canvassian.com)  
+
+Hi Tom,
+
+I hope this message finds you well.
+
+I wanted to touch base regarding our ongoing projects. We are making solid progress on the new software features and I believe we are on track to deliver them by the end of the month. The team is currently finalizing the integration tests, and I am confident that everything will go smoothly.
+
+Additionally, I heard from our client Paywise yesterday. They expressed their appreciation for our responsiveness and the improvements we’ve been implementing. It's always encouraging to receive positive feedback from our major clients.
+
+Let me know if you need any more information or if there's anything specific you'd like me to update you on.
+
+Best regards,  
+Sarah Johnson  
+Product Manager  
+Canvassian Pty Ltd  

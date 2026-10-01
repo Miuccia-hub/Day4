@@ -1,0 +1,107 @@
+# SOFTWARE SERVICE AGREEMENT
+
+## This Software Service Agreement ("Agreement") is entered into as of October 15, 2023 ("Effective Date"), by and between:
+
+**Canvassian Pty Ltd**, a company incorporated and existing under the laws of Australia, with its principal place of business at 123 Tech Avenue, Sydney, NSW, Australia ("Service Provider"), and
+
+**Alphabear Ltd**, a company incorporated and existing under the laws of Australia, with its principal place of business at 456 Business Road, Melbourne, VIC, Australia ("Client").
+
+**RECITALS**
+
+WHEREAS, the Service Provider is in the business of providing software development and support services; and
+
+WHEREAS, the Client wishes to engage the Service Provider to provide certain software services, as more particularly described herein, and the Service Provider agrees to provide such services, all on the terms and conditions set forth herein;
+
+NOW, THEREFORE, in consideration of the mutual promises contained herein, the parties agree as follows:
+
+### 1. Services
+
+1.1 The Service Provider agrees to perform the software services ("Services") described in Exhibit A attached hereto and incorporated herein by this reference.
+  
+1.2 The Service Provider shall render the Services to the Client in a professional and workmanlike manner, consistent with industry standards.
+
+### 2. Term
+
+2.1 The term of this Agreement shall commence on the Effective Date and shall continue for a period of one (1) year unless earlier terminated in accordance with the provisions of this Agreement ("Initial Term").
+
+2.2 The Agreement will automatically renew for successive one (1) year terms unless either party provides written notice of non-renewal to the other party at least thirty (30) days prior to the end of the then-current term.
+
+### 3. Fees and Payment Terms
+
+3.1 In consideration of the Services rendered hereunder, the Client shall pay the Service Provider the fees set forth in Exhibit B attached hereto and incorporated herein by this reference.
+  
+3.2 All invoices shall be payable within thirty (30) days of the invoice date. Late payments shall incur interest at the rate of 1.5% per month.
+
+### 4. Confidentiality
+
+4.1 Each party agrees that all information disclosed by one party ("Disclosing Party") to the other party ("Receiving Party"), which is marked as confidential or should reasonably be understood to be confidential, shall not be disclosed by the Receiving Party to any third party without the prior written consent of the Disclosing Party.
+
+4.2 The obligations of confidentiality shall survive the termination or expiration of this Agreement for a period of three (3) years.
+
+### 5. Intellectual Property
+
+5.1 All intellectual property rights in any software or materials developed under this Agreement ("Deliverables") shall be owned by the Service Provider, subject to a worldwide, non-exclusive, royalty-free license to the Client to use the Deliverables for its internal business purposes.
+
+5.2 The Service Provider represents and warrants that the Deliverables will not infringe upon or misappropriate any intellectual property rights of any third party.
+
+### 6. Warranties and Disclaimers
+
+6.1 The Service Provider warrants that the Services will be performed in a professional and workmanlike manner and materially in accordance with the specifications set forth in Exhibit A.
+
+6.2 Except as expressly stated in this Agreement, the Services and Deliverables are provided "as is," and the Service Provider disclaims all other warranties, express or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose.
+
+### 7. Limitation of Liability
+
+7.1 In no event shall either party be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenue, arising out of or in relation to this Agreement.
+
+7.2 The total liability of either party for any claim arising out of or in relation to this Agreement shall not exceed the total amount paid by the Client to the Service Provider under this Agreement in the twelve (12) months preceding the event giving rise to the claim.
+
+### 8. Termination
+
+8.1 Either party may terminate this Agreement upon thirty (30) days' written notice to the other party if the other party is in material breach of this Agreement and fails to cure such breach within such thirty (30) day period.
+
+### 9. Miscellaneous
+
+9.1 **Governing Law:** This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia.
+
+9.2 **Entire Agreement:** This Agreement, including Exhibits A and B, represents the entire agreement between the parties and supersedes all prior agreements or understandings, whether written or oral, relating to the subject matter hereof.
+
+9.3 **Amendments:** Any amendments or modifications to this Agreement must be in writing and signed by both parties.
+
+9.4 **Notices:** All notices required or permitted under this Agreement shall be in writing and shall be deemed given when delivered personally, sent by confirmed email, or sent by registered mail to the addresses set forth above.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+**Canvassian Pty Ltd**
+  
+By: __________________________  
+Name: Jane Wu  
+Title: CEO  
+Date: ________________________
+
+**Alphabear Ltd**
+
+By: __________________________  
+Name: Robert Taylor  
+Title: Managing Director  
+Date: ________________________
+
+
+**Exhibit A: Description of Services**
+
+The Service Provider will develop, deploy, and maintain a custom software solution that includes the following components:
+
+1. Customer Relationship Management (CRM) Software
+2. Inventory Management System
+3. Reporting and Analytics Tools
+
+Additional detailed specifications and functionalities are outlined in Appendix 1 to this Exhibit A.
+
+
+**Exhibit B: Fee Schedule**
+
+The Client agrees to pay the following fees for the Services rendered under this Agreement:
+
+1. Initial Development Fee: AUD $150,000 (One Hundred Fifty Thousand Australian Dollars)
+2. Monthly Maintenance Fee: AUD $10,000 (Ten Thousand Australian Dollars)
+3. Additional Service Fees: As per mutually agreed upon rates for any additional services requested by the Client.

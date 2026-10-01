@@ -1,0 +1,110 @@
+**SOFTWARE SERVICE AGREEMENT**
+
+**This Software Service Agreement ("Agreement") is entered into as of this 1st day of October, 2023, by and between:**
+
+**Canvassian Pty Ltd**  
+Address: Level 15, 123 Software Lane, Sydney, NSW 2000, Australia  
+(Hereinafter referred to as "Provider")  
+
+And  
+
+**Innovatech Solutions Inc.**  
+Address: 789 Innovate Blvd, Melbourne, VIC 3000, Australia  
+(Hereinafter referred to as "Client")  
+
+**RECITALS:**
+
+WHEREAS, Provider is engaged in the business of developing and providing software products and related services; and
+
+WHEREAS, Client desires to utilize such software products and services under the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises herein contained, the parties agree to the following:
+
+**1. DEFINITIONS**
+
+1.1 "Software" means the proprietary software product described in Exhibit A, including any updates, enhancements, and modifications provided by Provider.
+
+1.2 "Services" means the implementation, support, and consulting services described in Exhibit B.
+
+**2. TERM AND TERMINATION**
+
+2.1 Term. This Agreement commences on the Effective Date and continues for a period of one (1) year unless terminated earlier in accordance with this Agreement.
+
+2.2 Termination. Either party may terminate this Agreement upon thirty (30) days written notice for any reason, or immediately for cause if the other party breaches any material term or condition of this Agreement and fails to cure such breach within fifteen (15) days’ notice.
+
+**3. LICENSE GRANT**
+
+3.1 Provider grants Client a non-exclusive, non-transferable license to use the Software solely for its internal business operations.
+
+**4. FEES AND PAYMENT TERMS**
+
+4.1 Fees. Client agrees to pay Provider the fees set forth in Exhibit C.
+
+4.2 Payment Terms. All payments shall be due net thirty (30) days from the date of invoice. Late payments shall accrue interest at the rate of 1.5% per month.
+
+**5. OBLIGATIONS OF THE PARTIES**
+
+5.1 Provider Obligations. Provider shall deliver the Software and perform the Services in a professional manner consistent with industry standards.
+
+5.2 Client Obligations. Client shall provide such information, materials, and personnel assistance as Provider may reasonably require in the course of performing the Services.
+
+**6. CONFIDENTIALITY**
+
+6.1 Each party agrees that all tangible and intangible information disclosed by the other party that is identified as confidential or proprietary is to be kept in strict confidence and shall not be disclosed or used except as necessary to carry out the purpose of this Agreement.
+
+**7. WARRANTIES AND DISCLAIMERS**
+
+7.1 Provider warrants that the Software will perform substantially in accordance with the documentation provided for a period of ninety (90) days from the date of delivery.
+
+7.2 THE WARRANTIES SET FORTH IN THIS SECTION ARE THE ONLY WARRANTIES PROVIDED BY PROVIDER. PROVIDER DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+**8. INDEMNITY**
+
+8.1 Provider agrees to indemnify, defend, and hold harmless Client from any and all claims, damages, liabilities, costs, and expenses arising from third party claims that the Software infringes any intellectual property rights.
+
+**9. LIMITATION OF LIABILITY**
+
+9.1 IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES INCLUDING, BUT NOT LIMITED TO, LOSS OF PROFITS, REVENUE, DATA, OR USE, INCURRED BY THE OTHER PARTY, WHETHER IN AN ACTION IN CONTRACT OR TORT, EVEN IF THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+**10. MISCELLANEOUS**
+
+10.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia.
+
+10.2 Entire Agreement. This Agreement, along with its Exhibits, constitutes the entire agreement between the parties and supersedes all prior and contemporaneous agreements.
+
+10.3 Amendments. Any amendments to this Agreement must be in writing and signed by both parties.
+
+10.4 Severability. If any provision of this Agreement is found to be invalid or unenforceable, such provision shall be amended and interpreted in a manner to accomplish the purposes of such provision, and the remaining provisions shall continue in full force and effect.
+
+**11. NOTICES**
+
+11.1 Any notices required or permitted hereunder shall be in writing and shall be deemed delivered upon receipt when sent by registered or certified mail, return receipt requested, addressed to the respective parties at their addresses set forth above.
+
+**IN WITNESS WHEREOF**, the parties hereto have executed this Software Service Agreement as of the day and year first above written.
+
+**CANVASSIAN PTY LTD**:
+
+By: _______________________  
+Name: Jane Wu  
+Title: CEO  
+
+**INNOVATECH SOLUTIONS INC.**:
+
+By: _______________________  
+Name: John Smith  
+Title: COO  
+
+---
+
+**Exhibit A: Description of Software**  
+(Details about the specific software product, version, and functionality)
+
+**Exhibit B: Description of Services**  
+(Details about implementation, training, support, and consulting services)
+
+**Exhibit C: Fees and Payment Schedule**  
+(Details about the pricing, payment terms, and schedule for fees)
+
+---
+
+*End of Document*

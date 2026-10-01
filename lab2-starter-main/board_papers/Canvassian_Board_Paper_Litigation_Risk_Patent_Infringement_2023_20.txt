@@ -1,0 +1,96 @@
+### CANVASSIAN PTY LTD
+**Board Paper**
+
+**Date:** September 25, 2023 
+
+**Prepared By:** Jane Wu, CEO
+
+**Subject:** Litigation Risk - Potential Patent Infringement Lawsuit
+
+---
+
+**1. Purpose**
+
+The purpose of this board paper is to inform the Board of Directors about a potential litigation risk concerning a patent infringement lawsuit filed by a competitor, TechWave Inc., and to discuss the possible impacts and proposed action plans.
+
+---
+
+**2. Background**
+
+On September 20, 2023, Canvassian received a formal notice from TechWave Inc.'s legal representatives alleging that our flagship product, CanvasPro, infringes on one of their patents (Patent No. US12345678B2). The patent in question pertains to a specific algorithm used in data encryption.
+
+**3. Details of the Claim**
+
+TechWave Inc. claims that our recent software update for CanvasPro incorporates encryption algorithms that are protected under their patent. They assert that this infringement has resulted in financial losses and damage to their market position. The main claims of the lawsuit include:
+
+- Injunction against the use, sale, and distribution of CanvasPro software.
+- Damages amounting to AUD 10 million for loss of revenue and compensation for damages.
+- Legal costs and other associated fees.
+
+---
+
+**4. Potential Impacts**
+
+### **4.1 Financial Impact**
+
+* **Legal Fees:** High legal costs associated with defending this lawsuit.
+* **Damages:** Potential financial liability if the court rules against Canvassian could amount to AUD 10 million or more.
+* **Loss of Revenue:** A possible injunction could delay software releases and affect our market position.
+
+### **4.2 Operational Impact**
+
+* **Product Development:** Potential need to redesign affected parts of the software, delaying future updates and releases.
+* **Client Trust:** Risk of losing customer confidence and difficulty in acquiring new clients given the uncertainty around our product's legality.
+
+### **4.3 Strategic Impact**
+
+* **Market Position:** A ruling against us may give TechWave Inc. a competitive advantage.
+* **Partnerships:** Potential strain on existing and future partnerships.
+
+---
+
+**5. Proposed Action Plan**
+
+### **5.1 Legal Response**
+
+* **Engage Legal Counsel:** Retain a specialized legal firm to handle the case.
+* **Develop Defense Strategy:** Prepare a robust defense focusing on differentiation and prior contingency plans.
+* **Negotiate Settlement:** Explore the possibility of an out-of-court settlement to minimize financial risks and avoid protracted litigation.
+
+### **5.2 Operational Measures**
+
+* **Software Review:** Conduct an immediate audit of CanvasPro to assess potential areas of infringement.
+* **Product Redesign:** Initiate a parallel design process to modify the queried algorithm, ensuring it bypasses any potential infringement.
+
+### **5.3 Communication Strategy**
+
+* **Internal Communications:** Inform all relevant teams about the legal situation and ensure alignment on the action plan.
+* **Client Communications:** Proactively communicate with key clients to reassure them and address any concerns.
+
+### **5.4 Risk Mitigation**
+
+* **Patent Portfolio Management:** Strengthen our patent portfolio by filing new patents and aggressively defending existing ones.
+* **Competitive Analysis:** Increase monitoring of competitor patents to preempt similar risks in the future.
+
+---
+
+**6. Conclusion**
+
+The potential litigation posed by TechWave Inc.'s patent infringement claim is a substantial risk that requires immediate and comprehensive action. By proactively engaging with legal counsel, revising our software, and ensuring proper communication, we aim to mitigate the financial, operational, and strategic impacts.
+
+The Board of Directors is requested to:
+
+1. Approve the engagement of legal counsel specializing in IP and technology-related cases.
+2. Support the proposed financial allocation for legal and redesign efforts.
+3. Endorse the proposed communication strategy to maintain client confidence.
+
+---
+
+**7. Recommendation**
+
+It is recommended that the Board supports the proposed action plan and provides guidance on any additional measures that may be necessary to protect Canvassian's interests.
+
+---
+
+**Jane Wu**
+**CEO, Canvassian Pty Ltd.**

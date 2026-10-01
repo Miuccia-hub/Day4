@@ -1,0 +1,23 @@
+**Email**  
+**Subject:** Update on Project Milestones  
+
+**From:** Emily Turner <emily.turner@canvassian.com>  
+**To:** Mark Johnson <mark.johnson@canvassian.com>  
+**Date:** October 5, 2023  
+
+Dear Mark,
+
+I hope this message finds you well.
+
+I wanted to provide you with a quick update on the project milestones we discussed in our last meeting. The development team has made significant progress, and I’m pleased to report that we are ahead of schedule on the integration phase. 
+
+Additionally, Jane Wu has expressed her appreciation for the hard work the team has been putting in. She is excited about our direction and believes that our project will enhance our service offerings tremendously.
+
+Please find attached the updated Gantt chart for your review. Let’s schedule a time to discuss this further if you have any questions or feedback.
+
+Best regards,  
+Emily Turner  
+Project Manager  
+Canvassian Pty Ltd  
+emily.turner@canvassian.com  
+(02) 5555 1234  

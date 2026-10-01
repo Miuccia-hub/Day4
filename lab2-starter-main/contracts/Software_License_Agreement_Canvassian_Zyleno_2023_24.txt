@@ -1,0 +1,80 @@
+[COMPANY LOGO]
+
+**SOFTWARE LICENSE AGREEMENT**
+
+This Software License Agreement ("Agreement") is made and entered into on this 15th day of October, 2023 ("Effective Date"), by and between:
+
+Canvassian Pty Ltd, an Australian company with its principal place of business at 123 Tech Lane, Sydney, Australia ("Licensor"),
+
+and
+
+Zyleno Corp, a corporation duly formed and existing under the laws of New Zealand with its principal place of business at 456 Business Park, Auckland, New Zealand ("Licensee").
+
+**RECITALS**
+
+WHEREAS, Licensor is the owner of certain proprietary software products and has the right to license such products; and
+
+WHEREAS, Licensee wishes to obtain a license to use the Licensor's software products under the terms set forth herein.
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises contained herein, the parties hereto agree as follows:
+
+1. **DEFINITIONS**
+   1.1 "Software" means the proprietary software applications listed in Exhibit A attached hereto.
+   1.2 "Documentation" means the user guides, manuals, and other technical documentation associated with the Software provided by Licensor.
+   1.3 "Licensed Materials" means both the Software and the Documentation.
+
+2. **GRANT OF LICENSE**
+   2.1 Subject to the terms and conditions of this Agreement, Licensor hereby grants to Licensee a non-exclusive, non-transferable, non-sublicensable license to use the Licensed Materials for Licensee's internal business purposes.
+
+3. **FEES AND PAYMENT TERMS**
+   3.1 Licensee shall pay Licensor the license fees in accordance with the payment schedule set forth in Exhibit B.
+   3.2 All payments are due within thirty (30) days of the invoice date. Late payments shall accrue interest at a rate of 1.5% per month.
+
+4. **TERM AND TERMINATION**
+   4.1 This Agreement shall commence on the Effective Date and continue for an initial term of one (1) year ("Initial Term"). Thereafter, this Agreement shall automatically renew for successive one (1) year terms ("Renewal Term") unless either party provides written notice of non-renewal at least thirty (30) days prior to the end of the then-current term.
+   4.2 Either party may terminate this Agreement if the other party breaches any material term of this Agreement and fails to cure such breach within thirty (30) days after receiving written notice of the breach.
+   4.3 Upon termination or expiration of this Agreement, Licensee shall cease all use of the Licensed Materials and return or destroy all copies of the Licensed Materials in Licensee's possession.
+
+5. **PROPRIETARY RIGHTS**
+   5.1 Licensee acknowledges that the Licensed Materials are the exclusive property of Licensor and that this Agreement does not convey any ownership rights to Licensee.
+
+6. **CONFIDENTIALITY**
+   6.1 Each party agrees to maintain the confidentiality of the other party's proprietary and confidential information using the same degree of care that it uses to protect its own proprietary and confidential information, but in no event less than a reasonable degree of care.
+
+7. **LIMITED WARRANTY AND DISCLAIMER**
+   7.1 Licensor warrants that the Software will substantially perform in accordance with the Documentation for a period of ninety (90) days from the Effective Date. If the Software does not perform as warranted, Licensor shall use commercially reasonable efforts to correct the non-conformity.
+   7.2 EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH ABOVE, THE LICENSED MATERIALS ARE PROVIDED "AS IS" AND LICENSOR DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+8. **LIMITATION OF LIABILITY**
+   8.1 IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS OR DATA, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+   8.2 LICENSOR'S TOTAL CUMULATIVE LIABILITY IN CONNECTION WITH THIS AGREEMENT, WHETHER IN CONTRACT OR TORT OR OTHERWISE, SHALL NOT EXCEED THE AMOUNTS PAID BY LICENSEE UNDER THIS AGREEMENT.
+
+9. **GENERAL PROVISIONS**
+   9.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of New South Wales, Australia.
+   9.2 Entire Agreement. This Agreement constitutes the entire agreement between the parties regarding the subject matter hereof and supersedes all prior agreements and understandings, whether written or oral.
+   9.3 Amendments. Any amendment or modification of this Agreement must be in writing and signed by authorized representatives of both parties.
+   9.4 Assignment. Licensee may not assign this Agreement or any of its rights or obligations hereunder without the prior written consent of Licensor.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Software License Agreement as of the Effective Date.
+
+_____________________________  
+Jane Wu  
+CEO, Canvassian Pty Ltd
+
+_____________________________  
+Michael Johnson  
+CEO, Zyleno Corp  
+
+**Exhibit A - Software**
+
+1. Canvass-CRM
+2. Canvass-Analytics
+
+**Exhibit B - Payment Schedule**
+
+1. Initial License Fee: AUD 50,000 due upon execution of this Agreement.
+2. Annual Renewal Fee: AUD 20,000 due on the first day of each Renewal Term.
+
+---
+
+[END OF AGREEMENT]

@@ -1,0 +1,81 @@
+**Software Services Agreement**
+
+**This Software Services Agreement (the "Agreement") is entered into as of this 15th day of October, 2023, by and between:**
+
+**Canvassian Pty Ltd**, an Australian corporation with its principal place of business at 123 Innovation Way, Sydney, NSW 2000 ("Provider"),
+
+and
+
+**Paywise Limited**, a company incorporated and existing under the laws of Australia with its principal place of business at 456 Financial Hub, Melbourne, VIC 3000 ("Client").
+
+**RECITALS**
+
+WHEREAS, the Client wishes to procure software services from the Provider; and
+
+WHEREAS, the Provider has agreed to provide such services to the Client in accordance with the terms and conditions of this Agreement.
+
+NOW, THEREFORE, the Parties hereby agree as follows:
+
+**1. SERVICES**
+
+1.1 **Scope of Services**: The Provider agrees to provide the Client with software development, maintenance, and support services (the "Services") as detailed in Schedule A attached hereto.
+
+1.2 **Deliverables**: The Provider shall deliver to the Client the software components and documentation as outlined in Schedule B (the "Deliverables").
+
+**2. TERM**
+
+2.1 **Initial Term**: This Agreement shall commence on the Effective Date and continue for a period of one (1) year, unless terminated earlier in accordance with the provisions of this Agreement (the "Initial Term").
+
+2.2 **Renewal**: Upon the expiration of the Initial Term, this Agreement shall automatically renew for successive one (1) year terms unless either Party provides written notice of non-renewal to the other Party at least thirty (30) days prior to the end of the then-current term.
+
+**3. COMPENSATION**
+
+3.1 **Fees**: In consideration of the Services provided under this Agreement, the Client agrees to pay the Provider the fees as set forth in Schedule C (the "Fees").
+
+3.2 **Payment Terms**: All invoices shall be payable within thirty (30) days of receipt by the Client. In the event of late payment, the Provider reserves the right to charge interest at a rate of 1.5% per month.
+
+**4. CONFIDENTIALITY**
+
+4.1 **Confidential Information**: Both Parties acknowledge that, in the course of performing their obligations under this Agreement, they may be exposed to or acquire information that is proprietary or confidential to the other Party (the "Confidential Information").
+
+4.2 **Non-Disclosure**: Each Party agrees to hold the Confidential Information of the other Party in strict confidence and not to disclose such Confidential Information to any third parties, except as required by law or permitted by this Agreement.
+
+**5. INTELLECTUAL PROPERTY RIGHTS**
+
+5.1 **Ownership**: All Intellectual Property Rights in and to the Deliverables shall be owned by the Provider. The Client is granted a non-exclusive, non-transferable, royalty-free license to use the Deliverables solely for its internal business operations.
+
+**6. WARRANTIES AND DISCLAIMERS**
+
+6.1 **Provider's Warranty**: The Provider warrants that the Services will be performed in a professional and workmanlike manner in accordance with industry standards.
+
+6.2 **Disclaimer**: Except for the warranties expressly provided in this Agreement, the Provider disclaims all other warranties, either express or implied, including but not limited to implied warranties of merchantability and fitness for a particular purpose.
+
+**7. LIMITATION OF LIABILITY**
+
+7.1 **Exclusion of Damages**: In no event shall either Party be liable to the other for any indirect, incidental, special, or consequential damages arising out of or related to this Agreement.
+
+**8. TERMINATION**
+
+8.1 **Termination for Convenience**: Either Party may terminate this Agreement for any reason upon ninety (90) days written notice to the other Party.
+
+8.2 **Termination for Cause**: Either Party may terminate this Agreement upon thirty (30) days written notice if the other Party is in material breach of any obligation under this Agreement and fails to cure such breach within the notice period.
+
+**9. GENERAL PROVISIONS**
+
+9.1 **Governing Law**: This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia.
+
+9.2 **Entire Agreement**: This Agreement, including all Schedules attached hereto, constitutes the entire agreement between the Parties and supersedes all prior agreements, negotiations, and understandings.
+
+9.3 **Amendments**: This Agreement may not be amended or modified except in writing signed by both Parties.
+
+**IN WITNESS WHEREOF**, the Parties hereto have executed this Agreement as of the Effective Date.
+
+**FOR PROVIDER:**
+_______________________________
+Jane Wu, CEO  
+Canvassian Pty Ltd
+
+**FOR CLIENT:**
+_______________________________
+John Smith, CEO  
+Paywise Limited

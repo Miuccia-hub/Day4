@@ -1,0 +1,111 @@
+**SOFTWARE DEVELOPMENT AND SERVICES AGREEMENT**
+
+**This Software Development and Services Agreement** (the "Agreement") is made and entered into as of this 15th day of October, 2023, by and between:
+
+**Canvassian Pty Ltd** ABN 54 123 456 789, a company incorporated and existing under the laws of Australia with its principal place of business at 123 Tech Avenue, Sydney, NSW, 2000 (hereinafter referred to as "Developer"),
+
+and **BlueSky Innovations Ltd**, a company incorporated and existing under the laws of Australia with its principal place of business at 456 Innovation Drive, Melbourne, VIC, 3000 (hereinafter referred to as "Client").
+
+**Recitals**
+
+**A.** Developer is in the business of providing software development services and related support.
+
+**B.** Client desires to obtain certain software development services from Developer as set forth in this Agreement.
+
+**C.** Developer is willing to perform such services for Client under the terms and conditions set forth herein.
+
+**Agreement**
+
+**1. Definitions**
+
+1.1 **"Services"** shall mean the software development and consulting services to be provided by Developer to Client as described in Exhibit A attached hereto.
+
+1.2 **"Deliverables"** shall mean the software products and materials to be provided by Developer to Client pursuant to the Services.
+
+**2. Scope of Services**
+
+2.1 **Statement of Work**. Developer agrees to provide the Services to Client as described in Exhibit A attached hereto.
+
+2.2 **Changes to Scope**. Any changes to the scope of Services shall be mutually agreed upon in writing by both parties through a change order process.
+
+**3. Term**
+
+3.1 This Agreement shall commence as of the Effective Date and shall continue for a period of one (1) year, unless earlier terminated in accordance with Section 10 of this Agreement.
+
+**4. Compensation**
+
+4.1 **Fees**. Client shall pay Developer for the Services as described in Exhibit B attached hereto.
+
+4.2 **Invoices**. Developer shall submit invoices to Client on a monthly basis. Payment shall be due within thirty (30) days of Client’s receipt of each invoice.
+
+4.3 **Expenses**. Client agrees to reimburse Developer for all reasonable out-of-pocket expenses incurred in connection with the performance of the Services, provided that such expenses have been approved in advance by Client.
+
+**5. Ownership of Intellectual Property**
+
+5.1 **Deliverables**. Client shall own all right, title, and interest in and to the Deliverables, including all intellectual property rights therein.
+
+5.2 **Background Technology**. Developer shall retain ownership of all right, title, and interest in and to the technology, software, tools, processes, and methodologies that Developer owned or developed prior to the Effective Date or that Developer develops independently of the Services ("Background Technology"). Developer grants Client a non-exclusive, non-transferable, royalty-free license to use the Background Technology solely as incorporated into the Deliverables.
+
+**6. Confidentiality**
+
+6.1 Each party agrees to keep confidential all information disclosed by the other party, whether orally or in writing, that is designated as confidential or that reasonably should be understood to be confidential.
+
+6.2 This confidentiality obligation shall survive the expiration or termination of this Agreement.
+
+**7. Warranties**
+
+7.1 **Performance Warranty**. Developer warrants that the Services will be performed in a professional and workmanlike manner in accordance with industry standards.
+
+7.2 **Non-Infringement Warranty**. Developer warrants that the Deliverables, as provided by Developer, do not and will not infringe upon any third party’s intellectual property rights.
+
+**8. Indemnification**
+
+8.1 Developer agrees to indemnify, defend, and hold harmless Client from and against any and all claims, liabilities, damages, and expenses, including reasonable attorneys’ fees, arising out of or in connection with any breach by Developer of its warranties set forth in Section 7.
+
+**9. Limitation of Liability**
+
+9.1 Except in the case of gross negligence or willful misconduct, in no event shall either party be liable for any indirect, incidental, special, or consequential damages, including loss of profits, arising out of or in connection with this Agreement.
+
+**10. Termination**
+
+10.1 **Termination for Convenience**. Either party may terminate this Agreement for convenience upon thirty (30) days' prior written notice to the other party.
+
+10.2 **Termination for Cause**. Either party may terminate this Agreement immediately upon written notice if the other party breaches any material provision of this Agreement and fails to cure such breach within thirty (30) days after receiving written notice thereof.
+
+**11. General Provisions**
+
+11.1 **Governing Law**. This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia.
+
+11.2 **Entire Agreement**. This Agreement, together with its exhibits, constitutes the entire agreement between the parties and supersedes all prior agreements and understandings, whether written or oral.
+
+11.3 **Amendment**. This Agreement may be amended or modified only by a written instrument signed by both parties.
+
+11.4 **Counterparts**. This Agreement may be executed in counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Effective Date.
+
+**Canvassian Pty Ltd**
+
+By: 
+___________________________
+
+Name: Jane Wu
+
+Title: CEO
+
+**BlueSky Innovations Ltd**
+
+By: 
+___________________________
+
+Name: Robert Johnson
+
+Title: CEO
+
+**Exhibit A: Scope of Services**
+
+[Detailed description of the software development services to be provided by Developer to Client.]
+
+**Exhibit B: Compensation**
+
+[Detailed description of the fees, rates, and payment terms for the Services.]

@@ -1,0 +1,85 @@
+**SOFTWARE LICENSE AGREEMENT**
+
+**THIS SOFTWARE LICENSE AGREEMENT** (this "Agreement") is made and entered into as of the 15th day of October, 2023, by and between Canvassian Pty Ltd, an Australian company with its principal place of business at 123 Innovation Drive, Sydney, NSW, Australia ("Licensor"), and DataVision Inc., a corporation with its principal place of business at 456 Digital Lane, Melbourne, VIC, Australia ("Licensee").
+
+**RECITALS**
+
+WHEREAS, Licensor has developed certain proprietary software known as "InsightWork" (the "Software");
+
+WHEREAS, Licensee desires to obtain a license to use the Software for its internal business purposes, and Licensor is willing to grant such a license on the terms and conditions set forth herein;
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises herein contained, the parties agree as follows:
+
+**1. LICENSE GRANT**
+
+1.1 **License**. Subject to the terms and conditions of this Agreement, Licensor hereby grants to Licensee a non-exclusive, non-transferable, revocable license to use the Software solely for Licensee’s internal business operations.
+
+1.2 **Restrictions**. Licensee shall not, and shall not permit any third party to: (a) reverse engineer, decompile, or disassemble the Software; (b) modify or create derivative works based on the Software; (c) distribute, sell, rent, lease, sublicense, or otherwise transfer rights to the Software; or (d) remove any proprietary notices or labels on the Software.
+
+**2. DELIVERY AND ACCEPTANCE**
+
+Licensor shall deliver the Software to Licensee electronically within fifteen (15) days of the effective date of this Agreement. The Software shall be deemed accepted by Licensee upon download and installation.
+
+**3. TERM AND TERMINATION**
+
+3.1 **Term**. This Agreement shall commence on the Effective Date and shall continue for a period of one (1) year, unless earlier terminated in accordance with this Agreement.
+
+3.2 **Termination for Convenience**. Either party may terminate this Agreement upon thirty (30) days written notice to the other party.
+
+3.3 **Termination for Cause**. Either party may terminate this Agreement immediately upon written notice if the other party materially breaches any term or condition of this Agreement and fails to cure such breach within thirty (30) days of receiving notice thereof.
+
+**4. FEES AND PAYMENT**
+
+4.1 **License Fee**. Licensee shall pay Licensor an annual license fee of AUD 50,000 within thirty (30) days of the invoice date.
+
+4.2 **Payment Terms**. All payments are due within thirty (30) days of the invoice date. Late payments shall bear interest at the rate of one and one-half percent (1.5%) per month, or the maximum rate permitted by applicable law, whichever is less.
+
+**5. CONFIDENTIALITY**
+
+5.1 **Confidential Information**. Each party acknowledges that it may receive confidential or proprietary information ("Confidential Information") from the other party. Each party agrees to keep and maintain in strict confidence all Confidential Information and to use it solely for the purposes of this Agreement.
+
+5.2 **Exclusions**. Confidential Information does not include information that: (a) is or becomes publicly known through no act or omission of the receiving party; (b) is rightfully received from a third party; (c) is independently developed by the receiving party; or (d) is disclosed with the prior written consent of the disclosing party.
+
+**6. INTELLECTUAL PROPERTY RIGHTS**
+
+Licensor retains all right, title, and interest in and to the Software, including all intellectual property rights therein. Licensee does not acquire any rights, express or implied, in the Software other than those specified in this Agreement.
+
+**7. WARRANTIES AND DISCLAIMERS**
+
+7.1 **Limited Warranty**. Licensor warrants that the Software will perform substantially as described in the accompanying documentation for a period of ninety (90) days from the date of delivery ("Warranty Period"). 
+
+7.2 **Disclaimer**. EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN THIS SECTION 7, THE SOFTWARE IS PROVIDED "AS IS," AND LICENSOR DISCLAIMS ALL OTHER WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+**8. LIMITATION OF LIABILITY**
+
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, INCLUDING, BUT NOT LIMITED TO, LOSS OF PROFITS, BUSINESS INTERRUPTIONS, OR LOSS OF DATA, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+**9. GOVERNING LAW**
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia, without regard to its conflict of law principles.
+
+**10. MISCELLANEOUS**
+
+10.1 **Entire Agreement**. This Agreement constitutes the entire agreement between the parties and supersedes all prior or contemporaneous understandings, agreements, negotiations, representations, and warranties, both written and oral, with respect to the subject matter hereof.
+
+10.2 **Amendments**. No amendment or modification of this Agreement shall be valid or binding upon the parties unless it is in writing and signed by both parties.
+
+10.3 **Severability**. If any provision of this Agreement is held invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+10.4 **Waiver**. The failure of either party to enforce any right or provision of this Agreement shall not constitute a waiver of such right or provision.
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed by their duly authorized representatives as of the Effective Date.
+
+**CANVASSIAN PTY LTD**
+
+By: /s/ Jane Wu  
+Name: Jane Wu  
+Title: CEO
+
+**DATAVISION INC.**
+
+By: /s/ John Smith  
+Name: John Smith  
+Title: CFO
+
+**End of Document**

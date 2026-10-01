@@ -1,0 +1,19 @@
+Subject: Update on Project Timeline
+
+To: Sarah Thompson <sarah.thompson@canvassian.com>  
+From: Jake Robinson <jake.robinson@canvassian.com>  
+Date: October 4, 2023  
+CC: Jane Wu <jane.wu@canvassian.com>, Edon Mask <edon.mask@canvassian.com>  
+
+Hi Sarah,
+
+I hope this message finds you well! I wanted to touch base regarding the timeline for the upcoming software update. As we discussed in our last meeting, we aim to have all pending features rolled out by the end of this month.
+
+Additionally, during our recent conversations with Paywise, they expressed their interest in some of the new functionalities we plan to implement. It would be great to ensure that their feedback is incorporated into our development process. If you have a chance, could you please share any updates from your discussions with them?
+
+Looking forward to your insights.
+
+Best regards,  
+Jake Robinson  
+Project Manager  
+Canvassian Pty Ltd  

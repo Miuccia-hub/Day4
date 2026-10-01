@@ -1,0 +1,105 @@
+**Board Paper**
+
+**Company:** Canvassian Pty Ltd
+**Date:** October 10, 2023
+
+**Title:** Regular Reporting and M&A Deal Consideration
+
+**Prepared by:** John Mitchell, CFO
+
+**For**: Discussion
+
+---
+
+### 1. Introduction
+
+The purpose of this board paper is to review the regular financial and operational performance reports of Canvassian Pty Ltd, and to discuss the potential acquisition proposal that has been received, following standard due diligence protocols.
+
+### 2. Regular Reporting
+
+**2.1 Financial Performance**
+
+For the quarter ending September 30, 2023, Canvassian Pty Ltd has shown promising financial results. Below are the key financial metrics:
+
+- **Revenue:** $25 million
+- **Net Profit before Tax:** $3.2 million
+- **Operating Margin:** 12.8%
+- **EBITDA:** $5.1 million
+
+**2.2 Client Engagement**
+
+- **Major Clients:** The company's five major clients—Paywise, Alphabear, Bravocat, Charlemont, Deltaforce, and Echona—have all renewed their contracts, ensuring recurring revenue for at least the next two years.
+- **Minor Clients:** Client retention rates among our minor clients remain robust at 85%. 
+
+**2.3 Staffing and Resources**
+
+- **Employee Strength:** Currently, the company employs 320 individuals. Recruitment activities are ongoing, with particular focus on expanding our software engineering team.
+- **Employee Satisfaction:** The latest internal survey suggests a high level of employee satisfaction at 88%, attributed to Jane Wu's effective leadership and Edon Mask’s technological vision.
+
+### 3. Mergers & Acquisitions (M&A) Deal
+
+**3.1 Background**
+
+Canvassian Pty Ltd has been approached by OmegaCorp, a larger technology conglomerate, with a preliminary acquisition proposal. The proposal includes the following key terms:
+
+- **Offer Price:** $150 million
+- **Transaction Structure:** Cash and stock
+- **Employee Retention:** Key employees including the executive team are to be retained for at least two years post-acquisition
+
+**3.2 Due Diligence Requirements**
+
+Due diligence is required to evaluate the following aspects:
+- **Financial Health:** Confirmation of financial statements, tax compliance, and valuation.
+- **Legal Compliance:** Examination of all contracts, intellectual property rights, and regulatory compliance.
+- **Commercial Fit:** Assessment of the synergies between Canvassian’s product offerings and OmegaCorp’s existing portfolio.
+- **Cultural Compatibility:** Evaluation of corporate culture to ensure seamless integration.
+
+**3.3 Strategic Benefits**
+
+The acquisition stands to offer significant strategic benefits:
+- **Market Expansion:** Access to OmegaCorp’s expansive global client base.
+- **Enhanced R&D:** Increased investment in research and development, leveraging OmegaCorp’s resources.
+- **Operational Efficiency:** Potential to streamline operations and reduce costs.
+
+### 4. Recommendations
+
+It is recommended that the board:
+
+1. **Approve the Financial and Operational Reports:** Acknowledge the satisfactory financial and operational performance of Canvassian Pty Ltd for the quarter ending September 30, 2023.
+   
+2. **Commence Due Diligence:** Authorize the appointment of a due diligence team to thoroughly assess the viability and benefits of OmegaCorp’s acquisition proposal.
+
+3. **Form an M&A Committee:** Establish a sub-committee comprising key members from finance, legal, and HR to manage the M&A process and report to the board periodically.
+
+### 5. Conclusion
+
+The board is requested to review the provided reports and discuss the potential acquisition by OmegaCorp, ensuring a comprehensive understanding before any final decision is made.
+
+---
+
+**Approved By:**
+
+Jane Wu (CEO)  
+Edon Mask (CTO)  
+Sarah Hamilton (Head of Legal)  
+Mark Robinson (Head of HR)  
+
+**Next Steps:**
+
+- Schedule a board meeting to vote on the recommendations.
+- Organize an initial meeting with OmegaCorp’s representatives to discuss mutual expectations.
+
+**Annexures:**
+- Annexure A: Financial Performance Report
+- Annexure B: Client Retention Statistics
+- Annexure C: Employee Satisfaction Survey Results
+- Annexure D: Initial Terms of OmegaCorp’s Acquisition Proposal
+
+Prepared by:
+
+John Mitchell  
+Chief Financial Officer, Canvassian Pty Ltd
+
+---
+
+End of Board Paper

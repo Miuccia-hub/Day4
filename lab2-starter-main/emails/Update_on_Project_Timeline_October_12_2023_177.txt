@@ -1,0 +1,31 @@
+**Email**
+
+**From:** Sarah Johnson <sarah.johnson@canvassian.com.au>  
+**To:** Michael Thompson <michael.thompson@canvassian.com.au>  
+**CC:** Jane Wu <jane.wu@canvassian.com.au>  
+**BCC:** Edon Mask <edon.mask@canvassian.com.au>  
+**Date:** October 12, 2023  
+**Subject:** Update on Project Timeline
+
+---
+
+Dear Michael,
+
+I hope this message finds you well.
+
+I wanted to provide you with an update on the project's current status and timeline. After our last team meeting, we have made significant progress on the new software update that our clients, particularly Paywise and Bravocat, have been eagerly waiting for. 
+
+The development team has finalized the initial phase, and we are on track to begin testing by the end of next week. I would like to ensure that the user experience team is ready to collaborate on the testing process, so please confirm if they are available.
+
+Additionally, I've attached the latest project timeline for your reference. If you have any questions or if there's anything specific you would like to discuss, please don't hesitate to reach out.
+
+Looking forward to your feedback.
+
+Best regards,
+
+Sarah Johnson  
+Product Manager  
+Canvassian Pty Ltd  
+Phone: +61 2 1234 5678  
+Email: sarah.johnson@canvassian.com.au  
+Website: www.canvassian.com.au  

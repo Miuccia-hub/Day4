@@ -1,0 +1,34 @@
+**Email**
+
+---
+
+**From:** Sarah Johnson <sarah.johnson@canvassian.com>  
+**To:** Michael Roberts <michael.roberts@canvassian.com>  
+**CC:** Jane Wu <jane.wu@canvassian.com>  
+
+**Subject:** Updates on Project Roadmap
+
+**Date:** October 15, 2023
+
+---
+
+Hi Michael,
+
+I hope this message finds you well!
+
+I wanted to touch base regarding the upcoming project milestones we discussed in our last meeting. The team is making great progress, and we're on track to meet our deadlines. 
+
+Additionally, I spoke with the client Paywise last week, and they expressed satisfaction with the current development phase. Their feedback was quite encouraging and will help us refine our deliverables further.
+
+Let’s plan a time to review the project roadmap and discuss any adjustments that may be necessary to ensure we keep our momentum.
+
+Looking forward to your thoughts!
+
+Best,  
+Sarah Johnson  
+Project Manager  
+Canvassian Pty Ltd  
+sarah.johnson@canvassian.com  
+(02) 9876 5432  
+
+---

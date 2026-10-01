@@ -1,0 +1,99 @@
+**SOFTWARE AS-A-SERVICE (SaaS) AGREEMENT**
+
+This Software as-a-Service (SaaS) Agreement ("Agreement") is entered into on this 12th day of October, 2023, by and between:
+
+Canvassian Pty Ltd, an Australian corporation with its principal place of business at 123 Tech Avenue, Sydney, New South Wales, Australia ("Provider"), 
+
+and
+
+Techtron Solutions, a corporation with its principal place of business at 456 Innovation Drive, Melbourne, Victoria, Australia ("Client").
+
+**RECITALS**
+
+WHEREAS, Provider is in the business of developing and providing software solutions, and
+
+WHEREAS, Client desires to utilize Provider's software solution according to the terms and conditions outlined herein,
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises contained herein, the parties agree as follows:
+
+### 1. DEFINITIONS
+
+**1.1 "Services"** means the software services provided by Provider to Client under this Agreement, specifically the software titled "CanvasPro," which includes hosting, maintenance, support, and other related services.
+
+**1.2 "Software"** means the web-based application known as CanvasPro developed, maintained, and provided by Provider.
+
+**1.3 "Users"** means employees, consultants, contractors, and agents of Client who are authorized to access and use the Software under the rights granted to Client pursuant to this Agreement.
+
+### 2. SERVICES
+
+**2.1 Provision of Services** Provider agrees to provide Client with access to the Software through the internet, subject to the terms and conditions set forth in this Agreement.
+
+**2.2 Service Level Agreement (SLA)** Provider shall use commercially reasonable efforts to ensure that the Software is available 99.5% of the time, excluding scheduled maintenance or any downtime caused by circumstances beyond Provider’s control.
+
+### 3. LICENSE
+
+**3.1 Grant of License** Provider grants to Client a non-exclusive, non-transferable right to access and use the Software during the Term as set forth in this Agreement.
+
+**3.2 Restrictions** Client shall not (a) modify, copy, or create derivative works based on the Software; (b) decompile, reverse engineer, or otherwise attempt to obtain the source code of the Software; or (c) resell, lease, or sublicense the Software.
+
+### 4. FEES AND PAYMENT
+
+**4.1 Fees** Client shall pay the fees for the Services as set forth in Schedule A attached hereto ("Fees").
+
+**4.2 Payment Terms** All Fees will be invoiced monthly in advance and are due within thirty (30) days of the invoice date.
+
+**4.3 Late Payments** Any payment not received by the due date shall bear interest at the rate of one and one-half percent (1.5%) per month or the maximum interest rate permitted by law, whichever is lower.
+
+### 5. TERM AND TERMINATION
+
+**5.1 Term** This Agreement shall commence on the Effective Date and continue for a period of one (1) year ("Initial Term").
+
+**5.2 Renewal** This Agreement will automatically renew for successive one (1) year terms unless either party provides written notice of non-renewal at least thirty (30) days before the end of the then-current term.
+
+**5.3 Termination for Cause** Either party may terminate this Agreement if the other party breaches any material term of this Agreement and fails to cure such breach within thirty (30) days of receiving written notice thereof.
+
+### 6. CONFIDENTIALITY
+
+**6.1 Confidential Information** Each party agrees that all code, inventions, know-how, business, technical and financial information disclosed to such party ("Receiving Party") by the disclosing party ("Disclosing Party") constitutes the confidential property of the Disclosing Party ("Confidential Information").
+
+**6.2 Obligations** The Receiving Party shall (a) protect the confidentiality of the Confidential Information of the Disclosing Party with the same degree of care as it uses for its own Confidential Information, but in no event less than reasonable care, and (b) not use or disclose any Confidential Information of the Disclosing Party for any purpose except as expressly authorized by this Agreement.
+
+### 7. LIMITATION OF LIABILITY
+
+**7.1 Limitation on Indirect Liability** EXCEPT FOR OBLIGATIONS UNDER SECTION 6, NEITHER PARTY WILL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO THIS AGREEMENT, UNDER ANY CAUSE OF ACTION OR THEORY OF LIABILITY, AND WHETHER OR NOT THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+**7.2 Cap on Liability** IN NO EVENT WILL THE AGGREGATE LIABILITY OF EACH PARTY ARISING OUT OF OR RELATED TO THIS AGREEMENT EXCEED THE TOTAL AMOUNT PAID BY CLIENT HEREUNDER IN THE TWELVE (12) MONTHS PRECEDING THE INCIDENT.
+
+### 8. GENERAL PROVISIONS
+
+**8.1 Governing Law** This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia.
+
+**8.2 Entire Agreement** This Agreement, including all schedules and exhibits hereto, constitutes the entire agreement between the parties and supersedes all prior agreements, understandings, and communications, whether written or oral.
+
+**8.3 Amendments** No amendment to this Agreement shall be effective unless it is in writing and signed by both parties.
+
+**8.4 Severability** If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions will remain in full force and effect.
+
+### SIGNATURES
+
+IN WITNESS WHEREOF, the parties hereto have executed this Software as-a-Service (SaaS) Agreement as of the Effective Date.
+
+**CANVASSIAN PTY LTD**  
+By: ___________________________________  
+Name: Jane Wu  
+Title: CEO  
+
+**TECHTRON SOLUTIONS**  
+By: ___________________________________  
+Name: John Smith  
+Title: Managing Director  
+
+**SCHEDULE A**
+
+**Fees:**
+- Monthly Subscription Fee: AUD $5,000
+- Implementation Fee: AUD $20,000 (one-time)
+
+**Service Level Agreement (SLA):**
+- Availability: 99.5%
+- Response Time for Support: Within 24 hours

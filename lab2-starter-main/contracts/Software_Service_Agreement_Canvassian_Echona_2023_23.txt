@@ -1,0 +1,89 @@
+**SOFTWARE SERVICE AGREEMENT**
+
+**This Software Service Agreement ("Agreement") is made and entered into as of October 15, 2023 ("Effective Date"), by and between:**
+
+**Canvassian Pty Ltd,** an Australian corporation with its principal place of business at Level 10, 100 Market Street, Sydney, NSW 2000 ("Canvassian"),
+
+and
+
+**Echona Ltd.,** a company incorporated in Australia with its principal place of business at 50 George Street, Brisbane, QLD 4000 ("Echona").
+
+**RECITALS**
+
+1. **WHEREAS,** Canvassian is in the business of providing specialized software services, including but not limited to development, maintenance, and support.
+   
+2. **WHEREAS,** Echona desires to engage Canvassian to provide certain software services as more particularly described in this Agreement.
+
+**NOW, THEREFORE,** in consideration of the mutual covenants and promises contained herein, the parties hereto agree as follows:
+
+**1. SERVICES**
+
+1.1 **Services Provided.** Canvassian agrees to provide Echona with software development, maintenance, and support services as outlined in Exhibit A ("Services"), which is incorporated herein by reference.
+
+1.2 **Service Levels.** Canvassian shall use reasonable efforts to adhere to the service levels set forth in Exhibit B ("Service Levels").
+
+**2. COMPENSATION**
+
+2.1 **Service Fees.** Echona agrees to pay Canvassian for the Services in accordance with the fee schedule set forth in Exhibit C ("Fee Schedule").
+
+2.2 **Payment Terms.** All payments shall be due within thirty (30) days of the invoice date. Invoices will be issued on a monthly basis.
+
+**3. TERM AND TERMINATION**
+
+3.1 **Term.** This Agreement shall commence on the Effective Date and continue for a period of three (3) years, unless earlier terminated as provided herein.
+
+3.2 **Termination for Convenience.** Either party may terminate this Agreement for convenience upon sixty (60) days' prior written notice to the other party.
+
+3.3 **Termination for Cause.** Either party may terminate this Agreement if the other party breaches any material term or condition and fails to cure such breach within thirty (30) days of receipt of written notice specifying the breach.
+
+**4. CHANGE IN CONTROL**
+
+4.1 **Definition.** A "Change in Control" shall mean a transaction or series of transactions whereby a third party gains control of more than fifty percent (50%) of the voting stock of Canvassian, or there is a sale of all or substantially all of Canvassian's assets to a third party.
+
+4.2 **Notice.** Canvassian shall provide Echona with written notice of any Change in Control at least sixty (60) days prior to the anticipated closing date of such Change in Control.
+
+4.3 **Termination.** In the event of a Change in Control, Echona shall have the right to terminate this Agreement upon thirty (30) days' written notice to Canvassian, without any penalty or further obligation.
+
+**5. CONFIDENTIALITY**
+
+5.1 **Obligation.** Each party agrees to keep confidential all non-public information disclosed by the other party ("Confidential Information") and to use such information only for purposes of performing its obligations under this Agreement.
+
+5.2 **Exception.** Confidential Information does not include information which: (i) is or becomes public knowledge through no fault of the receiving party, (ii) is known to the receiving party prior to disclosure by the disclosing party, or (iii) is independently developed by the receiving party.
+
+**6. INDEMNIFICATION**
+
+6.1 **Indemnity by Canvassian.** Canvassian agrees to indemnify and hold harmless Echona from any claims, damages, liabilities, or expenses arising out of Canvassian's breach of this Agreement or its negligent or willful misconduct.
+
+6.2 **Indemnity by Echona.** Echona agrees to indemnify and hold harmless Canvassian from any claims, damages, liabilities, or expenses arising out of Echona's breach of this Agreement or its negligent or willful misconduct.
+
+**7. MISCELLANEOUS**
+
+7.1 **Governing Law.** This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia.
+
+7.2 **Dispute Resolution.** Any disputes arising under or in connection with this Agreement shall be resolved by arbitration in Sydney, NSW, in accordance with the rules of the Australian Centre for International Commercial Arbitration (ACICA).
+
+7.3 **Entire Agreement.** This Agreement, including all exhibits, constitutes the entire agreement between the parties and supersedes all prior agreements, understandings, and representations, whether oral or written.
+
+7.4 **Amendments.** This Agreement may only be amended in writing signed by both parties.
+
+7.5 **Notices.** All notices required or permitted under this Agreement shall be in writing and shall be deemed to have been duly given when delivered in person or three (3) days after being sent by registered or certified mail, return receipt requested, postage prepaid, to the respective parties at their addresses set forth above, or to such other address as either party may provide in writing.
+
+**IN WITNESS WHEREOF,** the parties hereto have caused this Agreement to be executed by their duly authorized representatives as of the Effective Date.
+
+**CANVASSIAN PTY LTD:**
+   
+By: _________________________  
+Name: Jane Wu  
+Title: CEO
+
+**ECHONA LTD.:**
+
+By: _________________________  
+Name: Robert Thompkins  
+Title: COO
+
+**Exhibits:**
+
+Exhibit A: Description of Services  
+Exhibit B: Service Levels  
+Exhibit C: Fee Schedule

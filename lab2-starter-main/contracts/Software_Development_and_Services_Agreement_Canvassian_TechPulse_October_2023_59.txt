@@ -1,0 +1,121 @@
+**SOFTWARE DEVELOPMENT AND SERVICES AGREEMENT**
+
+This Software Development and Services Agreement (the "Agreement") is made and entered into as of this 15th day of October, 2023 (the "Effective Date"), by and between Canvassian Pty Ltd, an Australian corporation with its principal office located at 123 Innovation Drive, Sydney, Australia ("Developer"), and TechPulse Inc., a corporation having its principal place of business at 456 Technology Boulevard, Melbourne, Australia ("Client").
+
+**RECITALS**
+
+WHEREAS, Developer is in the business of developing software applications and providing related services; and
+
+WHEREAS, Client desires to retain Developer to develop certain software and provide associated services as described herein; and
+
+WHEREAS, Developer is willing to perform such services for Client in accordance with the terms and conditions set forth in this Agreement;
+
+NOW, THEREFORE, in consideration of the mutual promises, terms, and conditions set forth herein, the parties hereby agree as follows:
+
+**1. DEFINITIONS**
+
+1.1 "Services" shall mean the software development and related services to be provided by Developer to Client as more fully described in Exhibit A attached hereto.
+
+1.2 "Work Product" shall mean all deliverables, including but not limited to software, documentation, designs, reports, and other materials, developed by Developer in connection with the Services.
+
+**2. SCOPE OF SERVICES**
+
+2.1 Developer agrees to provide the Services to Client in accordance with the specifications and timelines set forth in Exhibit A.
+
+2.2 Any changes to the scope of Services shall be made in writing and agreed upon by both parties through a change order process.
+
+**3. COMPENSATION AND PAYMENT TERMS**
+
+3.1 Client shall pay Developer for the Services as set forth in Exhibit A. All payments shall be made in Australian dollars.
+
+3.2 Developer shall invoice Client on a monthly basis for Services performed, and Client shall pay the invoiced amounts within thirty (30) days of the date of each invoice.
+
+3.3 Any amounts not paid when due shall accrue interest at a rate of 1.5% per month or the highest rate allowed by law, whichever is lower.
+
+**4. TERM AND TERMINATION**
+
+4.1 This Agreement shall commence on the Effective Date and shall continue until the completion of the Services, unless earlier terminated as provided herein.
+
+4.2 Either party may terminate this Agreement for convenience upon thirty (30) days' prior written notice to the other party.
+
+4.3 Either party may terminate this Agreement immediately upon written notice if the other party breaches any material obligation under this Agreement and fails to cure such breach within fifteen (15) days after receipt of notice of such breach.
+
+**5. OWNERSHIP AND LICENSES**
+
+5.1 All Work Product created by Developer in the performance of the Services shall be owned by Client, and Developer hereby assigns to Client all right, title, and interest in and to such Work Product.
+
+5.2 Developer shall retain ownership of any pre-existing intellectual property used in the performance of the Services, and Developer grants to Client a perpetual, non-exclusive, royalty-free license to use such pre-existing intellectual property solely as necessary for Client to use the Work Product.
+
+**6. CONFIDENTIALITY**
+
+6.1 Each party agrees to hold the other party’s Confidential Information in strict confidence and not to disclose such Confidential Information to any third party without the prior written consent of the disclosing party.
+
+6.2 For purposes of this Agreement, "Confidential Information" shall mean all information disclosed by one party to the other that is marked as confidential or that the receiving party should reasonably understand to be confidential.
+
+**7. WARRANTIES AND DISCLAIMERS**
+
+7.1 Developer warrants that the Services will be performed in a professional and workmanlike manner and in accordance with industry standards.
+
+7.2 Developer does not warrant that the software or any Work Product will be error-free or will operate without interruption.
+
+7.3 EXCEPT AS EXPRESSLY SET FORTH IN THIS SECTION 7, DEVELOPER DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+**8. INDEMNIFICATION**
+
+8.1 Each party agrees to indemnify, defend, and hold harmless the other party from and against any and all claims, liabilities, losses, damages, expenses, and costs (including reasonable attorneys' fees) arising out of or relating to any breach of this Agreement by the indemnifying party.
+
+**9. LIMITATION OF LIABILITY**
+
+9.1 IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY CONSEQUENTIAL, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+9.2 EACH PARTY'S AGGREGATE LIABILITY UNDER THIS AGREEMENT SHALL NOT EXCEED THE TOTAL AMOUNT PAID BY CLIENT TO DEVELOPER UNDER THIS AGREEMENT.
+
+**10. MISCELLANEOUS**
+
+10.1 This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior agreements and understandings, whether written or oral.
+
+10.2 This Agreement may be amended only by a written instrument signed by both parties.
+
+10.3 The failure of either party to enforce any right or provision of this Agreement shall not constitute a waiver of such right or provision.
+
+10.4 This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia, without regard to its conflict of laws principles.
+
+10.5 Any disputes arising out of or relating to this Agreement shall be subject to the exclusive jurisdiction of the courts located in Sydney, New South Wales, Australia.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+**CANVASSIAN PTY LTD**
+
+By: __________________________  
+Name: Jane Wu  
+Title: CEO  
+
+**TechPulse Inc.**
+
+By: __________________________  
+Name: James Smith  
+Title: COO
+
+---
+
+**Exhibit A: Scope of Services and Compensation**
+
+1. **Scope of Services**: Developer shall develop a custom CRM software solution for Client, including the following modules:
+   - Customer Management
+   - Sales Pipeline Tracking
+   - Reporting and Analytics
+   - Integration with Email and Calendar Systems
+
+2. **Timeline**:
+   - Project Kickoff: October 20, 2023
+   - Phase 1 Completion (Customer Management Module): December 15, 2023
+   - Phase 2 Completion (Sales Pipeline and Reporting Modules): February 28, 2024
+   - Final Delivery: April 30, 2024
+
+3. **Compensation**:
+   - Total Project Cost: AUD 250,000
+   - Payment Schedule:
+     - 20% upon signing (AUD 50,000)
+     - 30% upon completion of Phase 1 (AUD 75,000)
+     - 30% upon completion of Phase 2 (AUD 75,000)
+     - 20% upon final delivery (AUD 50,000)

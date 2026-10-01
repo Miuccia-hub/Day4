@@ -1,0 +1,58 @@
+**Software License Agreement**
+
+**This Software License Agreement ("Agreement") is entered into on this 5th day of October, 2023, by and between Canvassian Pty Ltd, an Australian company with its principal place of business at 123 Innovation Drive, Sydney, NSW, Australia ("Licensor"), and Deltaforce Incorporated, a Delaware corporation with its principal place of business at 456 Market Street, San Francisco, CA, USA ("Licensee").**
+
+**1. Grant of License**
+1.1 Subject to the terms and conditions of this Agreement, Licensor hereby grants to Licensee a non-exclusive, non-transferable, worldwide license to use the software product(s) described in Exhibit A ("Software") solely for Licensee's internal business purposes.
+
+**2. License Fee**
+2.1 In consideration of the rights granted herein, Licensee agrees to pay Licensor the license fees described in Exhibit B ("License Fee"). All payments shall be made in US Dollars or Australian Dollars, as mutually agreed by the parties.
+
+**3. Term and Termination**
+3.1 This Agreement shall remain in effect for a period of one (1) year from the Effective Date ("Initial Term"). Thereafter, this Agreement shall automatically renew for successive one (1) year terms unless either party gives the other party written notice of its intention not to renew at least thirty (30) days prior to the end of the then-current term.
+3.2 Either party may terminate this Agreement upon thirty (30) days' written notice if the other party breaches any material term or condition of this Agreement and fails to cure such breach within the thirty (30) day notice period.
+3.3 Upon termination or expiration of this Agreement, Licensee shall cease all use of the Software and, at Licensor’s request, return or destroy all copies of the Software in Licensee's possession.
+
+**4. Ownership and Intellectual Property**
+4.1 Licensee acknowledges that Licensor owns all right, title, and interest in and to the Software, including all intellectual property rights therein. Licensee shall not contest or challenge such ownership.
+
+**5. Confidentiality**
+5.1 Each party agrees that all information disclosed by one party ("Disclosing Party") to the other party ("Receiving Party") that is marked as confidential or that reasonably should be understood to be confidential given the nature of the information and the circumstances of its disclosure, including, without limitation, the Software and the terms of this Agreement, shall be considered "Confidential Information".
+5.2 The Receiving Party agrees to protect the Confidential Information of the Disclosing Party with the same degree of care that it uses to protect its own confidential information, but in no event with less than a reasonable degree of care.
+5.3 The Receiving Party agrees not to use the Confidential Information of the Disclosing Party for any purpose except as necessary to fulfill its obligations or exercise its rights under this Agreement.
+
+**6. Warranties and Disclaimers**
+6.1 Licensor warrants that the Software will perform substantially in accordance with the documentation provided with the Software for a period of ninety (90) days from the Effective Date. If the Software does not perform as warranted, Licensor’s sole responsibility shall be to use commercially reasonable efforts to correct the Software or replace it.
+6.2 Except as expressly set forth in this Agreement, the Software is provided "as is" and Licensor makes no other warranties, express or implied, including without limitation any implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+**7. Limitation of Liability**
+7.1 In no event shall either party be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from any breach of this Agreement or the use or inability to use the Software, even if such party has been advised of the possibility of such damages.
+
+**8. Governing Law**
+8.1 This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia, without giving effect to any choice of law or conflict of law provisions.
+
+**9. Miscellaneous**
+9.1 This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous oral or written agreements.
+9.2 No amendment or modification of this Agreement shall be binding unless in writing and signed by both parties.
+9.3 If any provision of this Agreement is found to be unenforceable, the remaining provisions will continue to be in full force and effect.
+9.4 Neither party may assign this Agreement without the prior written consent of the other party, except to a successor in the event of a merger, acquisition, or sale of all or substantially all of the assigning party’s assets.
+
+**IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.**
+
+**Canvassian Pty Ltd**
+
+By: _/s/ Jane Wu_
+Jane Wu, Chief Executive Officer
+
+**Deltaforce Incorporated**
+
+By: _/s/ John Smith_
+John Smith, Chief Operating Officer
+
+**Exhibit A – Software Description**
+[Description of the software products and services to be licensed under this Agreement.]
+
+**Exhibit B – License Fee**
+[Description of the license fees and payment terms under this Agreement.]
+
+_This Software License Agreement was prepared on 5th October 2023._

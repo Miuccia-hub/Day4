@@ -1,0 +1,90 @@
+**Software License Agreement**
+
+**This Software License Agreement ("Agreement") is made effective as of this 5th day of October 2023 ("Effective Date") by and between:**
+
+**Canvassian Pty Ltd**, an Australian proprietary limited company with its principal place of business at 123 Software Avenue, Sydney, NSW, Australia (hereinafter referred to as "Licensor"), and **Innovative Solutions Inc.**, a hypothetical company with its principal place of business at 456 Business Plaza, Melbourne, VIC, Australia (hereinafter referred to as "Licensee").
+
+**RECITALS**
+
+WHEREAS, Licensor is the owner of certain proprietary software products and is willing to grant a license to Licensee to use such software;
+
+WHEREAS, Licensee desires to obtain a license to use said software;
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises contained herein, the parties agree as follows:
+
+**1. Definitions**
+
+1.1 "Software": The term "Software" shall refer to the proprietary software owned by Licensor known as "InnoSuite," including any updates, enhancements, modifications, revisions, or replacements thereof.
+
+1.2 "Documentation": The term "Documentation" shall refer to any and all textual, graphical, or written materials that describe the operation or use of the Software.
+
+**2. Grant of License**
+
+2.1 Subject to the terms and conditions of this Agreement, Licensor hereby grants to Licensee a non-exclusive, non-transferable license to use the Software and Documentation solely for Licensee's internal business purposes.
+
+**3. License Restrictions**
+
+3.1 Licensee shall not:
+a. Copy, modify, or create derivative works of the Software or Documentation;
+b. Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software;
+c. Sell, lease, sublicense, distribute, disclose, permit access to, or transfer the Software or Documentation to any third party.
+
+**4. Fees and Payment**
+
+4.1 Licensee agrees to pay Licensor a license fee of $25,000 (AUD) annually. The first payment is due upon execution of this Agreement, and subsequent payments are due on each annual anniversary of the Effective Date.
+
+4.2 All payments due hereunder shall be made in Australian Dollars and are exclusive of all taxes, assessments, and duties.
+
+**5. Term and Termination**
+
+5.1 The term of this Agreement shall commence on the Effective Date and shall continue for an initial term of three (3) years, unless earlier terminated in accordance with this Section 5.
+
+5.2 Either party may terminate this Agreement, effective upon written notice to the other party, if the other party breaches any material provision of this Agreement and does not cure the breach within thirty (30) days after receiving written notice thereof.
+
+**6. Proprietary Rights**
+
+6.1 Licensee acknowledges and agrees that as between the parties, Licensor is the sole owner of all rights, title, and interests, including intellectual property rights, in and to the Software and Documentation.
+
+**7. Confidentiality**
+
+7.1 Each party agrees to keep confidential and not disclose to any third party any Confidential Information (as defined below) of the other party without the prior written consent of the disclosing party.
+
+7.2 "Confidential Information" includes, but is not limited to, any proprietary information, technical data, trade secrets, or know-how.
+
+**8. Warranties and Disclaimers**
+
+8.1 Licensor warrants that the Software will operate substantially in accordance with the Documentation. Licensor does not warrant that the Software will be error-free or uninterrupted.
+
+8.2 EXCEPT AS EXPRESSLY PROVIDED IN THIS AGREEMENT, THE SOFTWARE AND DOCUMENTATION ARE PROVIDED "AS IS." LICENSOR DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+**9. Limitation of Liability**
+
+9.1 IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING LOSS OF PROFITS, ARISING OUT OF OR RELATED TO THIS AGREEMENT, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+9.2 LICENSOR'S AGGREGATE LIABILITY FOR ALL CLAIMS ARISING OUT OF THIS AGREEMENT SHALL NOT EXCEED THE TOTAL FEES PAID BY LICENSEE TO LICENSOR UNDER THIS AGREEMENT.
+
+**10. General Provisions**
+
+10.1 Governing Law: This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, without regard to its conflicts of laws principles.
+
+10.2 Entire Agreement: This Agreement constitutes the entire agreement between the parties and supersedes all prior or contemporaneous agreements, representations, and understandings, whether written or oral.
+
+10.3 Amendments: No amendment, modification, or waiver of any provision of this Agreement shall be effective unless in writing and signed by authorized representatives of both parties.
+
+10.4 Severability: If any provision of this Agreement is held to be invalid or unenforceable, such provision shall be deemed modified to the extent necessary to make it valid and enforceable, and the remaining provisions shall remain in full force and effect.
+
+10.5 Assignment: Licensee shall not assign or transfer this Agreement or any rights or obligations hereunder, in whole or in part, without the prior written consent of Licensor.
+
+IN WITNESS WHEREOF, the parties have executed this Software License Agreement as of the Effective Date.
+
+**Canvassian Pty Ltd:** 
+
+By: _____________________________  
+Name: Jane Wu  
+Title: CEO  
+
+**Innovative Solutions Inc.:** 
+
+By: _____________________________  
+Name: John Doe  
+Title: CEO  

@@ -1,0 +1,61 @@
+**Software as a Service (SaaS) Agreement**
+
+**This Agreement** is entered into as of this ___ day of ________, 2023 ("Effective Date"), by and between Canvassian Pty Ltd, an Australian corporation with its principal place of business at [Canvassian Address], ("Provider"), and Bravocat, Inc., a [State] corporation with its principal place of business at [Bravocat Address], ("Customer").
+
+**1. Definitions**
+  1.1 "Services" means the software services provided by Canvassian Pty Ltd as described in Schedule A.
+  1.2 "Subscription Term" means the period during which Customer is entitled to use the Services as set forth in Schedule B.
+
+**2. Services**
+  2.1 Provider will provide to Customer the Services specified in Schedule A.
+
+**3. Fees and Payment**
+  3.1 Customer shall pay to Provider the fees set forth in Schedule B.
+  3.2 All payments shall be due within thirty (30) days of the date of invoice.
+
+**4. Term and Termination**
+  4.1 This Agreement shall commence on the Effective Date and continue for the Subscription Term, unless terminated earlier in accordance with this Agreement.
+  4.2 Either party may terminate this Agreement upon thirty (30) days' written notice if the other party is in material breach of this Agreement and fails to cure such breach within thirty (30) days after receipt of such notice.
+
+**5. Change in Control**
+  5.1 In the event of a Change in Control of Customer, the Customer must provide written notice of such Change in Control to Provider within thirty (30) days.
+  5.2 "Change in Control" means (a) a consolidation or merger of the Customer with or into any other corporation or the sale or transfer of all or substantially all of the Customer's assets, or (b) any change in the ownership of more than fifty percent (50%) of the voting capital stock of the Customer in one or more related transactions.
+
+**6. Confidentiality**
+  6.1 Each party agrees to keep confidential and not disclose to any third party, nor use for any purpose other than as contemplated by this Agreement, any proprietary or confidential information of the other party without the prior written consent of such other party.
+
+**7. Limitation of Liability**
+  7.1 In no event shall Provider be liable for any indirect, incidental, special, consequential or punitive damages arising out of or related to this Agreement, including without limitation, loss of profits, revenue, data or use, incurred by either party or any third party, whether in an action in contract or tort, even if the other party or any other person has been advised of the possibility of such damages.
+
+**8. General Provisions**
+  8.1 This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia.
+  8.2 Any disputes arising out of or related to this Agreement shall be resolved through binding arbitration conducted in Sydney, Australia.
+
+**IN WITNESS WHEREOF**, the parties hereto have executed this Agreement as of the Effective Date.
+
+**CANVASSIAN PTY LTD**
+
+By: ____________________________________  
+Name: Jane Wu  
+Title: CEO  
+
+**BRAVOCAT, INC.**
+
+By: ____________________________________  
+Name: John Doe  
+Title: CFO  
+
+**Schedule A** – Description of Services
+
+Services provided by Canvassian Pty Ltd include:
+
+- Access to Canvassian’s software platform
+- Regular software updates and maintenance
+- Customer support services
+
+**Schedule B** – Fee Schedule
+
+- Initial setup fee: $10,000 AUD
+- Monthly subscription fee: $5,000 AUD
+
+**End of Document**

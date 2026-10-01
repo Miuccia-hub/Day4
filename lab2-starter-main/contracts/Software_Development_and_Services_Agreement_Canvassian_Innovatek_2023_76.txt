@@ -1,0 +1,89 @@
+**SOFTWARE DEVELOPMENT AND SERVICES AGREEMENT**
+
+**This Software Development and Services Agreement ("Agreement") is made and entered into as of the 1st day of October, 2023, by and between Canvassian Pty Ltd, an Australian company with its principal place of business at 123 Tech Avenue, Sydney, NSW 2000 ("Developer"), and Innovatek Solutions, a corporation with its principal place of business at 456 Innovation Road, Melbourne, VIC 3000 ("Client"). Developer and Client may collectively be referred to as the "Parties" or individually as a "Party".**
+
+**RECITALS**
+
+WHEREAS, Developer is engaged in the business of developing, selling, and supporting software solutions and services;
+
+WHEREAS, the Client desires to engage Developer to design, develop, and deliver specific software products and to provide certain services described herein;
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, the Parties hereto agree as follows:
+
+### 1. DEFINITIONS
+
+1.1 "Deliverables" shall mean any software, documentation, reports, or other materials delivered by Developer to Client under this Agreement.
+
+1.2 "Services" shall mean the services to be provided by Developer as set forth in Exhibit A.
+
+1.3 "Specifications" shall mean the detailed requirements and functionality of the Deliverables as agreed upon by the Parties and set forth in Exhibit B.
+
+### 2. TERM AND TERMINATION
+
+2.1 **Term**. This Agreement shall commence on the Effective Date and shall continue in full force and effect for a period of twelve (12) months, unless terminated earlier in accordance with this Agreement.
+
+2.2 **Termination for Convenience**. Either Party may terminate this Agreement at any time for any reason by providing thirty (30) days written notice to the other Party.
+
+2.3 **Termination for Cause**. Either Party may terminate this Agreement immediately upon written notice if the other Party breaches any material term of this Agreement and fails to cure such breach within thirty (30) days after receipt of written notice of such breach.
+
+### 3. SERVICES AND DELIVERABLES
+
+3.1 **Scope of Services**. Developer agrees to perform the Services and deliver the Deliverables as described in Exhibit A.
+
+3.2 **Acceptance**. Client shall have ten (10) business days to inspect and review each Deliverable after receipt. If a Deliverable does not conform to the Specifications, Client shall notify Developer in writing, specifying the deficiencies. Developer shall, at its own expense, rectify such deficiencies within ten (10) business days.
+
+### 4. FEES AND PAYMENT
+
+4.1 **Fees**. The Client agrees to pay Developer the fees as specified in Exhibit C.
+
+4.2 **Payment Terms**. Unless otherwise agreed in writing, payments shall be due within thirty (30) days of receipt of an undisputed invoice.
+
+4.3 **Expenses**. Client shall reimburse Developer for all pre-approved, reasonable, and necessary expenses incurred by Developer in the performance of the Services.
+
+### 5. CONFIDENTIALITY
+
+5.1 **Confidential Information**. Each Party agrees that all information provided to it by the other Party which is identified as confidential or proprietary, or which by its nature would be understood to be confidential, is to be treated as confidential ("Confidential Information").
+
+5.2 **Non-Disclosure**. Each Party agrees not to disclose any Confidential Information to any third party, except as required by law, and not to use any Confidential Information except as necessary to perform its obligations under this Agreement.
+
+### 6. INTELLECTUAL PROPERTY
+
+6.1 **Ownership**. All intellectual property rights in the Deliverables, including without limitation custom-developed software, shall vest solely in Developer.
+
+6.2 **License**. Developer hereby grants to Client a non-exclusive, non-transferable, royalty-free license to use the Deliverables in accordance with this Agreement.
+
+### 7. WARRANTIES AND INDEMNITIES
+
+7.1 **Warranties**. Developer warrants that the Services shall be performed in a professional and workmanlike manner and that the Deliverables will conform to the Specifications.
+
+7.2 **Indemnities**. Each Party shall indemnify, defend, and hold harmless the other Party from any and all claims, liabilities, damages, and expenses arising out of or in connection with the breach of this Agreement by the indemnifying Party.
+
+### 8. GENERAL PROVISIONS
+
+8.1 **Governing Law**. This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia.
+
+8.2 **Dispute Resolution**. Any disputes arising under this Agreement shall be resolved through good faith negotiations between senior executives of the Parties. If the dispute cannot be resolved within thirty (30) days, either Party may bring an action in the courts of New South Wales, Australia.
+
+8.3 **Entire Agreement**. This Agreement, together with its Exhibits, constitutes the entire agreement between the Parties with respect to its subject matter and supersedes all prior and contemporaneous agreements, understandings, and representations.
+
+8.4 **Amendments**. Any amendments to this Agreement must be in writing and signed by both Parties.
+
+8.5 **Severability**. If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall continue to be valid and enforceable.
+
+**IN WITNESS WHEREOF, the Parties hereto have executed this Agreement as of the Effective Date.**
+
+**For Developer: Canvassian Pty Ltd**
+
+By: ______________________
+Name: Jane Wu
+Title: CEO
+
+**For Client: Innovatek Solutions**
+
+By: ______________________
+Name: Robert Smith
+Title: CEO
+
+**Exhibit A:** Scope of Services  
+**Exhibit B:** Specifications  
+**Exhibit C:** Fees and Payment Terms

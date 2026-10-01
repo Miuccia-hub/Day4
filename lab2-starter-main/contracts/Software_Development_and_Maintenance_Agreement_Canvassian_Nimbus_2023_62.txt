@@ -1,0 +1,100 @@
+### Software Development and Maintenance Agreement
+
+This Software Development and Maintenance Agreement ("Agreement") is entered into on this 15th day of October 2023 by and between:
+
+**Canvassian Pty Ltd**  
+ABN: 12 345 678 910  
+Address: Level 10, 123 Queen Street, Melbourne, VIC 3000, Australia  
+("Developer")
+
+and
+
+**Nimbus Solutions Ltd**  
+Company Number: 10111213  
+Address: Suite 4, 456 King Street, Sydney, NSW 2000, Australia  
+("Client")
+
+### 1. Definitions
+
+1.1 "Services" refers to the software development, customization, and ongoing maintenance as detailed in Exhibit A.  
+1.2 "Software" means the final product created, delivered, and maintained under this Agreement.  
+1.3 "Confidential Information" includes all proprietary information exchanged between the parties that is not generally known to the public.
+
+### 2. Scope of Work
+
+2.1 Developer shall provide the Services as described in Exhibit A.  
+2.2 Milestones and timelines are set forth in Exhibit B.
+
+### 3. Payment
+
+3.1 The Client agrees to pay the Developer $150,000 AUD as a total fee for the Services. The payment schedule will be as follows:
+
+- 25% upon signing this Agreement.
+- 25% upon completion of Milestone One.
+- 25% upon completion of Milestone Two.
+- 25% upon delivery of the final Software product.
+
+3.2 Late payments will incur a fee of 1.5% per month.
+
+### 4. Term and Termination
+
+4.1 This Agreement shall commence on the date first written above and continue for a period of 12 months unless earlier terminated by either party in accordance with Section 4.2.  
+4.2 Either party may terminate this Agreement with a 30 days' written notice.  
+4.3 Upon termination, Developer shall return all Client materials and cease any further work.
+
+### 5. Confidentiality
+
+5.1 Both parties agree to maintain confidentiality of all Confidential Information disclosed during the term of this Agreement and for a period of 2 years thereafter.
+
+### 6. Intellectual Property Rights
+
+6.1 All intellectual property rights developed under this Agreement shall be the exclusive property of the Client upon full payment to the Developer.
+
+### 7. Warranties and Liabilities
+
+7.1 Developer warrants that the Services will be performed in a professional manner.  
+7.2 Liability of Developer for any claim arising out of this Agreement will be limited to the total amount paid by Client.
+
+### 8. Indemnification
+
+8.1 Each party agrees to indemnify and hold harmless the other from any claims, losses, or liabilities arising from their breach of this Agreement.
+
+### 9. Amendments
+
+9.1 Any amendments or modifications to this Agreement must be in writing and signed by both parties.
+
+### 10. Governing Law
+
+10.1 This Agreement shall be governed by and construed in accordance with the laws of the State of Victoria, Australia.
+
+### 11. Dispute Resolution
+
+11.1 Any disputes arising out of this Agreement will be resolved through mediation before resorting to litigation.
+
+### 12. Notices
+
+12.1 Any notice required under this Agreement shall be in writing and sent to the addresses specified above.
+
+### 13. Entire Agreement
+
+13.1 This Agreement constitutes the entire agreement between the parties and supersedes all prior agreements and understandings.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+**Canvassian Pty Ltd**
+
+By: ___________________________  
+Name: Jane Wu  
+Title: CEO
+
+**Nimbus Solutions Ltd**
+
+By: ___________________________  
+Name: John Doe  
+Title: Managing Director
+
+---
+
+**Exhibit A** - Scope of Work  
+**Exhibit B** - Milestones and Timelines
+

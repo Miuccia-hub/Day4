@@ -1,0 +1,77 @@
+### Board Paper
+
+**Board of Directors Paper: Litigation Risk Overview**
+
+**Title:** Litigation Risk Assessment - Potential Patent Infringement Case
+
+**Date:** October 15, 2023
+
+**Prepared by:** Johnathan Davies, General Counsel
+
+**Presented by:** Johnathan Davies, General Counsel
+
+#### 1. Purpose
+
+The purpose of this paper is to inform the Board of Directors of Canvassian Pty Ltd about a potential litigation risk concerning a patent infringement claim made by our competitor, TechInnovators Inc. This paper outlines the background of the issue, the potential risks and impacts on the company, and the recommended action plan.
+
+#### 2. Background
+
+On September 25, 2023, Canvassian received a formal letter from TechInnovators Inc., alleging that our new software product, CanvassPro, infringes on their patent, US Patent No. 10,123,456. TechInnovators claims that specific features within CanvassPro match innovations described within their patent, potentially leading to significant legal and financial repercussions for our company.
+
+TechInnovators is demanding an immediate cessation of sales and distribution of CanvassPro and is seeking substantial monetary damages along with licensing fees for any period of alleged infringement.
+
+#### 3. Risk Analysis
+
+##### A. Legal Risks
+
+1. **Injunction Risk:** If TechInnovators seeks a preliminary injunction, it could temporarily stop the sale and distribution of CanvassPro, resulting in an immediate revenue loss.
+2. **Financial Penalties:** Successful litigation by TechInnovators could result in substantial financial damages and licensing fees.
+3. **Legal Costs:** Costs associated with defending the lawsuit could be significant, impacting our financial resources.
+
+##### B. Operational Risks
+
+1. **Product Withdrawal:** Potential requirement to withdraw CanvassPro from the market until the matter is resolved, disrupting revenue streams and customer relationships.
+2. **R&D Impact:** The case could impact ongoing research and development, delaying future product launches and innovation.
+
+##### C. Reputational Risks
+
+1. **Customer Trust:** Negative publicity and the perception of Canvassian’s products being legally and technically compromised could erode customer trust.
+2. **Market Position:** The potential case could affect market confidence in Canvassian, beneficial to our competitors including TechInnovators.
+
+#### 4. Financial Impact
+
+The immediate financial implications include potential legal fees and the possibility of damages payable to TechInnovators. The longer-term financial impacts could include loss of market share and decreased future revenues if product distribution is halted.
+
+#### 5. Recommended Action Plan
+
+##### A. Legal Strategy
+
+1. **Engagement with External Counsel:** Hire a specialized IP law firm to evaluate the merits of TechInnovators’ claim and formulate a defense strategy.
+2. **Patent Review:** Conduct an internal review of the patent in question to ascertain any possible infringement and document how CanvassPro was developed independently.
+3. **Settlement Discussions:** Explore the possibility of a negotiated settlement to minimize financial exposure and operational disruption.
+
+##### B. Operational Adjustments
+
+1. **Product Contingency Plan:** Develop a contingency plan for CanvassPro that includes potential product modifications or alternative offerings to mitigate market disruption.
+2. **Client Communication:** Prepare a transparent communication plan for clients, ensuring they remain informed and reassured.
+
+##### C. Financial Preparedness
+
+1. **Budget Allocation:** Set aside a legal contingency budget to cover associated legal costs and potential damage awards.
+2. **Insurance Review:** Review and potentially enhance our business litigation insurance coverages.
+
+#### 6. Conclusion
+
+The potential patent infringement lawsuit poses a significant risk to Canvassian Pty Ltd on multiple fronts – legal, operational, financial, and reputational. A proactive and comprehensive action plan is critical to mitigate these risks and protect the company’s interests.
+
+The Board is requested to:
+
+1. Approve the engagement of external IP legal counsel.
+2. Authorize a budget allocation for anticipated legal fees.
+3. Approve the proposed operational and financial contingency plans.
+
+**Approved by:**
+Jane Wu, CEO
+
+**Prepared by:**
+Johnathan Davies, General Counsel

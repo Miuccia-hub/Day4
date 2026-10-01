@@ -1,0 +1,87 @@
+**SOFTWARE LICENSE AGREEMENT**
+
+**THIS SOFTWARE LICENSE AGREEMENT** (the "Agreement") is entered into as of this 1st day of October 2023 by and between Canvassian Pty Ltd., an Australian Company with its principal place of business located at 123 Software Ave, Sydney, NSW, Australia (hereinafter referred to as "Licensor") and TechDynamics Ltd., a company incorporated and existing under the laws of New Zealand with its principal place of business located at 456 Technology Road, Auckland, New Zealand (hereinafter referred to as "Licensee").
+
+**RECITALS**
+
+WHEREAS, Licensor is the owner of certain proprietary software described as CANVASPRO (the "Software");
+
+WHEREAS, Licensee desires to obtain a non-exclusive license to use the Software upon the terms and conditions hereinafter set forth;
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises herein contained, the parties hereto agree as follows:
+
+1. **Grant of License**
+
+   1.1 Licensor hereby grants to Licensee, and Licensee hereby accepts, a non-exclusive, non-transferable license to use the Software and the related documentation (the "Documentation") for the term and under the conditions set forth in this Agreement.
+
+   1.2 The Software may be installed and used by Licensee solely for the operations of Licensee at its principal place of business and its branching sites.
+
+2. **Term of Agreement**
+
+   2.1 The term of this Agreement shall commence on the date hereof and shall continue for a period of three (3) years unless terminated earlier pursuant to the provisions of this Agreement.
+
+   2.2 Upon the expiration of the initial term, this Agreement shall automatically renew for additional periods of one (1) year each unless either party gives written notice of its intent not to renew at least sixty (60) days prior to the expiration of the then-current term.
+
+3. **License Fees**
+
+   3.1 In consideration for the license granted under this Agreement, Licensee shall pay to Licensor a License Fee of AUD $50,000 per year, payable annually in advance.
+
+   3.2 All payments due under this Agreement shall be non-refundable and shall be made without any deduction, set-off, or counterclaim.
+
+4. **Maintenance and Support**
+
+   4.1 Licensor agrees to provide Licensee with maintenance and support services for the Software during the term of this Agreement in accordance with Licensor's standard maintenance and support terms.
+
+   4.2 Any additional support or customization services requested by Licensee shall be billed at Licensor's standard rates.
+
+5. **Ownership of Intellectual Property**
+
+   5.1 Licensee acknowledges that the Software and Documentation, and all updates, modifications, enhancements, and derivative works thereof, are the sole and exclusive property of Licensor and that Licensee has no rights in or to the Software or the Documentation other than the right to use them in accordance with the terms of this Agreement.
+
+6. **Confidentiality**
+
+   6.1 Licensee agrees to maintain the Software and Documentation in strict confidence and not to disclose the Software or Documentation to any third party without the prior written consent of Licensor.
+
+   6.2 Licensee shall take all reasonable steps to protect the Software and Documentation from unauthorized access, copying, or use.
+
+7. **Warranties and Disclaimers**
+
+   7.1 Licensor warrants that the Software will perform substantially in accordance with the Documentation for a period of ninety (90) days from the date of delivery.
+
+   7.2 EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE SOFTWARE AND DOCUMENTATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+8. **Limitation of Liability**
+
+   8.1 In no event shall Licensor be liable for any indirect, incidental, special, or consequential damages arising out of or in connection with this Agreement, the Software, or the Documentation, whether or not such damages were foreseeable.
+
+   8.2 Licensor's liability to Licensee for any claim arising under this Agreement shall in no event exceed the amount of the License Fees paid by Licensee to Licensor under this Agreement during the twelve (12) month period immediately preceding the event giving rise to such claim.
+
+9. **Termination**
+
+   9.1 Either party may terminate this Agreement if the other party breaches any material term of this Agreement and fails to cure such breach within thirty (30) days following receipt of written notice thereof from the non-breaching party.
+
+   9.2 Upon termination of this Agreement, Licensee shall immediately cease all use of the Software and Documentation and return or destroy all copies thereof in its possession.
+
+10. **Governing Law and Dispute Resolution**
+
+   10.1 This Agreement shall be governed by and construed in accordance with the laws of New South Wales, Australia, without regard to its conflicts of law principles.
+
+   10.2 Any dispute arising out of or in connection with this Agreement shall be resolved through amicable negotiation between the parties. If the parties are unable to resolve the dispute through negotiation, the dispute shall be submitted to the courts of New South Wales, Australia, whose jurisdiction the parties hereby submit to.
+
+**IN WITNESS WHEREOF,** the parties hereto have executed this Software License Agreement as of the day and year first above written.
+
+**CANVASSIAN PTY LTD.**
+
+By: _______________________________
+
+Name: Jane Wu
+
+Title: CEO
+
+**TECHDYNAMICS LTD.**
+
+By: _______________________________
+
+Name: John Smith
+
+Title: CEO

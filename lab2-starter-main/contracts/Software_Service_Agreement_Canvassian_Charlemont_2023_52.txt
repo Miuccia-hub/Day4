@@ -1,0 +1,97 @@
+**Software Service Agreement**
+
+**This Software Service Agreement** (“Agreement”) is entered into effective as of February 1, 2023 (“Effective Date”) by and between:
+
+**Canvassian Pty Ltd**  
+ACN: 123 456 789  
+Address: 123 Software Street, Sydney, NSW, 2000, Australia  
+(Hereinafter referred to as "Provider")
+
+AND
+
+**Charlemont Ltd**  
+Company Number: 654 321 987  
+Address: 456 Corporate Lane, Melbourne, VIC, 3000, Australia  
+(Hereinafter referred to as "Client")
+
+**Recitals**
+
+WHEREAS, the Provider is engaged in the business of providing software development and related services; and
+
+WHEREAS, the Client desires to obtain software services provided by the Provider, and the Provider agrees to provide such services under the terms and conditions set forth below;
+
+NOW, THEREFORE, in consideration of the mutual promises contained herein, the parties agree as follows:
+
+**1. Services**
+
+1.1. The Provider agrees to provide the software services (“Services”) as specified in Exhibit A attached hereto and incorporated herein by reference.
+
+1.2. The Provider will use commercially reasonable efforts to perform the Services in accordance with the timeline specified in Exhibit A.
+
+**2. Compensation**
+
+2.1. The Client agrees to pay the Provider for the Services in accordance with the payment schedule and rates set forth in Exhibit B attached hereto and incorporated herein by reference.
+
+2.2. All payments shall be due within thirty (30) days from the date of invoice from the Provider.
+
+**3. Term and Termination**
+
+3.1. This Agreement shall commence on the Effective Date and shall continue for a period of one (1) year unless earlier terminated pursuant to this Section 3.
+
+3.2. Either party may terminate this Agreement for convenience by providing ninety (90) days prior written notice to the other party.
+
+3.3. Either party may terminate this Agreement for material breach by the other party, provided that the breaching party has been given thirty (30) days prior written notice detailing the breach and has failed to cure within that time.
+
+**4. Confidentiality**
+
+4.1. During the term of this Agreement, each party may have access to confidential information of the other party. “Confidential Information” means any information, technical data, or know-how, including but not limited to, that which relates to research, products, software, services, clients, markets, developments, inventions, processes, designs, drawings, engineering, marketing, techniques, or finances, which is marked or otherwise designated as confidential or proprietary.
+
+4.2. The receiving party agrees to protect the confidentiality of the disclosing party’s Confidential Information with at least the same degree of care that it uses to protect its own confidential and proprietary information, but in no event less than reasonable care.
+
+**5. Intellectual Property Rights**
+
+5.1. All intellectual property rights in the materials developed during the course of the Services shall be owned exclusively by the Provider.
+
+5.2. The Provider hereby grants the Client a non-exclusive, non-transferable license to use the materials solely for its internal business purposes.
+
+**6. Warranties and Disclaimers**
+
+6.1. The Provider represents and warrants that the Services will be performed in a professional and workmanlike manner.
+
+6.2. Except as expressly set forth in this Agreement, the Provider disclaims all other warranties, express or implied, including any implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+**7. Limitation of Liability**
+
+7.1. In no event shall either party be liable for any special, incidental, indirect, or consequential damages arising out of or in connection with this Agreement.
+
+7.2. The total liability of the Provider to the Client under this Agreement for any claim arising from the Services shall not exceed the total amount paid by the Client to the Provider during the twelve (12) month period preceding the claim.
+
+**8. Miscellaneous**
+
+8.1. This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior oral and written agreements, understandings, negotiations, and communications regarding such subject matter.
+
+8.2. This Agreement may only be amended in writing signed by authorized representatives of both parties.
+
+8.3. This Agreement shall be governed by and construed in accordance with the laws of New South Wales, Australia.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement by their duly authorized representatives as of the Effective Date.
+
+**For Canvassian Pty Ltd:**   
+By: _________________________  
+Name: Jane Wu  
+Title: CEO  
+Date: February 1, 2023
+
+**For Charlemont Ltd:**   
+By: _________________________  
+Name: Michael Rodriguez  
+Title: CFO  
+Date: February 1, 2023
+
+**Exhibit A – Description of Services**
+
+[Detail the services to be provided, including specific deliverables, milestones, and timelines.]
+
+**Exhibit B – Payment Schedule and Rates**
+
+[Include details of payment terms, rates, and any other pertinent payment information.]

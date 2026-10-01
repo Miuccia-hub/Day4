@@ -1,0 +1,99 @@
+**Software Services Agreement**
+
+**This Software Services Agreement** ("Agreement") is entered into on this 12th day of October, 2023, by and between:
+
+**Canvassian Pty Ltd** ("Canvassian"), 
+an Australian corporation having its principal place of business at 123 Tech Avenue, Sydney, NSW 2000, Australia
+
+AND 
+
+**Bravocat Inc.** ("Bravocat"),
+a corporation organized under the laws of the State of Delaware, USA and having its principal place of business at 456 Innovation Drive, San Francisco, CA 94105, USA.
+
+**1. Definitions**
+
+1.1 **"Services"** shall mean the software development, support, and maintenance services provided by Canvassian to Bravocat under this Agreement.
+
+1.2 **"Software"** shall mean the proprietary software developed by Canvassian, including but not limited to updates, upgrades, patches, and enhancements.
+
+1.3 **"Documentation"** shall mean the user manuals, technical manuals, and any other materials provided by Canvassian relating to the Software.
+
+**2. Scope of Services**
+
+2.1 Canvassian agrees to provide Bravocat with the Services as described in Exhibit A of this Agreement.
+
+2.2 Any additional services outside the scope defined in Exhibit A must be agreed in writing by both parties through a Change Order.
+
+**3. Term**
+
+3.1 This Agreement shall commence on the Effective Date and shall continue for a period of three (3) years unless terminated earlier in accordance with the provisions of this Agreement.
+
+**4. Compensation**
+
+4.1 Bravocat shall pay Canvassian the fees as detailed in Exhibit B. 
+
+4.2 Payment terms are net thirty (30) days from the date of invoice.
+
+**5. Intellectual Property**
+
+5.1 Canvassian retains all right, title, and interest in and to the Software and Documentation, including any and all intellectual property rights.
+
+5.2 Bravocat is granted a non-exclusive, non-transferable license to use the Software and Documentation solely for its internal business purposes.
+
+**6. Confidentiality**
+
+6.1 Each party agrees to keep confidential all non-public information obtained from the other party and to use such information only for the purposes of fulfilling its obligations under this Agreement.
+
+6.2 This obligation of confidentiality shall survive the termination of this Agreement.
+
+**7. Warranties**
+
+7.1 Canvassian warrants that the Services will be performed in a professional and workmanlike manner.
+
+7.2 Canvassian warrants that the Software will operate substantially as described in the Documentation.
+
+**8. Limitation of Liability**
+
+8.1 In no event shall either party be liable to the other for any indirect, incidental, special, or consequential damages, including loss of revenue or profits, even if advised of the possibility of such damages.
+
+8.2 The total liability of either party for any claim arising under this Agreement shall not exceed the amount paid under this Agreement in the twelve (12) months preceding the claim.
+
+**9. Termination**
+
+9.1 Either party may terminate this Agreement by providing ninety (90) days written notice to the other party.
+
+9.2 Either party may terminate this Agreement immediately in the event of a material breach by the other party.
+
+**10. Governing Law**
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia, without regard to its conflict of law principles.
+
+**11. Entire Agreement**
+
+This Agreement, including any Exhibits, constitutes the entire agreement between the parties and supersedes all prior or contemporaneous oral or written agreements concerning the subject matter hereof.
+
+**In Witness Whereof**, the parties hereto have caused this Agreement to be executed by their duly authorized representatives as of the Effective Date.
+
+**Canvassian Pty Ltd**:
+
+/s/ Jane Wu  
+_Jane Wu_  
+Chief Executive Officer  
+
+**Bravocat Inc.**:
+
+/s/ Robert King  
+_Robert King_  
+Chief Executive Officer  
+
+**Exhibit A: Scope of Services**
+
+* Detailed description of software development, maintenance, and support services to be provided.
+
+**Exhibit B: Compensation**
+
+* Fee structure, payment milestones, and any additional expenses to be covered by Bravocat.
+
+---
+
+This Agreement has been reviewed and signed by the authorized representatives of Canvassian Pty Ltd and Bravocat Inc. as of the Effective Date.

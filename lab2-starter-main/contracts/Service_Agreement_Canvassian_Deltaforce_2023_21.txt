@@ -1,0 +1,77 @@
+**Service Agreement**
+
+**This Service Agreement (the “Agreement”) is made and entered into as of this 1st day of September 2023, by and between:**
+
+**Canvassian Pty Ltd,** an Australian software company having its principal place of business at 123 Innovation Drive, Sydney, NSW 2000, Australia (hereinafter referred to as "Service Provider"),
+
+and
+
+**Deltaforce Ltd,** a corporation having its principal place of business at 456 Business Lane, Melbourne, VIC 3000, Australia (hereinafter referred to as "Client").
+
+**WHEREAS:**
+
+1. The Service Provider is in the business of providing software development, maintenance, and support services.
+2. The Client desires to engage the Service Provider to provide certain services, and the Service Provider agrees to provide such services under the terms and conditions set forth in this Agreement.
+
+**NOW, THEREFORE, in consideration of the mutual covenants herein contained, the parties hereto agree as follows:**
+
+### 1. **Services Provided**
+1.1 The Service Provider agrees to provide software development, maintenance, and support services as detailed in Schedule A (“Services”).
+1.2 The Client may request additional services or changes to the Services, which will be documented and agreed upon by both parties in writing.
+
+### 2. **Term and Termination**
+2.1 This Agreement shall commence on the date first written above and continue for an initial term of one (1) year, unless terminated earlier in accordance with the terms of this Agreement.
+2.2 Either party may terminate this Agreement by providing thirty (30) days written notice to the other party.
+2.3 In the event of termination, the Client shall pay for all Services rendered up to the effective date of termination.
+
+### 3. **Compensation and Payment**
+3.1 The Client shall pay the Service Provider for the Services at the rates set forth in Schedule B.
+3.2 Invoices will be issued monthly and are payable within thirty (30) days of the invoice date.
+3.3 Late payments shall incur interest at a rate of 1.5% per month from the due date until paid.
+
+### 4. **Confidentiality**
+4.1 Each party agrees to maintain the confidentiality of any proprietary or confidential information disclosed by the other party under this Agreement.
+4.2 The obligations of confidentiality shall survive termination of this Agreement.
+
+### 5. **Intellectual Property**
+5.1 All intellectual property rights in any materials created by the Service Provider in the course of providing the Services shall vest in and remain with the Client.
+5.2 The Service Provider grants the Client a perpetual, royalty-free license to use any pre-existing materials owned by the Service Provider and incorporated into the deliverables.
+
+### 6. **Warranties and Indemnities**
+6.1 The Service Provider warrants that the Services will be performed with due care and skill and in a professional and workmanlike manner.
+6.2 The Client shall indemnify and hold harmless the Service Provider from and against any and all claims, liabilities, losses, damages, and expenses arising out of or in connection with the Client’s use of the Services.
+
+### 7. **Limitation of Liability**
+7.1 To the maximum extent permitted by law, the Service Provider’s total liability to the Client for any cause of action arising out of or in connection with this Agreement shall not exceed the total fees paid by the Client to the Service Provider under this Agreement.
+
+### 8. **Governing Law**
+8.1 This Agreement shall be governed by and construed in accordance with the laws of the Commonwealth of Australia, and the parties submit to the exclusive jurisdiction of the courts of Australia.
+
+**IN WITNESS WHEREOF, the parties hereto have executed this Service Agreement as of the day and year first above written.**
+
+**Canvassian Pty Ltd**
+
+By: __________________________  
+Name: Jane Wu  
+Title: CEO
+
+**Deltaforce Ltd**
+
+By: __________________________  
+Name: John Smith  
+Title: CEO
+
+---
+
+**Schedule A: Services**
+
+- Software development for custom applications.
+- Ongoing maintenance of existing software solutions.
+- Technical support available 24/7.
+- Regular updates and patch management.
+
+**Schedule B: Compensation**
+
+- Hourly rate: AUD 150 per hour for development services.
+- Monthly maintenance fee: AUD 5,000.
+- Technical support fee: AUD 2,000 per month.

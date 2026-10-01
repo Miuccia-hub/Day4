@@ -1,0 +1,93 @@
+**Software Licensing Agreement**
+
+**This Software Licensing Agreement ("Agreement") is entered into as of this 1st day of October, 2023, by and between:**
+
+**Canvassian Pty Ltd**, an Australian corporation with its principal place of business at 123 Technology Drive, Sydney, NSW 2000, Australia ("Licensor"),
+
+**and**
+
+**Echona Ltd**, a corporation with its principal place of business at 45 Innovation Road, Melbourne, VIC 3000, Australia ("Licensee").
+
+**WHEREAS:**
+
+A. Licensor is in the business of developing and licensing proprietary software products.
+B. Licensee desires to obtain, and Licensor desires to grant, a license to use Licensor's software under the terms and conditions set forth herein.
+
+**NOW, THEREFORE, in consideration of the mutual covenants and promises set forth herein, the parties agree as follows:**
+
+1. **DEFINITIONS**
+
+   1.1 "Software" shall mean the proprietary software product known as "CanvassPro Suite" developed and owned by Licensor.
+
+   1.2 "Documentation" shall mean user manuals, technical materials, and other documents relating to the Software provided by Licensor to Licensee.
+
+   1.3 "License Fee" shall mean the fee payable by Licensee to Licensor for the license granted under this Agreement.
+
+2. **GRANT OF LICENSE**
+
+   2.1 Subject to the terms and conditions of this Agreement, Licensor hereby grants to Licensee a non-exclusive, non-transferable license to use the Software and Documentation for Licensee's internal business purposes.
+
+3. **LICENSE FEE AND PAYMENT TERMS**
+
+   3.1 Licensee shall pay Licensor a one-time License Fee of AUD 250,000 upon execution of this Agreement.
+
+   3.2 All payments shall be made in Australian Dollars and shall be payable within thirty (30) days of the date of the invoice issued by Licensor.
+
+4. **TERM AND TERMINATION**
+
+   4.1 This Agreement shall commence on the Effective Date and shall continue for a period of three (3) years unless earlier terminated in accordance with this Agreement.
+
+   4.2 Either party may terminate this Agreement upon thirty (30) days' written notice if the other party materially breaches any term or condition of this Agreement and fails to cure such breach within the notice period.
+
+   4.3 Upon termination of this Agreement, Licensee shall cease all use of the Software and Documentation and shall return or destroy all copies of the Software and Documentation in Licensee's possession.
+
+5. **CONFIDENTIALITY**
+
+   5.1 Each party agrees to maintain the confidentiality of all confidential information disclosed by the other party. Neither party shall use or disclose the other party's confidential information except as expressly permitted under this Agreement.
+
+6. **INTELLECTUAL PROPERTY RIGHTS**
+
+   6.1 Licensee acknowledges that all intellectual property rights in the Software and Documentation are owned by Licensor. Licensee shall have no rights in the Software or Documentation other than the rights expressly granted under this Agreement.
+
+7. **LIMITATION OF LIABILITY**
+
+   7.1 In no event shall Licensor be liable for any indirect, incidental, special, or consequential damages arising out of or in connection with this Agreement.
+
+8. **WARRANTY**
+
+   8.1 Licensor warrants that it has the right to grant the license to use the Software and Documentation as set forth in this Agreement.
+
+9. **GENERAL PROVISIONS**
+
+   9.1 **Governing Law**: This Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia.
+
+   9.2 **Entire Agreement**: This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior agreements and understandings, whether written or oral.
+
+   9.3 **Amendment**: No amendment or modification of this Agreement shall be valid unless in writing and signed by both parties.
+
+   9.4 **Severability**: If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+   9.5 **Waiver**: No waiver of any term or condition of this Agreement shall be effective unless in writing and signed by the party against whom the waiver is to be enforced. 
+
+**IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Effective Date.**
+
+**LICENSOR: Canvassian Pty Ltd**
+
+By: ___________________________  
+Name: Jane Wu  
+Title: CEO  
+Date: 01 October 2023
+
+**LICENSEE: Echona Ltd**
+
+By: ___________________________  
+Name: Mark Johnson  
+Title: CEO  
+Date: 01 October 2023
+
+**Witness:**
+
+By: ___________________________  
+Name: Sarah Miller  
+Title: Legal Counsel, Canvassian Pty Ltd  
+Date: 01 October 2023

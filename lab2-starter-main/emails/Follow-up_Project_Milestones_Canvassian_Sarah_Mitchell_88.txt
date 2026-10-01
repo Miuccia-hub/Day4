@@ -1,0 +1,26 @@
+**Subject:** Follow-up on Project Milestones and Next Steps
+
+**From:** Sarah Mitchell, Project Manager  
+**To:** Edon Mask, CTO
+
+---
+
+Dear Edon,
+
+I hope this message finds you well. I wanted to take a moment to follow up on our recent discussions regarding the upcoming milestones for the Canvassian software development project.
+
+As we approach the end of Q3, I believe it’s crucial for us to have a clear understanding of our expectations and next steps. As of today, we have completed the initial phases of development and are preparing for the integration testing scheduled for next month.
+
+Could we schedule a meeting next week to go over the project timeline and address any potential roadblocks? I will also prepare a status report highlighting the progress and areas that may need your attention.
+
+Please let me know your available times, and I’ll coordinate with the rest of the team.
+
+Thank you!
+
+Best regards,
+
+Sarah Mitchell  
+Project Manager  
+Canvassian Pty Ltd  
+sarah.mitchell@canvassian.com  
+(02) 5555 0190

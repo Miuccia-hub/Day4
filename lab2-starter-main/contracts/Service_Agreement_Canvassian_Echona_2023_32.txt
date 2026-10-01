@@ -1,0 +1,97 @@
+**SERVICE AGREEMENT**
+
+**THIS AGREEMENT** is made and entered into as of this 1st day of October, 2023, by and between:
+
+**Canvassian Pty Ltd**, an Australian company having its principal place of business at 123 Innovation Drive, Sydney, NSW, Australia (hereinafter referred to as "Service Provider"),
+
+AND
+
+**Echona**, a company incorporated in Australia with its principal place of business at 456 Business Avenue, Melbourne, VIC, Australia (hereinafter referred to as "Client").
+
+**WHEREAS:**
+
+A. The Service Provider is in the business of providing software services and solutions.
+
+B. The Client desires to engage the Service Provider to provide certain software services under the terms and conditions set forth below.
+
+**NOW, THEREFORE**, in consideration of the mutual promises and covenants hereinafter set forth, the parties hereto agree as follows:
+
+### 1. **SERVICES**
+1.1 **Description of Services**: The Service Provider agrees to provide the following services to the Client (the "Services"):
+   - Custom software development for Client’s specific business needs.
+   - Ongoing maintenance and support for existing software systems.
+   - Implementation of software updates and patches.
+
+1.2 **Deliverables**: All software and documentation deliverables shall be provided in accordance with the specifications agreed upon by both parties.
+
+### 2. **TERM**
+2.1 **Initial Term**: This Agreement shall commence on the date first written above and shall continue for a period of one (1) year, unless earlier terminated in accordance with the provisions of this Agreement.
+
+2.2 **Renewal**: This Agreement shall automatically renew for successive one (1) year terms unless either party provides written notice of non-renewal at least thirty (30) days prior to the end of the then-current term.
+
+### 3. **COMPENSATION**
+3.1 **Payment**: In consideration for the Services provided, the Client shall pay the Service Provider in accordance with the fee schedule set out in Appendix A attached hereto and made a part of this Agreement.
+
+3.2 **Invoicing**: The Service Provider shall invoice the Client on a monthly basis, and the Client shall make payment within thirty (30) days of receipt of each invoice.
+
+3.3 **Late Payment**: Any payment not received by the due date shall accrue interest at a rate of 1.5% per month until paid in full.
+
+### 4. **CONFIDENTIALITY**
+4.1 **Confidential Information**: Each party agrees that all information provided by one party to the other in connection with this Agreement, which is designated as confidential or which should reasonably be understood to be confidential given the nature of the information and circumstances of disclosure, shall be deemed "Confidential Information." 
+
+4.2 **Non-Disclosure**: Each party agrees not to disclose any Confidential Information to any third party and not to use any Confidential Information for any purpose other than as contemplated by this Agreement.
+
+### 5. **INTELLECTUAL PROPERTY**
+5.1 **Ownership of Work Product**: All software, documentation, and other materials developed under this Agreement (the "Work Product") shall be the property of the Service Provider, except that the Client shall have a non-exclusive, non-transferable, perpetual license to use the Work Product for its internal business purposes.
+
+### 6. **WARRANTIES AND DISCLAIMERS**
+6.1 **Service Provider Warranties**: The Service Provider warrants that the Services will be performed in a professional and workmanlike manner, consistent with industry standards.
+
+6.2 **Disclaimer**: Except as expressly set forth herein, the Services and Work Product are provided "as is" without any warranty of any kind and all warranties, whether express, implied, statutory or otherwise, including, without limitation, any implied warranties of merchantability or fitness for a particular purpose, are hereby disclaimed.
+
+### 7. **LIMITATION OF LIABILITY**
+7.1 Neither party shall be liable to the other for any indirect, incidental, special, punitive, or consequential damages arising out of or in connection with this Agreement, even if such damages were foreseeable or the party has been advised of the possibility of such damages.
+
+### 8. **TERMINATION**
+8.1 **Termination for Convenience**: Either party may terminate this Agreement at any time for convenience by providing sixty (60) days prior written notice to the other party.
+
+8.2 **Termination for Cause**: Either party may terminate this Agreement immediately upon written notice if the other party breaches any material term of this Agreement and such breach is not cured within thirty (30) days of receipt of notice from the non-breaching party specifying the nature of the breach.
+
+### 9. **GENERAL PROVISIONS**
+9.1 **Governing Law**: This Agreement shall be governed by and construed in accordance with the laws of Australia, without regard to its conflict of laws principles.
+
+9.2 **Entire Agreement**: This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior agreements and understandings, whether written or oral, relating to such subject matter.
+
+9.3 **Amendments**: No amendment or modification of this Agreement shall be valid or binding unless made in writing and signed by both parties hereto.
+
+9.4 **Severability**: If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+9.5 **Waiver**: No waiver of any term or condition of this Agreement shall be valid or binding unless made in writing and signed by the party against whom the waiver is to be effective.
+
+**IN WITNESS WHEREOF**, the parties hereto have executed this Agreement as of the date first above written.
+
+---
+
+**SERVICE PROVIDER: Canvassian Pty Ltd**
+
+By: ____________________________
+
+Name: Jane Wu
+
+Title: CEO
+
+---
+
+**CLIENT: Echona**
+
+By: ____________________________
+
+Name: Richard Davis
+
+Title: CEO
+
+---
+
+**Appendix A - Fee Schedule**
+
+[Details of the fee schedule go here.]

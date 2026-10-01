@@ -1,0 +1,21 @@
+Subject: Update on Project Deliverables
+
+From: Sarah Johnson <s.johnson@canvassian.com>  
+To: Michael Peterson <m.peterson@canvassian.com>  
+Cc: Jane Wu <j.wu@canvassian.com>
+
+Dear Michael,
+
+I hope this message finds you well. I wanted to provide you with a brief update on the current status of our ongoing projects.
+
+The development team has made significant progress on the new features requested by our clients. Specifically, the integration work for Charlemont is on track for completion by the end of this month. I anticipate we will have a demo ready for their review well ahead of schedule. 
+
+Please let me know if you have any questions or if there’s anything else you would like to discuss. Looking forward to our meeting this Thursday!
+
+Best regards,
+
+Sarah Johnson  
+Product Manager  
+Canvassian Pty Ltd  
+s.johnson@canvassian.com  
+Phone: +61 2 5555 1234

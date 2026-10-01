@@ -1,0 +1,23 @@
+Subject: Update on Project Milestones
+
+From: Sophie Langston <sophie.langston@canvassian.com>  
+To: James Patel <james.patel@canvassian.com>  
+CC: Jane Wu <jane.wu@canvassian.com>  
+
+Dear James,
+
+I hope this message finds you well.
+
+I wanted to take a moment to provide you with an update on the current project milestones for our new software release. As of today, we are on track to meet our timelines as outlined in our project plan. The development team has completed the initial testing phase, and we are now moving into the user acceptance testing phase, which is scheduled to begin next week.
+
+Please remind the team to document any issues they encounter during testing as we need to ensure both quality and user experience. Additionally, I’d like you to prepare a brief presentation for our next team meeting to showcase our progress and address any roadblocks that may arise.
+
+Let me know if you require any further information or assistance.
+
+Best regards,
+
+Sophie Langston  
+Project Manager  
+Canvassian Pty Ltd  
+Phone: +61 2 1234 5678  
+Email: sophie.langston@canvassian.com  
